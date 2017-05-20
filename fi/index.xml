@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asko Nivala on Asko Nivala</title>
+    <link>/fi/</link>
+    <description>Recent content in Asko Nivala on Asko Nivala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 Asko Nivala</copyright>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/fi/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tutkimuksen toistettavuudesta</title>
+      <link>/fi/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
+      
+      <guid>/fi/post/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;p&gt;Tämä sivusto toimi vuosina 2014—2017 GitHubin käyttämän &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;-tulkin kautta, mutta olen nyt siirtänyt sivut Hugo-alustaan. Syynä muutokseen on &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt; ja sen tuoma tuki R Markdown -kielelle. Aiempikin sivusto perustui Markdownin kääntämiseen staattisiksi HTML-sivuiksi, mutta R Markdown tuo mukanaan erään mielenkiintoisen lisän: se mahdollistaa ohjelmakoodin siteeraamisen ohella sen suorittamisen.&lt;/p&gt;
+&lt;p&gt;Hieman Jupyter Notebookin tavoin R Markdown mahdollistaa ohjelmakoodin ajamisen HTML-sivuilla. Ohessa on varsin yksinkertaisen funktion lähdekoodi ja alle sen suorittamisen tuottama kuvaaja.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;curve(x^2, from=1, to=50, , xlab=&amp;quot;x&amp;quot;, ylab=&amp;quot;y&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown.fi_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Asia ei ehkä vaikuta kovin kummoiselta tavallisen blogistin näkökulmasta, mutta digitaalisten ihmistieteiden kannalta R Markdown voi osoittautua vallankumoukselliseksi. Humanistit eivät ole tottuneet ajattelemaan päätelmiensä toistettavuutta, koska hermeneuttiset tulkinnat ovat ainakin jossain määrin &lt;em&gt;ad hoc&lt;/em&gt; -luonteisia.&lt;/p&gt;
+&lt;p&gt;Algoritmeihin perustuvat menetelmät poikkeavat siinä suhteessa tulkinnoista, että ne ovat lähtökohtaisesti toistettavissa. R Markdown mahdollistaa näin digitaalisen tutkimusprosessin tekemisen askel askeleelta läpinäkyväksi ja toimii samalla myös erinomaisena pedagogisena välineenä.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Romantic Cartographies</title>
+      <link>/fi/project/cartography/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/project/cartography/</guid>
+      <description>
+
+&lt;h3 id=&#34;romantic-cartographies-lived-and-imagined-space-in-english-and-german-romantic-texts-1790-1840&#34;&gt;Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840&lt;/h3&gt;
+
+&lt;p&gt;Most texts are spatial implying a network of important places. This was especially typical of the Romantic era (1790–1840) that was characterised by the growing interest in historical and natural sites. My postdoctoral research project provides a new interpretation of English and German Romanticism by changing the focus from temporal to spatial. I analyse the spatiality of Romantic texts by reconstructing the various geographic maps they implied. My specific focus is on the tension between metropolises, small towns, countryside and historical sites. The project transcends the narrow focus on single Romantic author, analysing a big textual corpus digitally in addition to close reading.&lt;/p&gt;
+
+&lt;p&gt;My primary sources consist of a representative corpus of English and German Romantic texts including canonical works but also texts by women, minority and non-canonical authors. The most popular genres of Romanticism were novel and lyric poetry; but also essays, biographies, literary criticism, travelogues and historiography are included in the corpus. The metadata abstracted from correspondence is used to build another database to enable comparison between fictive and actual geographic maps of Romantic spatiality.&lt;/p&gt;
+
+&lt;p&gt;The project focuses thematically on the destabilisation of the centre-periphery distinction during the Romanticism and it has three main objectives. First, building a database of place names mentioned in the primary sources and visualise them on historical maps. I will apply existing geoparsing algorithms and also write a new Python programme called Strabo for this. The resulting database will be then published as an interactive website open for other scholars and general public. The second objective is to develop a research methodology for classifying place names and embedding geographical locations with emotional and cognitive judgements. The aim of this objective is to avoid the reduction of the lived space to a Cartesian coordinate grid, typical of the spatial humanities projects. The third objective is using the spatial database as a heuristic device for finding the relevant text passages for close reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
+      <link>/fi/publication/system/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying BLAST to Text Reuse Detectionin Finnish Newspapers and Journals, 1771–1910</title>
+      <link>/fi/publication/blast/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/blast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMHIS</title>
+      <link>/fi/project/comhis/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/project/comhis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling Notions of Culture</title>
+      <link>/fi/project/travelling/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/project/travelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
+      <link>/fi/publication/schlegel-monograph/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/schlegel-monograph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
+      <link>/fi/publication/travelling/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/travelling/</guid>
+      <description>
+
+&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+
+&lt;p&gt;The chapters of this volume concentrate on the following themes: What were the sites of culture, civilization and &lt;em&gt;Bildung&lt;/em&gt; and how were these sites employed in defining these concepts? What kind of borders did this process of definition and its inherent spatial imagination produce? What were the connecting routes between the supposed centers and peripheries? What were the strategies of envisioning, negotiating and transforming cultural territories in early nineteenth-century Europe?&lt;/p&gt;
+
+&lt;p&gt;This book adds new perspectives on ways of approaching spatiality in history by investigating, for example: the decisive role of the French revolution, the persistent interest in classical civilization and its sites, emerging urbanism and the culture of the cities, the changing constellations between centers and peripheries and the colonial extensions, or transfigurations, of culture. It also pays attention to the spatiality of culture as a metaphor, but simultaneously emphasizes the production of space in an era of technological innovation and change.&lt;/p&gt;
+
+&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction (Asko Nivala, Hannu Salmi and Jukka Sarjala)&lt;/li&gt;
+&lt;li&gt;Part I: &lt;em&gt;Bildung&lt;/em&gt;, Civilisation and Cultural Space
+
+&lt;ul&gt;
+&lt;li&gt;1. Catastrophic Revolution and the Rise of Romantic &lt;em&gt;Bildung&lt;/em&gt; (Asko Nivala)&lt;/li&gt;
+&lt;li&gt;2. Classical Civilisation Confronts Modern Nationalism: Greek Colonies in Early Nineteenth-Century Scholarship (Janne Tunturi)&lt;/li&gt;
+&lt;li&gt;3. Between Nostalgia and Utopia: The Construction of Jewish Cultural Space in Early Nineteenth-Century Europe (Jakob Egholm Feldt and Cecilie S. Schrøder Simonsen)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Part II: Centres and Borderlands
+
+&lt;ul&gt;
+&lt;li&gt;4. The Colonial Displacement of Culture: Social Spaces and Boundaries in a Nineteenth-Century Diary from Greenland (Inge Seiding)&lt;/li&gt;
+&lt;li&gt;5. Nordic Travellers Between the Centres and Peripheries of Civilisation (Heli Rantala)&lt;/li&gt;
+&lt;li&gt;6. The Kalevala and the Cartography of Poetry and Knowledge (Juhana Saarelainen)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Part III: Challenging Spatial Boundaries
+
+&lt;ul&gt;
+&lt;li&gt;7. Viral Virtuosity and the Itineraries of Celebrity Culture (Hannu Salmi)&lt;/li&gt;
+&lt;li&gt;8. Charles Dickens and the &amp;ldquo;Vagabond Savage&amp;rdquo; (Adam Hansen)&lt;/li&gt;
+&lt;li&gt;9. Travelling Through Urban Space: The Romantic Imagination of E. T. A. Hoffmann (Jukka Sarjala)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Appendix: Further Reading&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
+      <link>/fi/publication/catastrophic/</link>
+      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/catastrophic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friedrich Schlegelin historianfilosofia (2007—2015)</title>
+      <link>/fi/project/schlegel/</link>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/project/schlegel/</guid>
+      <description>
+
+&lt;p&gt;Vuonna 2015 valmistunut väitöskirjani käsitteli kulta-aikaa ja Jumalan valtakuntaa Friedrich Schlegelin (1772–1829) varhaisromanttisessa ajattelussa. Hanketta ovat tukeneet Suomen Kulttuurirahasto 3-vuotisella työskentelyapurahalla sekä Oskar Öflunds Stifelse viimeistelyapurahalla. Työskentelin myös työn loppuvaiheessa Suomen Akatemian rahoittamassa &lt;a href=&#34;https://www.utu.fi/fi/yksikot/hum/yksikot/kulttuurihistoria/tutkimus/Sivut/travelling_notions_of_culture.aspx&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Travelling Notions of Culture&lt;/em&gt;&lt;/a&gt; -projektissa.&lt;/p&gt;
+
+&lt;p&gt;Julkaisin helmikuussa 2017 väitöskirjaani perustuvan monografian &lt;a href=&#34;/publication/schlegel-monograph/&#34;&gt;&lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History&lt;/em&gt;&lt;/a&gt;. Tämän ohella olen julkaissut useita Friedrich Schlegeliä koskevia tutkimusartikkeleita.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;lehdistötiedote-väitöksestäni&#34;&gt;Lehdistötiedote väitöksestäni&lt;/h2&gt;
+
+&lt;p&gt;(Väitös: FM Asko Nivala, 28.3.2015, kulttuurihistoria)&lt;/p&gt;
+
+&lt;p&gt;Romantiikan aikakauteen yhdistetään usein nostalgia menneeseen kulta-aikaan ja keskiajan ihailu. Asko Nivala toteaa Turun yliopistoon tekemässään väitöstutkimuksessa, että saksalaisten varhaisromantikkojen utopistinen ajattelu suuntautui pikemminkin tulevaisuuteen.&lt;/p&gt;
+
+&lt;p&gt;Friedrich Schlegeliä pidetään eräänä saksalaisen varhaisromantiikan tärkeimmistä teoreetikoista, joka vaikutti merkittävällä tavalla 1800-luvun alun eurooppalaiseen ajatteluun. Nivalan mukaan tulevaisuuden kulta-ajan odottaminen on nähtävissä etenkin Schlegelin ajattelussa.&lt;/p&gt;
+
+&lt;p&gt;– Vielä 1600-luvulla tiedemiehet saattoivat väittää vakavissaan, että esimerkiksi muinainen Atlantis oli sijainnut Uppsalassa. Vaikka Schlegel oli romantikko, hän suhtautui hyvin epäilevästi tällaisiin aiempiin teorioihin, Nivala kertoo.&lt;/p&gt;
+
+&lt;p&gt;Schlegel ei pitänyt ihmiskunnan alkutilaa harmonisena kulta-aikana vaan esitti luonnontilassa elävän ihmisen aseman lohduttomana. Sen sijaan hän kyllä ihaili muinaisen Ateenan urbaania kulttuuria.&lt;/p&gt;
+
+&lt;p&gt;– Mielenkiintoisella tavalla Schlegel väitti, että käsitys menetetystä kulta-ajasta historian alussa oli nimenomaan antiikin itsensä tuottama kuvitelma, jolla ei ole historiallista perustaa, Nivala sanoo.&lt;/p&gt;
+
+&lt;h3 id=&#34;romantikot-odottivat-ikuisen-rauhan-aikaa&#34;&gt;Romantikot odottivat ikuisen rauhan aikaa&lt;/h3&gt;
+
+&lt;p&gt;Romantiikan aikana koko Eurooppa oli hajaannuksessa Napoleonin armeijan hyökättyä Saksaan. Aikakauden utooppisen ajattelun keskeiseksi käsitteeksi nousikin tulevaisuudessa koittava ikuisen rauhan aika. Tälle haettiin perusteita niin Vanhan testamentin messianistisista profetioista kuin myös kristillisestä kiliasmista, eli tuhatvuotisen rauhan valtakunnan odotuksesta.&lt;/p&gt;
+
+&lt;p&gt;– Aikalaiset pitivät vuotta 1800 käänteentekevänä ja vuosisadan vaihtumisen oletettiin olevan hyvin poikkeuksellinen katkos historiassa. Tavallaan tässä vaiheessa alkoikin uusi aikakausi, sillä Ranskan suuri vallankumous ja teollinen vallankumous loivat sen modernin maailman, jossa parhaillaan elämme, Nivala toteaa.&lt;/p&gt;
+
+&lt;p&gt;Erilaiset apokalyptiset profetiat olivat Nivalan mukaan ymmärrettäviä tilanteessa, jossa esimerkiksi Napoleonin syrjäyttämä paavi Pius VI kuoli vankeudessa. Toisaalta Schlegelin toive ikuisesta rauhasta perustui varsin sekulaariin ajatukseen siitä, että Euroopan sisällä solmittaisiin kosmopoliittinen valtioiden liitto. Tämä ei ole kovin kaukana Euroopan unionin rauhaa rakentavasta tehtävästä toisen maailman sodan jälkeen.&lt;/p&gt;
+
+&lt;h3 id=&#34;schlegel-uskoi-taiteen-korvaavan-uskonnon&#34;&gt;Schlegel uskoi taiteen korvaavan uskonnon&lt;/h3&gt;
+
+&lt;p&gt;Vaikka romantikkojen utopiat kumpusivat heidän oman aikansa ongelmista, ne eivät Nivalan mukaan olleet pelkästään kaipuuta vallankumousta edeltävään maailmaan. Romantikoilla oli paljon suuria odotuksia syntymässä olevalta tulevaisuuden maailmalta.&lt;/p&gt;
+
+&lt;p&gt;– Schlegel esitti, että tulevaisuudessa taide tulisi korvaamaan uskonnon. Lisäksi taide ja luonnontiede tuli Schlegelin mukaan yhdistää toisiinsa. Ehkä 2000-luvulla kasvanut kiinnostus monitieteisyyteen sekä tieteiden- ja taiteidenvälisyyteen toteuttaa tätä Schlegelin ihannetta, Nivala pohtii.&lt;/p&gt;
+
+&lt;p&gt;Schlegeliä on tutkittu aikaisemmin kirjallisuusteoreetikkona ja filosofina, mutta Nivalan tutkimus kiinnittää uudella tavoin huomiota hänen uraauurtavaan työhönsä historioitsijana ja kulttuuriteoreetikkona.&lt;/p&gt;
+
+&lt;p&gt;– Kiinnostus saksalaisen romantiikan kirjallisuuteen on nyt nousussa. Tämä näkyy esimerkiksi viime vuosina julkaistuina suomennoksina Novaliksen, Heinrich Heinen, Ludwig Tieckin ja myös Schlegelin teoksista, Nivala sanoo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Lauantaina 28. maaliskuuta 2015 kello 12 esitetään Turun yliopistossa (Artium, Janus-sali, Sirkkalan alue, Kaivokatu 12, Turku) julkisesti tarkastettavaksi FM Asko Nivalan väitöskirja &lt;em&gt;Beyond Germany Fragmented. The Idea of the Golden Age in Friedrich Schlegel’s Early Romantic Philosophy of History&lt;/em&gt; (Hajanaisen Saksan tuolla puolla. Kulta-ajan idea Friedrich Schlegelin varhaisromanttisessa historianfilosofiassa). Virallisena vastaväittäjänä toimii professori Robert S. Leventhal The College of William &amp;amp; Mary -yliopistosta Virginiasta Yhdysvalloista ja kustoksena professori Hannu Salmi Turun yliopistosta.&lt;/p&gt;
+
+&lt;p&gt;FM Asko Nivala on syntynyt 1980 Pudasjärvellä ja kirjoittanut ylioppilaaksi Pudasjärven lukiosta 1999. Filosofian maisteriksi Nivala valmistui 2007 Turun yliopistosta, jossa hän parhaillaan toimii tohtorikoulutettavana. Väitös kuuluu kulttuurihistorian alaan.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/SKR.gif&#34; alt=&#34;Suomen Kulttuurirahasto&#34; /&gt;
+&lt;img src=&#34;/img/oskar.jpeg&#34; alt=&#34;Oskar Öflunds Stiftelse&#34; /&gt;
+&lt;img src=&#34;/img/sa.jpg&#34; alt=&#34;Suomen Akatemia&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tulkinnan polkuja. Kulttuurihistorian tutkimusmenetelmiä</title>
+      <link>/fi/publication/polkuja/</link>
+      <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/polkuja/</guid>
+      <description>
+
+&lt;h2 id=&#34;arvosteluja&#34;&gt;Arvosteluja&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Agricolan &lt;a href=&#34;http://agricola.utu.fi/julkaisut/kirja-arvostelut/index.php?id=1954&#34; target=&#34;_blank&#34;&gt;arvostelu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aurora-lehden &lt;a href=&#34;http://www.utu.fi/tiedostot/nakoislehdet/aurora/2_2012/&#34; target=&#34;_blank&#34;&gt;arvostelu&lt;/a&gt; (s. 17).&lt;/li&gt;
+&lt;li&gt;Hybris-lehden &lt;a href=&#34;http://hybrislehti.net/node/93&#34; target=&#34;_blank&#34;&gt;arvostelu&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 for the Price of 1</title>
+      <link>/fi/publication/7for1/</link>
+      <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/publication/7for1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

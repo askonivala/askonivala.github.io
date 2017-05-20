@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asko Nivala on Asko Nivala</title>
+    <link>/</link>
+    <description>Recent content in Asko Nivala on Asko Nivala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Asko Nivala</copyright>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Repeatable results</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;p&gt;In 2014—2017, my blog was based on &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;, which was a logical choice because I host it on GitHub pages. Now I have moved to Hugo. This is because of &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt; and its support for R Markdown. My earlier site was also based on Markdown. However, R Markdown enables one not only to cite program code, but to execute it.&lt;/p&gt;
+&lt;p&gt;Little bit similarly as Jupyter Notebookin, R Markdown makes it possible to run code on a static HTML page. For example, I will write a very simple R function and its output will be shown under the source code.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;curve(x^2, from=1, to=50, , xlab=&amp;quot;x&amp;quot;, ylab=&amp;quot;y&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt; This is probably insignificant for a common blogger, but R Markdown might be a fundamental step for the DH community. The humanists seldom consider the repeatability of their results, because hermeneutical interpretations are — to some extent — &lt;em&gt;ad hoc&lt;/em&gt; conclusions. In contrast to that, the algorithmic methods are repeatable in principle. R Markdown enables the scholar to make the stages of her research process transparent, which could be also a great pedagogical asset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Romantic Cartographies</title>
+      <link>/project/cartography/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cartography/</guid>
+      <description>
+
+&lt;h3 id=&#34;romantic-cartographies-lived-and-imagined-space-in-english-and-german-romantic-texts-1790-1840&#34;&gt;Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840&lt;/h3&gt;
+
+&lt;p&gt;Most texts are spatial implying a network of important places. This was especially typical of the Romantic era (1790–1840) that was characterised by the growing interest in historical and natural sites. My postdoctoral research project provides a new interpretation of English and German Romanticism by changing the focus from temporal to spatial. I analyse the spatiality of Romantic texts by reconstructing the various geographic maps they implied. My specific focus is on the tension between metropolises, small towns, countryside and historical sites. The project transcends the narrow focus on single Romantic author, analysing a big textual corpus digitally in addition to close reading.&lt;/p&gt;
+
+&lt;p&gt;My primary sources consist of a representative corpus of English and German Romantic texts including canonical works but also texts by women, minority and non-canonical authors. The most popular genres of Romanticism were novel and lyric poetry; but also essays, biographies, literary criticism, travelogues and historiography are included in the corpus. The metadata abstracted from correspondence is used to build another database to enable comparison between fictive and actual geographic maps of Romantic spatiality.&lt;/p&gt;
+
+&lt;p&gt;The project focuses thematically on the destabilisation of the centre-periphery distinction during the Romanticism and it has three main objectives. First, building a database of place names mentioned in the primary sources and visualise them on historical maps. I will apply existing geoparsing algorithms and also write a new Python programme called Strabo for this. The resulting database will be then published as an interactive website open for other scholars and general public. The second objective is to develop a research methodology for classifying place names and embedding geographical locations with emotional and cognitive judgements. The aim of this objective is to avoid the reduction of the lived space to a Cartesian coordinate grid, typical of the spatial humanities projects. The third objective is using the spatial database as a heuristic device for finding the relevant text passages for close reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
+      <link>/publication/system/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying BLAST to Text Reuse Detectionin Finnish Newspapers and Journals, 1771–1910</title>
+      <link>/publication/blast/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/blast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friedrich Schlegel&#39;s Philosophy of History (2007—2015)</title>
+      <link>/project/schlegel/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/schlegel/</guid>
+      <description>&lt;p&gt;I defended my doctoral dissertation in 2015. It discussed the themes of the Golden Age and the Kingdom of God in Friedrich Schlegel’s (1772–1829) early thought. The project was funded by the Finnish Cultural Foundation and the Oskar Öflund Foundation. In the final stages of the research work, I was also working in the &lt;a href=&#34;https://www.utu.fi/fi/yksikot/hum/yksikot/kulttuurihistoria/tutkimus/Sivut/travelling_notions_of_culture.aspx&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Travelling Notions of Culture&lt;/em&gt;&lt;/a&gt; project, funded by the Academy of Finland.&lt;/p&gt;
+
+&lt;p&gt;A monograph based on my PhD dissertation was published in February 2017 with the title &lt;a href=&#34;/publication/schlegel-monograph/&#34;&gt;&lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History&lt;/em&gt;&lt;/a&gt;. In addition to that, I have published many research articles about Friedrich Schlegel.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/SKR.gif&#34; alt=&#34;Finnish Cultural Foundation&#34; /&gt;
+&lt;img src=&#34;/img/oskar.jpeg&#34; alt=&#34;Oskar Öflund Foundation&#34; /&gt;
+&lt;img src=&#34;/img/sa.jpg&#34; alt=&#34;Academy of Finland&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COMHIS</title>
+      <link>/project/comhis/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/comhis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling Notions of Culture</title>
+      <link>/project/travelling/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/travelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
+      <link>/publication/schlegel-monograph/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/schlegel-monograph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Of Mice and Machines: Posthumanist Reading of E. T. A. Hoffmann&#39;s Nutcracker and the Mouse King</title>
+      <link>/talk/colorado/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/colorado/</guid>
+      <description>&lt;p&gt;E. T. A. Hoffmann’s “Nutcracker and the Mouse King” (“Nussknacker und Mausekönig”, 1816) is among the most read Romantic fairy tales. Despite, its automaton motif has not been discussed a lot. My paper provides a posthumanist reading of the text in comparison with “The Sandman” (“Der Sandman”, 1817) that includes the famous female automaton Olimpia. As the title suggests, “Nutcracker and the Mouse King” juxtaposes the machine with the organism. The story happens on the Christmas, when two children, Marie and Fritz, are waiting for their presents. The engineer Drosselmeyer gives them a mechanical castle, which is so immersive that Fritz tries to go inside its mechanism. However, children lose soon their interest in the castle, because it can only operate on the pregiven rules of the machinery. At the first glance, Hoffmann seems to juxtapose the mechanical castle with the free imagination of children.&lt;/p&gt;
+
+&lt;p&gt;Especially interesting are the similarities between Marie’s godfather Drosselmeier and Coppelius in “The Sandman”: both are engineers of automata. One of the most horrible scenes in “The Sandman” is Coppelius disassembling Nathanael’s body. Although “Nutcracker and the Mouse King” is a fairy tale, also Drosselmeier restructures Princess Pirlipat’s body like an automaton: “He took Princess Pirlipat very carefully to pieces, screwed off her hands and her feet, and examined her interior structure.” In a posthumanist way, “The Nutcracker and the Mouse King” questions any simple boundary between an animal and a machine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Romantic Anthropocene? The Nonhuman Agency of the Polar Regions in Romanticism</title>
+      <link>/talk/geneva/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/geneva/</guid>
+      <description>&lt;p&gt;I delivered a paper “The Romantic Anthropocene? The Nonhuman Agency of the Polar Regions in Romanticism” in &lt;em&gt;Encountering Materiality: Science, Art, Language&lt;/em&gt; conference in Geneva, 23 – 25 June.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/frankenstein.jpg&#34; alt=&#34;Frankenstein&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The special focus of my talk was Mary Shelley’s Frankenstein, and many key scenes of the novel are located in Geneva. Even the conference venue was very close to the Plainpalais, where Victor Frankenstein’s brother, William, is murdered in the novel. There is now a bronze statue of the Creature in the murder place and he is looking towards the Salève, where he will hide after his deed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mediality and Intermediality in Friedrich Schlegel’s Early Romantic Thought</title>
+      <link>/publication/intermediality/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/intermediality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
+      <link>/publication/travelling/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/travelling/</guid>
+      <description>
+
+&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+
+&lt;p&gt;The chapters of this volume concentrate on the following themes: What were the sites of culture, civilization and &lt;em&gt;Bildung&lt;/em&gt; and how were these sites employed in defining these concepts? What kind of borders did this process of definition and its inherent spatial imagination produce? What were the connecting routes between the supposed centers and peripheries? What were the strategies of envisioning, negotiating and transforming cultural territories in early nineteenth-century Europe?&lt;/p&gt;
+
+&lt;p&gt;This book adds new perspectives on ways of approaching spatiality in history by investigating, for example: the decisive role of the French revolution, the persistent interest in classical civilization and its sites, emerging urbanism and the culture of the cities, the changing constellations between centers and peripheries and the colonial extensions, or transfigurations, of culture. It also pays attention to the spatiality of culture as a metaphor, but simultaneously emphasizes the production of space in an era of technological innovation and change.&lt;/p&gt;
+
+&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction (Asko Nivala, Hannu Salmi and Jukka Sarjala)&lt;/li&gt;
+&lt;li&gt;Part I: &lt;em&gt;Bildung&lt;/em&gt;, Civilisation and Cultural Space
+
+&lt;ul&gt;
+&lt;li&gt;1. Catastrophic Revolution and the Rise of Romantic &lt;em&gt;Bildung&lt;/em&gt; (Asko Nivala)&lt;/li&gt;
+&lt;li&gt;2. Classical Civilisation Confronts Modern Nationalism: Greek Colonies in Early Nineteenth-Century Scholarship (Janne Tunturi)&lt;/li&gt;
+&lt;li&gt;3. Between Nostalgia and Utopia: The Construction of Jewish Cultural Space in Early Nineteenth-Century Europe (Jakob Egholm Feldt and Cecilie S. Schrøder Simonsen)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Part II: Centres and Borderlands
+
+&lt;ul&gt;
+&lt;li&gt;4. The Colonial Displacement of Culture: Social Spaces and Boundaries in a Nineteenth-Century Diary from Greenland (Inge Seiding)&lt;/li&gt;
+&lt;li&gt;5. Nordic Travellers Between the Centres and Peripheries of Civilisation (Heli Rantala)&lt;/li&gt;
+&lt;li&gt;6. The Kalevala and the Cartography of Poetry and Knowledge (Juhana Saarelainen)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Part III: Challenging Spatial Boundaries
+
+&lt;ul&gt;
+&lt;li&gt;7. Viral Virtuosity and the Itineraries of Celebrity Culture (Hannu Salmi)&lt;/li&gt;
+&lt;li&gt;8. Charles Dickens and the &amp;ldquo;Vagabond Savage&amp;rdquo; (Adam Hansen)&lt;/li&gt;
+&lt;li&gt;9. Travelling Through Urban Space: The Romantic Imagination of E. T. A. Hoffmann (Jukka Sarjala)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Appendix: Further Reading&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
+      <link>/publication/catastrophic/</link>
+      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/catastrophic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 for the Price of 1</title>
+      <link>/publication/7for1/</link>
+      <pubDate>Thu, 13 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/7for1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

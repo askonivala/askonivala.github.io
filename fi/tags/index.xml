@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Asko Nivala</title>
+    <link>/fi/tags/</link>
+    <description>Recent content in Tags on Asko Nivala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 Asko Nivala</copyright>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/fi/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cartography</title>
+      <link>/fi/tags/cartography/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/tags/cartography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comhis</title>
+      <link>/fi/tags/comhis/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/tags/comhis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/fi/tags/r-markdown/</link>
+      <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
+      
+      <guid>/fi/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schlegel</title>
+      <link>/fi/tags/schlegel/</link>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/tags/schlegel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelling</title>
+      <link>/fi/tags/travelling/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fi/tags/travelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

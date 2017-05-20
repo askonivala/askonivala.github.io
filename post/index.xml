@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Asko Nivala</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Asko Nivala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Asko Nivala</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Repeatable results</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;p&gt;In 2014—2017, my blog was based on &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;, which was a logical choice because I host it on GitHub pages. Now I have moved to Hugo. This is because of &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt; and its support for R Markdown. My earlier site was also based on Markdown. However, R Markdown enables one not only to cite program code, but to execute it.&lt;/p&gt;
+&lt;p&gt;Little bit similarly as Jupyter Notebookin, R Markdown makes it possible to run code on a static HTML page. For example, I will write a very simple R function and its output will be shown under the source code.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;curve(x^2, from=1, to=50, , xlab=&amp;quot;x&amp;quot;, ylab=&amp;quot;y&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt; This is probably insignificant for a common blogger, but R Markdown might be a fundamental step for the DH community. The humanists seldom consider the repeatability of their results, because hermeneutical interpretations are — to some extent — &lt;em&gt;ad hoc&lt;/em&gt; conclusions. In contrast to that, the algorithmic methods are repeatable in principle. R Markdown enables the scholar to make the stages of her research process transparent, which could be also a great pedagogical asset.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
