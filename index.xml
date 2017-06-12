@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Friedrich Schlegel and Ancient Greece as the Golden Age</title>
+      <link>/talk/athens/</link>
+      <pubDate>Wed, 14 Jun 2017 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/athens/</guid>
+      <description>&lt;p&gt;The nineteenth-century Romantic understanding of history is often confused with the longing for the past Golden Age. In this paper — that is based on my forth-coming monograph &lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History&lt;/em&gt; (New York: Routledge 2017) — the problem of the Golden Age is seen from a new angle by discussing it in the context of Friedrich Schlegel’s studies on ancient Greece. Interestingly, Schlegel argued that Hesiod’s myth of a past Golden Age in the beginning of history was itself a product of antiquity, imagined without any historical ground.&lt;/p&gt;
+
+&lt;p&gt;By making a distinction between ‘the Golden Age’ and ‘the age of blossoming’ (Blütezeit) the paper shows that Schlegel was not a primitivist and he was in fact very skeptical about the Golden Age in the beginning of time. Schlegel compared the history of antiquity with the growth of a plant, seeing the highest phase of Greek civilization in Attic culture (rather than in the ‘savage’ world of Homer’s epics), and its final urban stage in Alexandria represented decay. The status of ancient Athens was, in Schlegel’s view, the fullest flowering of Western civilization. In contrast to Winckelmann’s studies on sculpture, Schlegel located the core of the Greek cultivation in its institution of the theatre. Attic tragedy, and more specifically Sophocles, represented the apogee of the natural cultivation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Repeatable results</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
