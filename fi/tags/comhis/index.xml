@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comhis on Asko Nivala</title>
-    <link>/fi/tags/comhis/</link>
+    <link>http://askonivala.github.io/fi/tags/comhis/</link>
     <description>Recent content in Comhis on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Asko Nivala</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>COMHIS</title>
-      <link>/fi/project/comhis/</link>
+      <link>http://askonivala.github.io/fi/project/comhis/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/project/comhis/</guid>
+      <guid>http://askonivala.github.io/fi/project/comhis/</guid>
       <description></description>
     </item>
     
