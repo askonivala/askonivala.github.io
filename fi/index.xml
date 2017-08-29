@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asko Nivala on Asko Nivala</title>
-    <link>/fi/</link>
+    <link>http://askonivala.github.io/fi/</link>
     <description>Recent content in Asko Nivala on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Asko Nivala</copyright>
@@ -11,14 +11,14 @@
     
     <item>
       <title>Tutkimuksen toistettavuudesta</title>
-      <link>/fi/post/2015-07-23-r-rmarkdown/</link>
+      <link>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>/fi/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;p&gt;Tämä sivusto toimi vuosina 2014—2017 GitHubin käyttämän &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;-tulkin kautta, mutta olen nyt siirtänyt sivut Hugo-alustaan. Syynä muutokseen on &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt; ja sen tuoma tuki R Markdown -kielelle. Aiempikin sivusto perustui Markdownin kääntämiseen staattisiksi HTML-sivuiksi, mutta R Markdown tuo mukanaan erään mielenkiintoisen lisän: se mahdollistaa ohjelmakoodin siteeraamisen ohella sen suorittamisen.&lt;/p&gt;
 &lt;p&gt;Hieman Jupyter Notebookin tavoin R Markdown mahdollistaa ohjelmakoodin ajamisen HTML-sivuilla. Ohessa on varsin yksinkertaisen funktion lähdekoodi ja alle sen suorittamisen tuottama kuvaaja.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;curve(x^2, from=1, to=50, , xlab=&amp;quot;x&amp;quot;, ylab=&amp;quot;y&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown.fi_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://askonivala.github.io/post/2015-07-23-r-rmarkdown.fi_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Asia ei ehkä vaikuta kovin kummoiselta tavallisen blogistin näkökulmasta, mutta digitaalisten ihmistieteiden kannalta R Markdown voi osoittautua vallankumoukselliseksi. Humanistit eivät ole tottuneet ajattelemaan päätelmiensä toistettavuutta, koska hermeneuttiset tulkinnat ovat ainakin jossain määrin &lt;em&gt;ad hoc&lt;/em&gt; -luonteisia.&lt;/p&gt;
 &lt;p&gt;Algoritmeihin perustuvat menetelmät poikkeavat siinä suhteessa tulkinnoista, että ne ovat lähtökohtaisesti toistettavissa. R Markdown mahdollistaa näin digitaalisen tutkimusprosessin tekemisen askel askeleelta läpinäkyväksi ja toimii samalla myös erinomaisena pedagogisena välineenä.&lt;/p&gt;
 </description>
@@ -26,10 +26,10 @@
     
     <item>
       <title>Romantic Cartographies</title>
-      <link>/fi/project/cartography/</link>
+      <link>http://askonivala.github.io/fi/project/cartography/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/project/cartography/</guid>
+      <guid>http://askonivala.github.io/fi/project/cartography/</guid>
       <description>
 
 &lt;h3 id=&#34;romantic-cartographies-lived-and-imagined-space-in-english-and-german-romantic-texts-1790-1840&#34;&gt;Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840&lt;/h3&gt;
@@ -44,55 +44,55 @@
     
     <item>
       <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
-      <link>/fi/publication/system/</link>
+      <link>http://askonivala.github.io/fi/publication/system/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/system/</guid>
+      <guid>http://askonivala.github.io/fi/publication/system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771–1910</title>
-      <link>/fi/publication/blast/</link>
+      <link>http://askonivala.github.io/fi/publication/blast/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/blast/</guid>
+      <guid>http://askonivala.github.io/fi/publication/blast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COMHIS</title>
-      <link>/fi/project/comhis/</link>
+      <link>http://askonivala.github.io/fi/project/comhis/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/project/comhis/</guid>
+      <guid>http://askonivala.github.io/fi/project/comhis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travelling Notions of Culture</title>
-      <link>/fi/project/travelling/</link>
+      <link>http://askonivala.github.io/fi/project/travelling/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/project/travelling/</guid>
+      <guid>http://askonivala.github.io/fi/project/travelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
-      <link>/fi/publication/schlegel-monograph/</link>
+      <link>http://askonivala.github.io/fi/publication/schlegel-monograph/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/schlegel-monograph/</guid>
+      <guid>http://askonivala.github.io/fi/publication/schlegel-monograph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
-      <link>/fi/publication/travelling/</link>
+      <link>http://askonivala.github.io/fi/publication/travelling/</link>
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/travelling/</guid>
+      <guid>http://askonivala.github.io/fi/publication/travelling/</guid>
       <description>
 
 &lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
@@ -133,24 +133,24 @@
     
     <item>
       <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
-      <link>/fi/publication/catastrophic/</link>
+      <link>http://askonivala.github.io/fi/publication/catastrophic/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/catastrophic/</guid>
+      <guid>http://askonivala.github.io/fi/publication/catastrophic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Friedrich Schlegelin historianfilosofia (2007—2015)</title>
-      <link>/fi/project/schlegel/</link>
+      <link>http://askonivala.github.io/fi/project/schlegel/</link>
       <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/project/schlegel/</guid>
+      <guid>http://askonivala.github.io/fi/project/schlegel/</guid>
       <description>
 
 &lt;p&gt;Vuonna 2015 valmistunut väitöskirjani käsitteli kulta-aikaa ja Jumalan valtakuntaa Friedrich Schlegelin (1772–1829) varhaisromanttisessa ajattelussa. Hanketta ovat tukeneet Suomen Kulttuurirahasto 3-vuotisella työskentelyapurahalla sekä Oskar Öflunds Stifelse viimeistelyapurahalla. Työskentelin myös työn loppuvaiheessa Suomen Akatemian rahoittamassa &lt;a href=&#34;https://www.utu.fi/fi/yksikot/hum/yksikot/kulttuurihistoria/tutkimus/Sivut/travelling_notions_of_culture.aspx&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Travelling Notions of Culture&lt;/em&gt;&lt;/a&gt; -projektissa.&lt;/p&gt;
 
-&lt;p&gt;Julkaisin helmikuussa 2017 väitöskirjaani perustuvan monografian &lt;a href=&#34;/publication/schlegel-monograph/&#34;&gt;&lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History&lt;/em&gt;&lt;/a&gt;. Tämän ohella olen julkaissut useita Friedrich Schlegeliä koskevia tutkimusartikkeleita.&lt;/p&gt;
+&lt;p&gt;Julkaisin helmikuussa 2017 väitöskirjaani perustuvan monografian &lt;a href=&#34;http://askonivala.github.io/publication/schlegel-monograph/&#34;&gt;&lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History&lt;/em&gt;&lt;/a&gt;. Tämän ohella olen julkaissut useita Friedrich Schlegeliä koskevia tutkimusartikkeleita.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -196,10 +196,10 @@
     
     <item>
       <title>Tulkinnan polkuja. Kulttuurihistorian tutkimusmenetelmiä</title>
-      <link>/fi/publication/polkuja/</link>
+      <link>http://askonivala.github.io/fi/publication/polkuja/</link>
       <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/polkuja/</guid>
+      <guid>http://askonivala.github.io/fi/publication/polkuja/</guid>
       <description>
 
 &lt;h2 id=&#34;arvosteluja&#34;&gt;Arvosteluja&lt;/h2&gt;
@@ -214,10 +214,10 @@
     
     <item>
       <title>7 for the Price of 1</title>
-      <link>/fi/publication/7for1/</link>
+      <link>http://askonivala.github.io/fi/publication/7for1/</link>
       <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/7for1/</guid>
+      <guid>http://askonivala.github.io/fi/publication/7for1/</guid>
       <description></description>
     </item>
     

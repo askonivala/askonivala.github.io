@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown on Asko Nivala</title>
-    <link>/fi/tags/r-markdown/</link>
+    <link>http://askonivala.github.io/fi/tags/r-markdown/</link>
     <description>Recent content in R Markdown on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Asko Nivala</copyright>
@@ -11,14 +11,14 @@
     
     <item>
       <title>Tutkimuksen toistettavuudesta</title>
-      <link>/fi/post/2015-07-23-r-rmarkdown/</link>
+      <link>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>/fi/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;p&gt;Tämä sivusto toimi vuosina 2014—2017 GitHubin käyttämän &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;-tulkin kautta, mutta olen nyt siirtänyt sivut Hugo-alustaan. Syynä muutokseen on &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt; ja sen tuoma tuki R Markdown -kielelle. Aiempikin sivusto perustui Markdownin kääntämiseen staattisiksi HTML-sivuiksi, mutta R Markdown tuo mukanaan erään mielenkiintoisen lisän: se mahdollistaa ohjelmakoodin siteeraamisen ohella sen suorittamisen.&lt;/p&gt;
 &lt;p&gt;Hieman Jupyter Notebookin tavoin R Markdown mahdollistaa ohjelmakoodin ajamisen HTML-sivuilla. Ohessa on varsin yksinkertaisen funktion lähdekoodi ja alle sen suorittamisen tuottama kuvaaja.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;curve(x^2, from=1, to=50, , xlab=&amp;quot;x&amp;quot;, ylab=&amp;quot;y&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown.fi_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://askonivala.github.io/post/2015-07-23-r-rmarkdown.fi_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Asia ei ehkä vaikuta kovin kummoiselta tavallisen blogistin näkökulmasta, mutta digitaalisten ihmistieteiden kannalta R Markdown voi osoittautua vallankumoukselliseksi. Humanistit eivät ole tottuneet ajattelemaan päätelmiensä toistettavuutta, koska hermeneuttiset tulkinnat ovat ainakin jossain määrin &lt;em&gt;ad hoc&lt;/em&gt; -luonteisia.&lt;/p&gt;
 &lt;p&gt;Algoritmeihin perustuvat menetelmät poikkeavat siinä suhteessa tulkinnoista, että ne ovat lähtökohtaisesti toistettavissa. R Markdown mahdollistaa näin digitaalisen tutkimusprosessin tekemisen askel askeleelta läpinäkyväksi ja toimii samalla myös erinomaisena pedagogisena välineenä.&lt;/p&gt;
 </description>
