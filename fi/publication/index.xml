@@ -10,6 +10,15 @@
     <atom:link href="/fi/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Digitaalinen humanismi ja historiatieteet (arvostelu)</title>
+      <link>http://askonivala.github.io/fi/publication/haik-digi/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://askonivala.github.io/fi/publication/haik-digi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
       <link>http://askonivala.github.io/fi/publication/system/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>

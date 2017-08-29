@@ -10,6 +10,15 @@
     <atom:link href="/fi/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Digitaalinen humanismi ja historiatieteet (arvostelu)</title>
+      <link>http://askonivala.github.io/fi/publication/haik-digi/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://askonivala.github.io/fi/publication/haik-digi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tutkimuksen toistettavuudesta</title>
       <link>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
