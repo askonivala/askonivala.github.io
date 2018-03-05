@@ -4,6 +4,9 @@ author: "Asko Nivala"
 date: 2017-05-20T14:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown"]
+output:
+  html_document:
+    smart: false
 ---
 
 ```{r setup, include=FALSE}

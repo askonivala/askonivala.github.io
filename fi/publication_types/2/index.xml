@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Asko Nivala</title>
-    <link>http://askonivala.github.io/fi/publication_types/2/</link>
+    <link>/fi/publication_types/2/</link>
     <description>Recent content in 2 on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Asko Nivala</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Digitaalinen humanismi ja historiatieteet (arvostelu)</title>
-      <link>http://askonivala.github.io/fi/publication/haik-digi/</link>
+      <link>/fi/publication/haik-digi/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/publication/haik-digi/</guid>
+      <guid>/fi/publication/haik-digi/</guid>
       <description></description>
     </item>
     
