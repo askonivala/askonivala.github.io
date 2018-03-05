@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Asko Nivala</title>
-    <link>/publication_types/2/</link>
+    <link>http://askonivala.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Book Review of Romanticism, Humanism, Judaism / Romantik, Humanismus, Judentum</title>
-      <link>/publication/eichner/</link>
+      <link>http://askonivala.github.io/publication/eichner/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/eichner/</guid>
+      <guid>http://askonivala.github.io/publication/eichner/</guid>
       <description></description>
     </item>
     
