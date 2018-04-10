@@ -34,6 +34,24 @@
     </item>
     
     <item>
+      <title>Digitaalisten ihmistieteiden materiaalisesta perustasta. Haastattelussa Jussi Parikka</title>
+      <link>http://askonivala.github.io/fi/publication/netn-parikka/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://askonivala.github.io/fi/publication/netn-parikka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitä on digitaalinen humanismi?</title>
+      <link>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digitaalinen humanismi ja historiatieteet (arvostelu)</title>
       <link>http://askonivala.github.io/fi/publication/haik-digi/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
@@ -154,41 +172,6 @@ anderen durch ein hohes Reflexionsniveau hinsichtlich der Übersetzung zentrale
       
       <guid>http://askonivala.github.io/fi/publication/7for1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</guid>
-      <description>
-
-&lt;p&gt;+++ abstract = &amp;ldquo;Muiden yhteiskunnan alueiden tavoin myös humanistiset tieteet digitalisoituvat. Tekstien digitointi tuo tutkijan saataville huomattavan laajoja tutkimusaineistoja ja suurten tietomäärien analyysiin kehitettyjä menetelmiä sovelletaan entistä useammin humanistisissa tieteissä. Digitaalinen humanismi on kohdannut kritiikkiäkin: laskennallisten menetelmien käyttämistä on esimerkiksi pidetty paluuna positivismiin. Jos digitaalista humanismia tarkastellaan osana humanismin ja mediateknologian yhteen kietoutunutta historiaa, sen voi nähdä toteuttavan humanismin alkuperäistä eetosta.&amp;rdquo;
-authors = [&amp;ldquo;Asko Nivala&amp;rdquo;]
-date = &amp;ldquo;2018-04-10&amp;rdquo;
-image_preview = &amp;ldquo;&amp;rdquo;
-math = true
-publication_types = [&amp;ldquo;2&amp;rdquo;]
-publication = &amp;ldquo;niin &amp;amp; näin 1 / 2018&amp;rdquo;
-publication_short = &amp;ldquo;niin &amp;amp; näin 1 / 2018&amp;rdquo;
-selected = false
-title = &amp;ldquo;Mitä on digitaalinen humanismi?&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_pdf = &amp;ldquo;&lt;a href=&#34;https://www.netn.fi/lehti/niin-nain-118&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://www.netn.fi/lehti/niin-nain-118&amp;quot;&lt;/a&gt;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-featured-image-relative-to-static-img-folder&#34;&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;nn1_18_kansi.jpg&amp;rdquo;
-caption = &amp;ldquo;niin &amp;amp; näin 1 / 2018&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-</description>
     </item>
     
   </channel>
