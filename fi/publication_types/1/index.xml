@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Asko Nivala</title>
-    <link>http://askonivala.github.io/fi/publication_types/1/</link>
+    <link>/fi/publication_types/1/</link>
     <description>Recent content in 1 on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
@@ -11,19 +11,19 @@
     
     <item>
       <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
-      <link>http://askonivala.github.io/fi/publication/system/</link>
+      <link>/fi/publication/system/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/publication/system/</guid>
+      <guid>/fi/publication/system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771–1910</title>
-      <link>http://askonivala.github.io/fi/publication/blast/</link>
+      <link>/fi/publication/blast/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/publication/blast/</guid>
+      <guid>/fi/publication/blast/</guid>
       <description></description>
     </item>
     
