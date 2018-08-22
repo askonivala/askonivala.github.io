@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julkaisut on Asko Nivala</title>
-    <link>/fi/publication/</link>
+    <link>http://askonivala.github.io/fi/publication/</link>
     <description>Recent content in Julkaisut on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
@@ -10,11 +10,20 @@
     <atom:link href="/fi/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>History and Virtual Topology: The Nineteenth-Century Press as Material Flow</title>
+      <link>http://askonivala.github.io/fi/publication/historein/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://askonivala.github.io/fi/publication/historein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Birth of Homeopathy out of the Spirit of Romanticism / Literature and the Cult of Personality: Essays on Goethe and His Influence / E.T.A. Hoffmann’s Orient: Romantic Aesthetics and the German Imagination</title>
-      <link>/fi/publication/err/</link>
+      <link>http://askonivala.github.io/fi/publication/err/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/err/</guid>
+      <guid>http://askonivala.github.io/fi/publication/err/</guid>
       <description>&lt;p&gt;In lieu of an abstract, here is a brief excerpt of the content:&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The Birth of Homeopathy out of the Spirit of Romanticism&lt;/em&gt;, by Alice A. Kuzniar, Toronto, U of Toronto P, 2017, x + 223 pp., 4
@@ -43,10 +52,10 @@ English-speaking audience.&lt;/p&gt;
     
     <item>
       <title>Schillers Geschichtsdenken: Die Unbegreiflichkeit der Weltgeschichte by Alexander Jakovljević (review)</title>
-      <link>/fi/publication/schiller/</link>
+      <link>http://askonivala.github.io/fi/publication/schiller/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/schiller/</guid>
+      <guid>http://askonivala.github.io/fi/publication/schiller/</guid>
       <description>&lt;p&gt;In lieu of an abstract, here is a brief excerpt of the content:&lt;/p&gt;
 
 &lt;p&gt;Reviewed by&lt;/p&gt;
@@ -108,10 +117,10 @@ political despotism, and a multitude of chaotic events resulting from them.&lt;/
     
     <item>
       <title>Digitaaliset ihmistieteet teemanumero</title>
-      <link>/fi/publication/netn-digi/</link>
+      <link>http://askonivala.github.io/fi/publication/netn-digi/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/netn-digi/</guid>
+      <guid>http://askonivala.github.io/fi/publication/netn-digi/</guid>
       <description>&lt;p&gt;s. 63 Asko Nivala, &lt;a href=&#34;https://askonivala.github.io/fi/publication/netn-what-is-digihum/&#34; target=&#34;_blank&#34;&gt;Mitä on digitaalinen humanismi?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;s. 71 Hannu Salmi, Viraalisuus – kulttuurihistoriallinen näkökulma&lt;/p&gt;
@@ -132,64 +141,64 @@ political despotism, and a multitude of chaotic events resulting from them.&lt;/
     
     <item>
       <title>Digitaalisten ihmistieteiden materiaalisesta perustasta. Haastattelussa Jussi Parikka</title>
-      <link>/fi/publication/netn-parikka/</link>
+      <link>http://askonivala.github.io/fi/publication/netn-parikka/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/netn-parikka/</guid>
+      <guid>http://askonivala.github.io/fi/publication/netn-parikka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitä on digitaalinen humanismi?</title>
-      <link>/fi/publication/netn-what-is-digihum/</link>
+      <link>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/netn-what-is-digihum/</guid>
+      <guid>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Review of Romanticism, Humanism, Judaism / Romantik, Humanismus, Judentum</title>
-      <link>/fi/publication/eichner/</link>
+      <link>http://askonivala.github.io/fi/publication/eichner/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/eichner/</guid>
+      <guid>http://askonivala.github.io/fi/publication/eichner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitaalinen humanismi ja historiatieteet (arvostelu)</title>
-      <link>/fi/publication/haik-digi/</link>
+      <link>http://askonivala.github.io/fi/publication/haik-digi/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/haik-digi/</guid>
+      <guid>http://askonivala.github.io/fi/publication/haik-digi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
-      <link>/fi/publication/system/</link>
+      <link>http://askonivala.github.io/fi/publication/system/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/system/</guid>
+      <guid>http://askonivala.github.io/fi/publication/system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771–1910</title>
-      <link>/fi/publication/blast/</link>
+      <link>http://askonivala.github.io/fi/publication/blast/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/blast/</guid>
+      <guid>http://askonivala.github.io/fi/publication/blast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
-      <link>/fi/publication/schlegel-monograph/</link>
+      <link>http://askonivala.github.io/fi/publication/schlegel-monograph/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/schlegel-monograph/</guid>
+      <guid>http://askonivala.github.io/fi/publication/schlegel-monograph/</guid>
       <description>&lt;p&gt;&amp;ldquo;Asko Nivalas Arbeit ist von Bedeutung für die Friedrich-Schlegel-Forschung aufgrund ihrer neuen Einsichten in ein zentrales Konzept
 seiner Geschichtsphilosophie. Sie überzeugt durch ihren Mut zur Komplexität. Zugleich liegt ein Verdienst der Dissertation darin, der
 englischsprachigen Forschung eine Einführung in Schlegels Denken zu bieten. Das leistet die Arbeit durch den Ausweis von
@@ -202,10 +211,10 @@ anderen durch ein hohes Reflexionsniveau hinsichtlich der Übersetzung zentrale
     
     <item>
       <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
-      <link>/fi/publication/travelling/</link>
+      <link>http://askonivala.github.io/fi/publication/travelling/</link>
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/travelling/</guid>
+      <guid>http://askonivala.github.io/fi/publication/travelling/</guid>
       <description>
 
 &lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
@@ -246,19 +255,19 @@ anderen durch ein hohes Reflexionsniveau hinsichtlich der Übersetzung zentrale
     
     <item>
       <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
-      <link>/fi/publication/catastrophic/</link>
+      <link>http://askonivala.github.io/fi/publication/catastrophic/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/catastrophic/</guid>
+      <guid>http://askonivala.github.io/fi/publication/catastrophic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tulkinnan polkuja. Kulttuurihistorian tutkimusmenetelmiä</title>
-      <link>/fi/publication/polkuja/</link>
+      <link>http://askonivala.github.io/fi/publication/polkuja/</link>
       <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/polkuja/</guid>
+      <guid>http://askonivala.github.io/fi/publication/polkuja/</guid>
       <description>
 
 &lt;h2 id=&#34;arvosteluja&#34;&gt;Arvosteluja&lt;/h2&gt;
@@ -273,10 +282,10 @@ anderen durch ein hohes Reflexionsniveau hinsichtlich der Übersetzung zentrale
     
     <item>
       <title>7 for the Price of 1</title>
-      <link>/fi/publication/7for1/</link>
+      <link>http://askonivala.github.io/fi/publication/7for1/</link>
       <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/7for1/</guid>
+      <guid>http://askonivala.github.io/fi/publication/7for1/</guid>
       <description></description>
     </item>
     

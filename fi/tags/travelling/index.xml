@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travelling on Asko Nivala</title>
-    <link>/fi/tags/travelling/</link>
+    <link>http://askonivala.github.io/fi/tags/travelling/</link>
     <description>Recent content in Travelling on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Travelling Notions of Culture</title>
-      <link>/fi/project/travelling/</link>
+      <link>http://askonivala.github.io/fi/project/travelling/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/project/travelling/</guid>
+      <guid>http://askonivala.github.io/fi/project/travelling/</guid>
       <description></description>
     </item>
     
