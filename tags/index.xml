@@ -2,66 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Asko Nivala</title>
-    <link>http://askonivala.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://askonivala.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Cartography</title>
-      <link>http://askonivala.github.io/tags/cartography/</link>
+      <link>/tags/cartography/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/tags/cartography/</guid>
+      <guid>/tags/cartography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comhis</title>
-      <link>http://askonivala.github.io/tags/comhis/</link>
+      <link>/tags/comhis/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/tags/comhis/</guid>
+      <guid>/tags/comhis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://askonivala.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schlegel</title>
-      <link>http://askonivala.github.io/tags/schlegel/</link>
+      <link>/tags/schlegel/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/tags/schlegel/</guid>
+      <guid>/tags/schlegel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travelling</title>
-      <link>http://askonivala.github.io/tags/travelling/</link>
+      <link>/tags/travelling/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/tags/travelling/</guid>
+      <guid>/tags/travelling/</guid>
       <description></description>
     </item>
     

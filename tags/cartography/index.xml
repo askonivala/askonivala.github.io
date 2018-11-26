@@ -2,30 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cartography on Asko Nivala</title>
-    <link>http://askonivala.github.io/tags/cartography/</link>
+    <link>/tags/cartography/</link>
     <description>Recent content in Cartography on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/cartography/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/cartography/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Romantic Cartographies</title>
-      <link>http://askonivala.github.io/project/cartography/</link>
+      <link>/project/cartography/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/project/cartography/</guid>
-      <description>
-
-&lt;h3 id=&#34;romantic-cartographies-lived-and-imagined-space-in-english-and-german-romantic-texts-1790-1840&#34;&gt;Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840&lt;/h3&gt;
-
-&lt;p&gt;Most texts are spatial implying a network of important places. This was especially typical of the Romantic era (1790–1840) that was characterised by the growing interest in historical and natural sites. My postdoctoral research project provides a new interpretation of English and German Romanticism by changing the focus from temporal to spatial. I analyse the spatiality of Romantic texts by reconstructing the various geographic maps they implied. My specific focus is on the tension between metropolises, small towns, countryside and historical sites. The project transcends the narrow focus on single Romantic author, analysing a big textual corpus digitally in addition to close reading.&lt;/p&gt;
-
-&lt;p&gt;My primary sources consist of a representative corpus of English and German Romantic texts including canonical works but also texts by women, minority and non-canonical authors. The most popular genres of Romanticism were novel and lyric poetry; but also essays, biographies, literary criticism, travelogues and historiography are included in the corpus. The metadata abstracted from correspondence is used to build another database to enable comparison between fictive and actual geographic maps of Romantic spatiality.&lt;/p&gt;
-
-&lt;p&gt;The project focuses thematically on the destabilisation of the centre-periphery distinction during the Romanticism and it has three main objectives. First, building a database of place names mentioned in the primary sources and visualise them on historical maps. I will apply existing geoparsing algorithms and also write a new Python programme called Strabo for this. The resulting database will be then published as an interactive website open for other scholars and general public. The second objective is to develop a research methodology for classifying place names and embedding geographical locations with emotional and cognitive judgements. The aim of this objective is to avoid the reduction of the lived space to a Cartesian coordinate grid, typical of the spatial humanities projects. The third objective is using the spatial database as a heuristic device for finding the relevant text passages for close reading.&lt;/p&gt;
-</description>
+      <guid>/project/cartography/</guid>
+      <description>Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840 Most texts are spatial implying a network of important places. This was especially typical of the Romantic era (1790–1840) that was characterised by the growing interest in historical and natural sites. My postdoctoral research project provides a new interpretation of English and German Romanticism by changing the focus from temporal to spatial. I analyse the spatiality of Romantic texts by reconstructing the various geographic maps they implied.</description>
     </item>
     
   </channel>
