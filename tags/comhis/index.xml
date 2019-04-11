@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comhis on Asko Nivala</title>
-    <link>/tags/comhis/</link>
+    <link>http://askonivala.github.io/tags/comhis/</link>
     <description>Recent content in Comhis on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
     <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/comhis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/tags/comhis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>COMHIS</title>
-      <link>/project/comhis/</link>
+      <link>http://askonivala.github.io/project/comhis/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/comhis/</guid>
+      <guid>http://askonivala.github.io/project/comhis/</guid>
       <description></description>
     </item>
     
