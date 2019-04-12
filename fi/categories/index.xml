@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Asko Nivala</title>
-    <link>http://askonivala.github.io/fi/categories/</link>
+    <link>/fi/categories/</link>
     <description>Recent content in Categories on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
     
-	<atom:link href="http://askonivala.github.io/fi/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fi/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>http://askonivala.github.io/fi/categories/r/</link>
+      <link>/fi/categories/r/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/fi/categories/r/</guid>
+      <guid>/fi/categories/r/</guid>
       <description></description>
     </item>
     

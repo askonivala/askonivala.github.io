@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Asko Nivala</title>
-    <link>http://askonivala.github.io/fi/tags/</link>
+    <link>/fi/tags/</link>
     <description>Recent content in Tags on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Asko Nivala</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://askonivala.github.io/fi/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fi/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cartography</title>
-      <link>http://askonivala.github.io/fi/tags/cartography/</link>
+      <link>/fi/tags/cartography/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/tags/cartography/</guid>
+      <guid>/fi/tags/cartography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comhis</title>
-      <link>http://askonivala.github.io/fi/tags/comhis/</link>
+      <link>/fi/tags/comhis/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/tags/comhis/</guid>
+      <guid>/fi/tags/comhis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://askonivala.github.io/fi/tags/r-markdown/</link>
+      <link>/fi/tags/r-markdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/fi/tags/r-markdown/</guid>
+      <guid>/fi/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schlegel</title>
-      <link>http://askonivala.github.io/fi/tags/schlegel/</link>
+      <link>/fi/tags/schlegel/</link>
       <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/tags/schlegel/</guid>
+      <guid>/fi/tags/schlegel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travelling</title>
-      <link>http://askonivala.github.io/fi/tags/travelling/</link>
+      <link>/fi/tags/travelling/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/fi/tags/travelling/</guid>
+      <guid>/fi/tags/travelling/</guid>
       <description></description>
     </item>
     
