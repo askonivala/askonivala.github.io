@@ -10,6 +10,19 @@
     <atom:link href="/fi/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Romanttinen kartografia. Tilallisuus saksalaisessa ja brittiläisessä romantiikassa</title>
+      <link>/fi/talk/mieli/</link>
+      <pubDate>Fri, 24 May 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/fi/talk/mieli/</guid>
+      <description>&lt;p&gt;Millaista tilaa 1800-luvun romantiikan teokset rakensivat? Millaisen kartan esimerkiksi Mary Shelleyn
+&lt;em&gt;Frankenstein&lt;/em&gt; piirsi? Oliko romanttinen maisema tapahtumien passiivinen tausta vai aktiivinen toimija?
+Esitelmä perustuu dosentti Asko Nivalan &lt;em&gt;Romantic Cartographies&lt;/em&gt; hankkeeseen, jossa kehitetään
+digitaalisten ihmistieteiden menetelmiä tekstien piirtämiseen kartalle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tekstien uudelleenkäyttö suomalaisessa sanoma- ja aikakauslehdistössä 1771-1920. Digitaalisten ihmistieteiden näkökulma</title>
       <link>/fi/publication/haik-comhis/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
@@ -244,15 +257,6 @@ political despotism, and a multitude of chaotic events resulting from them.&lt;/
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/fi/publication/blast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COMHIS</title>
-      <link>/fi/project/comhis/</link>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/fi/project/comhis/</guid>
       <description></description>
     </item>
     
