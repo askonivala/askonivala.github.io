@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cartography on Asko Nivala</title>
-    <link>/tags/cartography/</link>
+    <link>http://askonivala.github.io/tags/cartography/</link>
     <description>Recent content in Cartography on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Asko Nivala</copyright>
+    <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/cartography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/tags/cartography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Romantic Cartographies</title>
-      <link>/project/cartography/</link>
+      <link>http://askonivala.github.io/project/cartography/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/cartography/</guid>
+      <guid>http://askonivala.github.io/project/cartography/</guid>
       <description>Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840 Most texts are spatial implying a network of important places. This was especially typical of the Romantic era (1790–1840) that was characterised by the growing interest in historical and natural sites. My postdoctoral research project provides a new interpretation of English and German Romanticism by changing the focus from temporal to spatial. I analyse the spatiality of Romantic texts by reconstructing the various geographic maps they implied.</description>
     </item>
     
