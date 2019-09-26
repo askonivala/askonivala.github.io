@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Asko Nivala</title>
-    <link>/fi/categories/r/</link>
+    <link>http://askonivala.github.io/fi/categories/r/</link>
     <description>Recent content in R on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Sat, 20 May 2017 14:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/fi/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutkimuksen toistettavuudesta</title>
-      <link>/fi/post/2015-07-23-r-rmarkdown/</link>
+      <link>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>/fi/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>http://askonivala.github.io/fi/post/2015-07-23-r-rmarkdown/</guid>
       <description>Tämä sivusto toimi vuosina 2014—2017 GitHubin käyttämän Jekyll-tulkin kautta, mutta olen nyt siirtänyt sivut Hugo-alustaan. Syynä muutokseen on Blogdown ja sen tuoma tuki R Markdown -kielelle. Aiempikin sivusto perustui Markdownin kääntämiseen staattisiksi HTML-sivuiksi, mutta R Markdown tuo mukanaan erään mielenkiintoisen lisän: se mahdollistaa ohjelmakoodin siteeraamisen ohella sen suorittamisen.
 Hieman Jupyter Notebookin tavoin R Markdown mahdollistaa ohjelmakoodin ajamisen HTML-sivuilla. Ohessa on varsin yksinkertaisen funktion lähdekoodi ja alle sen suorittamisen tuottama kuvaaja.</description>
     </item>

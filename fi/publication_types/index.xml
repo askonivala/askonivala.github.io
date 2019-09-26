@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Asko Nivala</title>
-    <link>/fi/publication_types/</link>
+    <link>http://askonivala.github.io/fi/publication_types/</link>
     <description>Recent content in Publication_types on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fi/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>0</title>
-      <link>/fi/publication_types/0/</link>
+      <link>http://askonivala.github.io/fi/publication_types/0/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication_types/0/</guid>
+      <guid>http://askonivala.github.io/fi/publication_types/0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
-      <link>/fi/publication_types/1/</link>
+      <link>http://askonivala.github.io/fi/publication_types/1/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication_types/1/</guid>
+      <guid>http://askonivala.github.io/fi/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>/fi/publication_types/2/</link>
+      <link>http://askonivala.github.io/fi/publication_types/2/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication_types/2/</guid>
+      <guid>http://askonivala.github.io/fi/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>5</title>
-      <link>/fi/publication_types/5/</link>
+      <link>http://askonivala.github.io/fi/publication_types/5/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication_types/5/</guid>
+      <guid>http://askonivala.github.io/fi/publication_types/5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>6</title>
-      <link>/fi/publication_types/6/</link>
+      <link>http://askonivala.github.io/fi/publication_types/6/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication_types/6/</guid>
+      <guid>http://askonivala.github.io/fi/publication_types/6/</guid>
       <description></description>
     </item>
     
