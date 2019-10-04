@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Asko Nivala</title>
-    <link>/fi/talk/</link>
+    <link>http://askonivala.github.io/fi/talk/</link>
     <description>Recent content in Talks on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Fri, 24 May 2019 08:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fi/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Romanttinen kartografia. Tilallisuus saksalaisessa ja brittiläisessä romantiikassa</title>
-      <link>/fi/talk/mieli/</link>
+      <link>http://askonivala.github.io/fi/talk/mieli/</link>
       <pubDate>Fri, 24 May 2019 08:00:00 +0000</pubDate>
       
-      <guid>/fi/talk/mieli/</guid>
+      <guid>http://askonivala.github.io/fi/talk/mieli/</guid>
       <description>Millaista tilaa 1800-luvun romantiikan teokset rakensivat? Millaisen kartan esimerkiksi Mary Shelleyn Frankenstein piirsi? Oliko romanttinen maisema tapahtumien passiivinen tausta vai aktiivinen toimija? Esitelmä perustuu dosentti Asko Nivalan Romantic Cartographies hankkeeseen, jossa kehitetään digitaalisten ihmistieteiden menetelmiä tekstien piirtämiseen kartalle.</description>
     </item>
     

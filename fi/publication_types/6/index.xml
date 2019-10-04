@@ -2,30 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Asko Nivala</title>
-    <link>/fi/publication_types/6/</link>
+    <link>http://askonivala.github.io/fi/publication_types/6/</link>
     <description>Recent content in 6 on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fi/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eurooppalainen romantiikka ja Kalevala</title>
-      <link>/fi/publication/kalevala/</link>
+      <link>http://askonivala.github.io/fi/publication/kalevala/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/kalevala/</guid>
-      <description>Millainen oli Elias Lönnrotin Kalevalan (1835, 1849) suhde romantiikan aatteisiin? 1800-luvun alun romantiikka mainitaan edelleen eräänlaisena taustakontekstina kansalliseepoksen kokoamisesta puhuttaessa, mutta Kalevalan yhteydet romantiikkaan ovat saaneet viime vuosina vähemmän huomiota. Pohdin tässä artikkelissa Kalevalan mahdollisia yhteyksiä eurooppalaiseen – erityisesti saksalaiseen ja skandinaaviseen – romantiikkaan. Aloitan tarkastelun Lönnrotin selkeimmin romanttisesta tekstistä, hänen lääketieteen väitöskirjastaan, jossa hän esittää käsityksensä kansanperinteen luonteesta tiedostamattomana &amp;ldquo;yöpuolen&amp;rdquo; tietona erona valistuksen &amp;ldquo;päiväpuolen&amp;rdquo; tietoon. Tämän jälkeen siirryn selvittämään Kalevalan ensimmäisen painoksen kokoamisen taustalla olevia mahdollisia romanttisia vaikutteita ja sitten Lönnrotin eepoksen yhteyttä romantikkojen teoriaan eeppisestä aikakaudesta.</description>
+      <guid>http://askonivala.github.io/fi/publication/kalevala/</guid>
+      <description>Millainen oli Elias Lönnrotin Kalevalan (1835, 1849) suhde romantiikan aatteisiin? 1800-luvun alun romantiikka mainitaan edelleen eräänlaisena taustakontekstina kansalliseepoksen kokoamisesta puhuttaessa, mutta Kalevalan yhteydet romantiikkaan ovat saaneet viime vuosina vähemmän huomiota. Pohdin tässä artikkelissa Kalevalan mahdollisia yhteyksiä eurooppalaiseen – erityisesti saksalaiseen ja skandinaaviseen – romantiikkaan.
+Aloitan tarkastelun Lönnrotin selkeimmin romanttisesta tekstistä, hänen lääketieteen väitöskirjastaan, jossa hän esittää käsityksensä kansanperinteen luonteesta tiedostamattomana &amp;ldquo;yöpuolen&amp;rdquo; tietona erona valistuksen &amp;ldquo;päiväpuolen&amp;rdquo; tietoon. Tämän jälkeen siirryn selvittämään Kalevalan ensimmäisen painoksen kokoamisen taustalla olevia mahdollisia romanttisia vaikutteita ja sitten Lönnrotin eepoksen yhteyttä romantikkojen teoriaan eeppisestä aikakaudesta.</description>
     </item>
     
     <item>
       <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
-      <link>/fi/publication/catastrophic/</link>
+      <link>http://askonivala.github.io/fi/publication/catastrophic/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/catastrophic/</guid>
+      <guid>http://askonivala.github.io/fi/publication/catastrophic/</guid>
       <description></description>
     </item>
     
