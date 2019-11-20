@@ -233,15 +233,6 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/fi/post/" hreflang="fi"/>
     
@@ -513,7 +504,7 @@
       <xhtml:link rel="alternate" href="/fi/tags/" hreflang="fi"/>
     
       <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-05-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
