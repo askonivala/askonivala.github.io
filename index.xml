@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Romantic Cartographies</title>
+      <link>/talk/nulab-2019/</link>
+      <pubDate>Wed, 23 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/talk/nulab-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spreading News in 1904: The Media Coverage of Nikolay Bobrikov’s Shooting</title>
       <link>/publication/media-history/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
@@ -253,23 +262,19 @@ This is probably insignificant for a common blogger, but R Markdown might be a f
       <guid>/project/cartography/</guid>
       <description>
 
-&lt;h3 id=&#34;romantic-cartographies-lived-and-imagined-space-in-english-and-german-romantic-texts-1790-1840&#34;&gt;Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840&lt;/h3&gt;
+&lt;h3 id=&#34;lived-and-imagined-space-in-english-and-german-romantic-texts-1790-1840&#34;&gt;Lived and Imagined Space in English and German Romantic Texts, 1790–1840&lt;/h3&gt;
 
-&lt;p&gt;Most texts are spatial implying a network of important places. This was especially typical of the Romantic era (1790–1840) that was characterised by the growing interest in historical and natural sites. My postdoctoral research project provides a new interpretation of English and German Romanticism by changing the focus from temporal to spatial. I analyse the spatiality of Romantic texts by reconstructing the various geographic maps they implied. My specific focus is on the tension between metropolises, small towns, countryside and historical sites. The project transcends the narrow focus on single Romantic author, analysing a big textual corpus digitally in addition to close reading.&lt;/p&gt;
+&lt;p&gt;Most texts are spatial implying a network of places. This was especially typical of the Romantic era (1790s–1840s) that was characterised by the growing interest in historical and natural sites. &lt;a href=&#34;https://mrtc.fi&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Romantic Cartographies&lt;/em&gt;&lt;/a&gt; is a digital humanities project that provides new interpretations on English and German Romantic texts by focusing on spatiality. It analyses the spatiality of Romantic texts by reconstructing the various maps they implied. The geoparsing method developed during the project will enable mining locational data from an exceptionally big textual corpus. The results of text mining will be visualised as superimposed maps, which produce new knowledge about the relationship of centre and periphery, or urban and natural areas in Romanticism.&lt;/p&gt;
 
-&lt;p&gt;My primary sources consist of a representative corpus of English and German Romantic texts including canonical works but also texts by women, minority and non-canonical authors. The most popular genres of Romanticism were novel and lyric poetry; but also essays, biographies, literary criticism, travelogues and historiography are included in the corpus. The metadata abstracted from correspondence is used to build another database to enable comparison between fictive and actual geographic maps of Romantic spatiality.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mrtc.fi&#34; target=&#34;_blank&#34;&gt;An alpha version of the project website&lt;/a&gt; has been published where you can browse the project database focusing on texts, authors, places, routes and topic models.&lt;/p&gt;
 
-&lt;p&gt;The project focuses thematically on the destabilisation of the centre-periphery distinction during the Romanticism and it has three main objectives. First, building a database of place names mentioned in the primary sources and visualise them on historical maps. I will apply existing geoparsing algorithms and also write a new Python programme called Strabo for this. The resulting database will be then published as an interactive website open for other scholars and general public. The second objective is to develop a research methodology for classifying place names and embedding geographical locations with emotional and cognitive judgements. The aim of this objective is to avoid the reduction of the lived space to a Cartesian coordinate grid, typical of the spatial humanities projects. The third objective is using the spatial database as a heuristic device for finding the relevant text passages for close reading.&lt;/p&gt;
+&lt;h4 id=&#34;funding&#34;&gt;Funding&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2017-2019 Turku Institute for Advanced Studies&lt;/li&gt;
+&lt;li&gt;2019-2022 Academy of Finland (&lt;a href=&#34;https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_HakKuvaus2&amp;amp;CLICKED_ON=&amp;amp;HAKNRO1=321945&amp;amp;UILANG=en&amp;amp;TULOSTE=HTML&#34; target=&#34;_blank&#34;&gt;decision 321945&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
-      <link>/publication/system/</link>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/system/</guid>
-      <description></description>
     </item>
     
   </channel>
