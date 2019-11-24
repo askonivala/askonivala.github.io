@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/fi/post/2018-11-24-walden/</loc>
+      <lastmod>2019-11-24T14:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/fi/talk/hitu2019/</loc>
       <lastmod>2019-10-26T08:00:00+00:00</lastmod>
     </url>
@@ -148,18 +157,6 @@
     
       <loc>/fi/publication/haik-digi/</loc>
       <lastmod>2017-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/fi/post/2015-07-23-r-rmarkdown/" hreflang="fi"/>
-      <xhtml:link rel="alternate" href="/post/2015-07-23-r-rmarkdown/" hreflang="en"/>
-    
-      <loc>/fi/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2017-05-20T14:13:14-05:00</lastmod>
     </url>
     
   
@@ -459,24 +456,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/fi/categories/r/" hreflang="fi"/>
-      <xhtml:link rel="alternate" href="/categories/r/" hreflang="en"/>
-    
-      <loc>/fi/categories/r/</loc>
-      <lastmod>2017-05-20T14:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/fi/tags/r-markdown/" hreflang="fi"/>
-      <xhtml:link rel="alternate" href="/tags/r-markdown/" hreflang="en"/>
-    
-      <loc>/fi/tags/r-markdown/</loc>
-      <lastmod>2017-05-20T14:13:14-05:00</lastmod>
+      <loc>/fi/categories/romantiikka/</loc>
+      <lastmod>2019-11-24T14:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -529,6 +510,16 @@
     
       <loc>/fi/tags/travelling/</loc>
       <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/fi/categories/yhdysvallat/</loc>
+      <lastmod>2019-11-24T14:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

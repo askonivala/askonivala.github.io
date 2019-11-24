@@ -1,0 +1,23 @@
+---
+title: "Repeatable results"
+author: "Asko Nivala"
+date: 2017-05-20T14:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown"]
+output:
+  html_document:
+    smart: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+In 2014—2017, my blog was based on [Jekyll](http://jekyllrb.com), which was a logical choice because I host it on GitHub pages. Now I have moved to Hugo. This is because of [Blogdown](https://bookdown.org/yihui/blogdown/) and its support for R Markdown. My earlier site was also based on Markdown. However, R Markdown enables one not only to cite program code, but to execute it.
+
+Little bit similarly as Jupyter Notebook, R Markdown makes it possible to run code on a static HTML page. For example, I will write a very simple R function and its output will be shown under the source code.
+
+```{r, include= TRUE}
+curve(x^2, from=1, to=50, , xlab="x", ylab="y")
+```
+This is probably insignificant for a common blogger, but R Markdown might be a fundamental step for the DH community. The humanists seldom consider the repeatability of their results, because hermeneutical interpretations are — to some extent — _ad hoc_ conclusions. In contrast to that, the results of algorithmic methods should be repeatable in principle. R Markdown enables the scholar to make the stages of her research process transparent, which could be also a great pedagogical asset.
