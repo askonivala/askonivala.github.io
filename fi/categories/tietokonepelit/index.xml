@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tietokonepelit on Asko Nivala</title>
-    <link>/fi/categories/tietokonepelit/</link>
+    <link>http://askonivala.github.io/fi/categories/tietokonepelit/</link>
     <description>Recent content in Tietokonepelit on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Thu, 28 Nov 2019 14:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/fi/categories/tietokonepelit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/categories/tietokonepelit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elämää metsässä osa II</title>
-      <link>/fi/post/2019-11-28-walden-ii/</link>
+      <link>http://askonivala.github.io/fi/post/2019-11-28-walden-ii/</link>
       <pubDate>Thu, 28 Nov 2019 14:13:14 -0500</pubDate>
       
-      <guid>/fi/post/2019-11-28-walden-ii/</guid>
+      <guid>http://askonivala.github.io/fi/post/2019-11-28-walden-ii/</guid>
       <description>Kuten edellisessä kirjoituksessani kerroin, vierailin Walden Pondin rannalla. Henry David Thoreau asui siellä itse rakentamassaan mökissä vuosina 1845–1847 ja kirjoitti kokemuksistaan kirjan Walden: Elämää metsässä. Kirjoitukseni päättyi pohdintaan siitä, että kuinka paikkoja koskevia tekstejä on vaikeampaa tutkia ellei ole käynyt paikan päällä. Mahdollisuus liikkua vapaasti tilassa ja havainnoida ympäristöä eri aisteilla on tärkeä osa tilallisuuden kokemusta.
 Vierailu Concordissa oli minulle suhteellisen vaivatonta, sillä se on lähellä Bostonia. Kaikkiin mielenkiintoisiin paikkoihin ei voi kuitenkaan matkustaa.</description>
     </item>
