@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julkaisut on Asko Nivala</title>
-    <link>/fi/publication/</link>
+    <link>http://askonivala.github.io/fi/publication/</link>
     <description>Recent content in Julkaisut on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fi/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eurooppalainen romantiikka ja Kalevala</title>
-      <link>/fi/publication/kalevala/</link>
+      <link>http://askonivala.github.io/fi/publication/kalevala/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/kalevala/</guid>
+      <guid>http://askonivala.github.io/fi/publication/kalevala/</guid>
       <description>Millainen oli Elias Lönnrotin Kalevalan (1835, 1849) suhde romantiikan aatteisiin? 1800-luvun alun romantiikka mainitaan edelleen eräänlaisena taustakontekstina kansalliseepoksen kokoamisesta puhuttaessa, mutta Kalevalan yhteydet romantiikkaan ovat saaneet viime vuosina vähemmän huomiota. Pohdin tässä artikkelissa Kalevalan mahdollisia yhteyksiä eurooppalaiseen – erityisesti saksalaiseen ja skandinaaviseen – romantiikkaan.
 Aloitan tarkastelun Lönnrotin selkeimmin romanttisesta tekstistä, hänen lääketieteen väitöskirjastaan, jossa hän esittää käsityksensä kansanperinteen luonteesta tiedostamattomana &amp;ldquo;yöpuolen&amp;rdquo; tietona erona valistuksen &amp;ldquo;päiväpuolen&amp;rdquo; tietoon. Tämän jälkeen siirryn selvittämään Kalevalan ensimmäisen painoksen kokoamisen taustalla olevia mahdollisia romanttisia vaikutteita ja sitten Lönnrotin eepoksen yhteyttä romantikkojen teoriaan eeppisestä aikakaudesta.</description>
     </item>
     
     <item>
       <title>Onko tekoälyä olemassa?</title>
-      <link>/fi/publication/ai/</link>
+      <link>http://askonivala.github.io/fi/publication/ai/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/ai/</guid>
+      <guid>http://askonivala.github.io/fi/publication/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spreading News in 1904: The Media Coverage of Nikolay Bobrikov’s Shooting</title>
-      <link>/fi/publication/media-history/</link>
+      <link>http://askonivala.github.io/fi/publication/media-history/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/media-history/</guid>
+      <guid>http://askonivala.github.io/fi/publication/media-history/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tekstien uudelleenkäyttö suomalaisessa sanoma- ja aikakauslehdistössä 1771-1920. Digitaalisten ihmistieteiden näkökulma</title>
-      <link>/fi/publication/haik-comhis/</link>
+      <link>http://askonivala.github.io/fi/publication/haik-comhis/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/haik-comhis/</guid>
+      <guid>http://askonivala.github.io/fi/publication/haik-comhis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History and Virtual Topology: The Nineteenth-Century Press as Material Flow</title>
-      <link>/fi/publication/historein/</link>
+      <link>http://askonivala.github.io/fi/publication/historein/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/historein/</guid>
+      <guid>http://askonivala.github.io/fi/publication/historein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Birth of Homeopathy out of the Spirit of Romanticism / Literature and the Cult of Personality: Essays on Goethe and His Influence / E.T.A. Hoffmann’s Orient: Romantic Aesthetics and the German Imagination</title>
-      <link>/fi/publication/err/</link>
+      <link>http://askonivala.github.io/fi/publication/err/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/err/</guid>
+      <guid>http://askonivala.github.io/fi/publication/err/</guid>
       <description>In lieu of an abstract, here is a brief excerpt of the content:
 The Birth of Homeopathy out of the Spirit of Romanticism, by Alice A. Kuzniar, Toronto, U of Toronto P, 2017, x + 223 pp., 4 illustrations.
 Literature and the Cult of Personality: Essays on Goethe and His Influence, by Gregory Maertz, Stuttgart, ibidem, 2017, x + 278 pp.
@@ -71,10 +71,10 @@ E.T.A. Hoffmann’s Orient: Romantic Aesthetics and the German Imagination, by J
     
     <item>
       <title>Schillers Geschichtsdenken: Die Unbegreiflichkeit der Weltgeschichte by Alexander Jakovljević (review)</title>
-      <link>/fi/publication/schiller/</link>
+      <link>http://askonivala.github.io/fi/publication/schiller/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/schiller/</guid>
+      <guid>http://askonivala.github.io/fi/publication/schiller/</guid>
       <description>In lieu of an abstract, here is a brief excerpt of the content:
 Reviewed by
 Asko Nivala
@@ -84,19 +84,19 @@ Among the many contributions of Immanuel Kant&amp;rsquo;s Critique of Judgment (
     
     <item>
       <title>Återanvändningen av text i den finska tidningspressen 1771–1853</title>
-      <link>/fi/publication/histid/</link>
+      <link>http://askonivala.github.io/fi/publication/histid/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/histid/</guid>
+      <guid>http://askonivala.github.io/fi/publication/histid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitaaliset ihmistieteet teemanumero</title>
-      <link>/fi/publication/netn-digi/</link>
+      <link>http://askonivala.github.io/fi/publication/netn-digi/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/netn-digi/</guid>
+      <guid>http://askonivala.github.io/fi/publication/netn-digi/</guid>
       <description>s. 63 Asko Nivala, Mitä on digitaalinen humanismi?
 s. 71 Hannu Salmi, Viraalisuus – kulttuurihistoriallinen näkökulma
 s. 83 Juho Rantala, Uusi intelligentsia ja digitaaliset ihmistieteet – McKenzie Warkin mietteitä
@@ -108,100 +108,100 @@ s. 97 Risto Turunen, Humanisti, kurkista makroskooppiin</description>
     
     <item>
       <title>Digitaalisten ihmistieteiden materiaalisesta perustasta. Haastattelussa Jussi Parikka</title>
-      <link>/fi/publication/netn-parikka/</link>
+      <link>http://askonivala.github.io/fi/publication/netn-parikka/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/netn-parikka/</guid>
+      <guid>http://askonivala.github.io/fi/publication/netn-parikka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitä on digitaalinen humanismi?</title>
-      <link>/fi/publication/netn-what-is-digihum/</link>
+      <link>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/netn-what-is-digihum/</guid>
+      <guid>http://askonivala.github.io/fi/publication/netn-what-is-digihum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Review of Romanticism, Humanism, Judaism / Romantik, Humanismus, Judentum</title>
-      <link>/fi/publication/eichner/</link>
+      <link>http://askonivala.github.io/fi/publication/eichner/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/eichner/</guid>
+      <guid>http://askonivala.github.io/fi/publication/eichner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitaalinen humanismi ja historiatieteet (arvostelu)</title>
-      <link>/fi/publication/haik-digi/</link>
+      <link>http://askonivala.github.io/fi/publication/haik-digi/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/haik-digi/</guid>
+      <guid>http://askonivala.github.io/fi/publication/haik-digi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A System for Identifying and Exploring Text Repetition in Large Historical Document Corpora</title>
-      <link>/fi/publication/system/</link>
+      <link>http://askonivala.github.io/fi/publication/system/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/system/</guid>
+      <guid>http://askonivala.github.io/fi/publication/system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying BLAST to Text Reuse Detection in Finnish Newspapers and Journals, 1771–1910</title>
-      <link>/fi/publication/blast/</link>
+      <link>http://askonivala.github.io/fi/publication/blast/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/blast/</guid>
+      <guid>http://askonivala.github.io/fi/publication/blast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
-      <link>/fi/publication/schlegel-monograph/</link>
+      <link>http://askonivala.github.io/fi/publication/schlegel-monograph/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/schlegel-monograph/</guid>
+      <guid>http://askonivala.github.io/fi/publication/schlegel-monograph/</guid>
       <description>&amp;ldquo;Asko Nivalas Arbeit ist von Bedeutung für die Friedrich-Schlegel-Forschung aufgrund ihrer neuen Einsichten in ein zentrales Konzept seiner Geschichtsphilosophie. Sie überzeugt durch ihren Mut zur Komplexität. Zugleich liegt ein Verdienst der Dissertation darin, der englischsprachigen Forschung eine Einführung in Schlegels Denken zu bieten. Das leistet die Arbeit durch den Ausweis von Anknüpfungspunkten an aktuelle theoretische Diskurse (›posthumanism‹, ›ecocriticism‹, ›primitivism‹) auf der einen Seite und auf der anderen durch ein hohes Reflexionsniveau hinsichtlich der Übersetzung zentraler Termini Schlegels ins Englische.</description>
     </item>
     
     <item>
       <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
-      <link>/fi/publication/travelling/</link>
+      <link>http://askonivala.github.io/fi/publication/travelling/</link>
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/travelling/</guid>
+      <guid>http://askonivala.github.io/fi/publication/travelling/</guid>
       <description>Topic The chapters of this volume concentrate on the following themes: What were the sites of culture, civilization and Bildung and how were these sites employed in defining these concepts? What kind of borders did this process of definition and its inherent spatial imagination produce? What were the connecting routes between the supposed centers and peripheries? What were the strategies of envisioning, negotiating and transforming cultural territories in early nineteenth-century Europe?</description>
     </item>
     
     <item>
       <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
-      <link>/fi/publication/catastrophic/</link>
+      <link>http://askonivala.github.io/fi/publication/catastrophic/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/catastrophic/</guid>
+      <guid>http://askonivala.github.io/fi/publication/catastrophic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tulkinnan polkuja. Kulttuurihistorian tutkimusmenetelmiä</title>
-      <link>/fi/publication/polkuja/</link>
+      <link>http://askonivala.github.io/fi/publication/polkuja/</link>
       <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/polkuja/</guid>
+      <guid>http://askonivala.github.io/fi/publication/polkuja/</guid>
       <description> Arvosteluja  Agricolan arvostelu Aurora-lehden arvostelu (s. 17). Hybris-lehden arvostelu.  </description>
     </item>
     
     <item>
       <title>7 for the Price of 1</title>
-      <link>/fi/publication/7for1/</link>
+      <link>http://askonivala.github.io/fi/publication/7for1/</link>
       <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/fi/publication/7for1/</guid>
+      <guid>http://askonivala.github.io/fi/publication/7for1/</guid>
       <description></description>
     </item>
     
