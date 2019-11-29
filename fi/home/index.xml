@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Asko Nivala</title>
-    <link>/fi/home/</link>
+    <link>http://askonivala.github.io/fi/home/</link>
     <description>Recent content in Homes on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fi/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://askonivala.github.io/fi/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/fi/home/about/</link>
+      <link>http://askonivala.github.io/fi/home/about/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/about/</guid>
+      <guid>http://askonivala.github.io/fi/home/about/</guid>
       <description>Esittely Olen 1800-luvun alun romantiikkaa tutkiva kulttuurihistorioitsija. Suomen Akatemian tutkimushankkeeni kartoittaa saksalaisen ja englantilaisen romantiikan tilallisuutta hyödyntäen digitaalisten ihmistieteiden menetelmiä. Ennen tätä projektia kirjoitin väitöskirjan kulta-ajan ja Jumalan valtakunnan käsitteistä Friedrich Schlegelin (1772—1829) varhaisromanttisessa historianfilosofiassa. Olen julkaissut väitöstutkimukseeni perustuvan monografian The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History (Routledge 2017). Vietän syyslukukauden 2019 vierailevana tutkijana digitaalisten ihmistieteiden keskuksessa NULab for Texts, Maps, and Networks, joka sijaitsee Northeastern Universityssä Bostonissa.</description>
     </item>
     
     <item>
       <title>Valikoidut julkaisut</title>
-      <link>/fi/home/publications_selected/</link>
+      <link>http://askonivala.github.io/fi/home/publications_selected/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/publications_selected/</guid>
+      <guid>http://askonivala.github.io/fi/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uusimmat julkaisut</title>
-      <link>/fi/home/publications/</link>
+      <link>http://askonivala.github.io/fi/home/publications/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/publications/</guid>
+      <guid>http://askonivala.github.io/fi/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Menneet ja tulevat esitelmät</title>
-      <link>/fi/home/talks/</link>
+      <link>http://askonivala.github.io/fi/home/talks/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/talks/</guid>
+      <guid>http://askonivala.github.io/fi/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uusimmat blogikirjoitukset</title>
-      <link>/fi/home/posts/</link>
+      <link>http://askonivala.github.io/fi/home/posts/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/posts/</guid>
+      <guid>http://askonivala.github.io/fi/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hankkeet</title>
-      <link>/fi/home/projects/</link>
+      <link>http://askonivala.github.io/fi/home/projects/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/projects/</guid>
+      <guid>http://askonivala.github.io/fi/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yhteystiedot</title>
-      <link>/fi/home/contact/</link>
+      <link>http://askonivala.github.io/fi/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/fi/home/contact/</guid>
+      <guid>http://askonivala.github.io/fi/home/contact/</guid>
       <description></description>
     </item>
     
