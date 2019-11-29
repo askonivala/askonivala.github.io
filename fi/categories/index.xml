@@ -2,38 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Asko Nivala</title>
-    <link>http://askonivala.github.io/fi/categories/</link>
+    <link>/fi/categories/</link>
     <description>Recent content in Categories on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     
-	<atom:link href="http://askonivala.github.io/fi/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fi/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Romantiikka</title>
-      <link>http://askonivala.github.io/fi/categories/romantiikka/</link>
-      <pubDate>Thu, 28 Nov 2019 14:13:14 -0500</pubDate>
+      <link>/fi/categories/romantiikka/</link>
+      <pubDate>Fri, 29 Nov 2019 13:00:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/fi/categories/romantiikka/</guid>
+      <guid>/fi/categories/romantiikka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suomi</title>
+      <link>/fi/categories/suomi/</link>
+      <pubDate>Fri, 29 Nov 2019 13:00:14 -0500</pubDate>
+      
+      <guid>/fi/categories/suomi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tietokonepelit</title>
-      <link>http://askonivala.github.io/fi/categories/tietokonepelit/</link>
+      <link>/fi/categories/tietokonepelit/</link>
       <pubDate>Thu, 28 Nov 2019 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/fi/categories/tietokonepelit/</guid>
+      <guid>/fi/categories/tietokonepelit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yhdysvallat</title>
-      <link>http://askonivala.github.io/fi/categories/yhdysvallat/</link>
+      <link>/fi/categories/yhdysvallat/</link>
       <pubDate>Thu, 28 Nov 2019 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/fi/categories/yhdysvallat/</guid>
+      <guid>/fi/categories/yhdysvallat/</guid>
       <description></description>
     </item>
     
