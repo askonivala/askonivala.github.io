@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Asko Nivala</title>
-    <link>http://askonivala.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://askonivala.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://askonivala.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Introduction I am a cultural historian who studies the early nineteenth-century Romanticism. My Academy of Finland project explores the spatial dimensions of German and English Romanticism using digital methods. Before this project, I completed a doctoral dissertation about the concepts of the Golden Age and the Kingdom of God in Friedrich Schlegel’s (1772–1829) early Romantic philosophy of history. A monograph based on that study was with the title The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History (Routledge 2017).</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://askonivala.github.io/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://askonivala.github.io/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://askonivala.github.io/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://askonivala.github.io/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://askonivala.github.io/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://askonivala.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://askonivala.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
