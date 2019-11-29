@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Asko Nivala</title>
-    <link>http://askonivala.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://askonivala.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Repeatable results</title>
-      <link>http://askonivala.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Sat, 20 May 2017 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>In 2014—2017, my blog was based on Jekyll, which was a logical choice because I host it on GitHub pages. Now I have moved to Hugo. This is because of Blogdown and its support for R Markdown. My earlier site was also based on Markdown. However, R Markdown enables one not only to cite program code, but to execute it.
 Little bit similarly as Jupyter Notebook, R Markdown makes it possible to run code on a static HTML page.</description>
     </item>

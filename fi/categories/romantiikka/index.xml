@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Romantiikka on Asko Nivala</title>
-    <link>http://askonivala.github.io/fi/categories/romantiikka/</link>
+    <link>/fi/categories/romantiikka/</link>
     <description>Recent content in Romantiikka on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Asko Nivala</copyright>
-    <lastBuildDate>Sun, 24 Nov 2019 14:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 14:13:14 -0500</lastBuildDate>
     
-	<atom:link href="http://askonivala.github.io/fi/categories/romantiikka/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fi/categories/romantiikka/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Elämää metsässä osa II</title>
+      <link>/fi/post/2019-11-28-walden-ii/</link>
+      <pubDate>Thu, 28 Nov 2019 14:13:14 -0500</pubDate>
+      
+      <guid>/fi/post/2019-11-28-walden-ii/</guid>
+      <description>Kuten edellisessä kirjoituksessani kerroin, vierailin Walden Pondin rannalla. Henry David Thoreau asui siellä itse rakentamassaan mökissä vuosina 1845–1847 ja kirjoitti kokemuksistaan kirjan Walden: Elämää metsässä. Kirjoitukseni päättyi pohdintaan siitä, että kuinka paikkoja koskevia tekstejä on vaikeampaa tutkia ellei ole käynyt paikan päällä. Mahdollisuus liikkua vapaasti tilassa ja havainnoida ympäristöä eri aisteilla on tärkeä osa tilallisuuden kokemusta.
+Vierailu Concordissa oli minulle suhteellisen vaivatonta, sillä se on lähellä Bostonia. Kaikkiin mielenkiintoisiin paikkoihin ei voi kuitenkaan matkustaa.</description>
+    </item>
+    
+    <item>
       <title>Elämää metsässä</title>
-      <link>http://askonivala.github.io/fi/post/2018-11-24-walden/</link>
+      <link>/fi/post/2018-11-24-walden/</link>
       <pubDate>Sun, 24 Nov 2019 14:13:14 -0500</pubDate>
       
-      <guid>http://askonivala.github.io/fi/post/2018-11-24-walden/</guid>
+      <guid>/fi/post/2018-11-24-walden/</guid>
       <description>Henry David Thoreau asui vuosina 1845–1847 Walden Pond -järven rannalle rakentamassaan pienessä mökissä. Thoreau julkaisi kokemuksistaan filosofisen mökkipäiväkirjan Walden: Elämää metsässä (1854).1 Mökki sijaitsi transsendentalistifilosofi Ralph Waldo Emersonin mailla Concordissa. Paikka ei ollut mitenkään erityisen syrjäinen vaan nykyisin museona toimiva Emersonin kotitalo (kuvassa alla) sijaitsee 3,5 kilometrin kävelymatkan päässä. Vetäytyminen luonnon rauhaan tarjosi kuitenkin Thoreaulle mahdollisuuden pohdiskella kuinka vähällä ihminen lopulta tulee toimeen sekä tietenkin havainnoida vuodenaikojen vaihtelua ja eläinten elämää hyvin läheltä.</description>
     </item>
     
