@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Asko Nivala</title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Projects on Asko Nivala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Romantic Cartographies</title>
+      <link>https://example.org/projects/romcar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/romcar/</guid>
+      <description>Lived and Imagined Space in English and German Romantic Texts, 1790–1840 PI: Asko Nivala. Academy of Finland Postdoctoral Researcher 2019-2022 Most texts are spatial implying a network of places. This was especially typical of the Romantic era (1790s–1840s) that was characterised by the growing interest in historical and natural sites. Romantic Cartographies is a digital humanities project that provides new interpretations on English and German Romantic texts by focusing on spatiality.</description>
+    </item>
+    
+    <item>
+      <title>Computational History and the Transformation of Public Discourse in Finland, 1640–1910</title>
+      <link>https://example.org/projects/comhis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/comhis/</guid>
+      <description>PI: Prof. Hannu Salmi The consortium Computational History and the Transformation of Public Discourse in Finland, 1640–1910 (funded by the Academy of Finland programme on Digital Humanities, 2016–2019) is based on the cooperation of four partners: The Faculty of Humanities at the University of Helsinki, the Departments of Cultural History and Future Technologies at the University of Turku and the Centre for Preservation and Digitisation of the National Library of Finland.</description>
+    </item>
+    
+    <item>
+      <title>The Golden Age in Friedrich Schlegel’s Philosophy of History</title>
+      <link>https://example.org/projects/schlegel/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/schlegel/</guid>
+      <description>PI: Asko Nivala I defended my doctoral dissertation in 2015. It discussed the themes of the Golden Age and the Kingdom of God in Friedrich Schlegel’s (1772–1829) early thought. The project was funded by the Finnish Cultural Foundation and the Oskar Öflund Foundation. In the final stages of the research work, I was also working in the Travelling Notions of Culture project, funded by the Academy of Finland.
+A monograph based on my PhD dissertation was published in February 2017 with the title The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History.</description>
+    </item>
+    
+    <item>
+      <title>Travelling Notions of Culture</title>
+      <link>https://example.org/projects/travelling_project/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/travelling_project/</guid>
+      <description>PI: Prof. Hannu Salmi The project Travelling Notions of Culture, funded by the Academy of Finland 2012–2016 and supervised by Prof. Hannu Salmi, studied the changing notions of culture by asking how spatial imagination contributed to defining the concepts of culture and civilisation in early nineteenth-century Europe.
+The research results of the project were published in the edited collection Travelling Notions of Culture in Early Nineteenth-Century Europe. Eds. Hannu Salmi, Asko Nivala, Jukka Sarjala.</description>
+    </item>
+    
+    <item>
+      <title>Aboagora</title>
+      <link>https://example.org/projects/aboagora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/aboagora/</guid>
+      <description>In 2012–2013, I was working as the coordinator of Aboagora: Between Arts and Sciences and was responsible for the organisation of the multidisciplinary Aboagora symposium together with the organisational committee.
+Aboagora 2013: The Human Machine Abogora 2013: The Human Machine was organised on August 13-15 and focused on the complex relationships between man and machine. The keynote speakers were Bruce Sterling, Kevin Warwick, Mia Consalvo and Timo Airaksinen.
+Aboagora 2012: The Power of the Sacred and the Secular Abogora 2012: The Power of the Sacred and the Secular was held on August 14-16.</description>
+    </item>
+    
+  </channel>
+</rss>
