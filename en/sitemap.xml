@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://askonivala.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://example.org/fi/"
+                href="https://askonivala.github.io/fi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://askonivala.github.io/"
                 />
   </url><url>
-    <loc>https://example.org/publications/enlightenment-revolution-melancholia/</loc>
+    <loc>https://askonivala.github.io/publications/enlightenment-revolution-melancholia/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/visits/stuttgart/</loc>
+    <loc>https://askonivala.github.io/visits/stuttgart/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/</loc>
+    <loc>https://askonivala.github.io/publications/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/historical_methods/</loc>
+    <loc>https://askonivala.github.io/publications/historical_methods/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/visits/</loc>
+    <loc>https://askonivala.github.io/visits/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/bobrikov/</loc>
+    <loc>https://askonivala.github.io/publications/bobrikov/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/visits/boston/</loc>
+    <loc>https://askonivala.github.io/visits/boston/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/topology/</loc>
+    <loc>https://askonivala.github.io/publications/topology/</loc>
     <lastmod>2018-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/visits/mainz/</loc>
+    <loc>https://askonivala.github.io/visits/mainz/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/schlegel-monograph/</loc>
+    <loc>https://askonivala.github.io/publications/schlegel-monograph/</loc>
     <lastmod>2017-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/</loc>
+    <loc>https://askonivala.github.io/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/romcar/</loc>
+    <loc>https://askonivala.github.io/projects/romcar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/comhis/</loc>
+    <loc>https://askonivala.github.io/projects/comhis/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/catastrophic/</loc>
+    <loc>https://askonivala.github.io/publications/catastrophic/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/travelling/</loc>
+    <loc>https://askonivala.github.io/publications/travelling/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/schlegel/</loc>
+    <loc>https://askonivala.github.io/projects/schlegel/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/travelling_project/</loc>
+    <loc>https://askonivala.github.io/projects/travelling_project/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/aboagora/</loc>
+    <loc>https://askonivala.github.io/projects/aboagora/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://askonivala.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://example.org/fi/categories/"
+                href="https://askonivala.github.io/fi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/categories/"
+                href="https://askonivala.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://askonivala.github.io/contact/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://askonivala.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://example.org/fi/tags/"
+                href="https://askonivala.github.io/fi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://askonivala.github.io/tags/"
                 />
   </url>
 </urlset>
