@@ -80,6 +80,8 @@
                 href="https://askonivala.github.io/categories/"
                 />
   </url><url>
+    <loc>https://askonivala.github.io/talks/pleasures/</loc>
+  </url><url>
     <loc>https://askonivala.github.io/contact/</loc>
   </url><url>
     <loc>https://askonivala.github.io/tags/</loc>
@@ -93,5 +95,7 @@
                 hreflang="en"
                 href="https://askonivala.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://askonivala.github.io/talks/</loc>
   </url>
 </urlset>
