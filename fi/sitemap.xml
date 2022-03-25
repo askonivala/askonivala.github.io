@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://askonivala.github.io/fi/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,23 @@
                 href="https://askonivala.github.io/fi/"
                 />
   </url><url>
+    <loc>https://askonivala.github.io/fi/projektit/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/projektit/atlas/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/julkaisut/mystik/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/julkaisut/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/pleasures/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/julkaisut/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/hyperion/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
@@ -51,6 +60,9 @@
     <loc>https://askonivala.github.io/fi/julkaisut/ai/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://askonivala.github.io/fi/projektit/romcar/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/bobrikov/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,20 +81,14 @@
     <loc>https://askonivala.github.io/fi/vierailut/mainz/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://askonivala.github.io/fi/projektit/</loc>
-    <lastmod>2017-02-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/schlegel-monograph/</loc>
     <lastmod>2017-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://askonivala.github.io/fi/projektit/schlegel-monograph/</loc>
-    <lastmod>2017-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/projektit/romcar/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://askonivala.github.io/fi/projektit/comhis/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/projektit/schlegel/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/projektit/travelling_project/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
@@ -98,8 +104,6 @@
                 hreflang="fi"
                 href="https://askonivala.github.io/fi/categories/"
                 />
-  </url><url>
-    <loc>https://askonivala.github.io/fi/projektit/schlegel/</loc>
   </url><url>
     <loc>https://askonivala.github.io/fi/tags/</loc>
     <xhtml:link
