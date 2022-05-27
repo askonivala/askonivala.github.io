@@ -6,7 +6,17 @@
     <description>Recent content on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voiko 1800-luvun alun koettua tilaa tutkia digitaalisesti?</title>
+      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere-1800/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere-1800/</guid>
+      <description>Romantic Cartographies -hankkeeni vertailee brittiläisen ja saksalaisen romantiikan kirjallisuuden rakentamaa tilaa 1790–1840-luvuilla. Projekti käyttää digitoituja aineistoja ja menetelmiä. Haravoin fiktiivisistä teksteistä ja matkakirjoista paikannimiä hyödyntäen luonnollisten kielten prosessointia (NLP) ja nimettyjen entiteettien tunnistusta (NEL). Tutkimusaineiston analyysissä ja rikastamisessa hyödynnän erityisesti paikkatietojärjestelmiä (GIS) ja linkitettyä avointa dataa (LOD).
+Monet analysoimani tekstit sisältävät yllättäviäkin maantieteellisiä viittauksia, joiden kartoittaminen avaa uusia reittejä tunnettuihin romantiikan ajan klassikoihin ja nostaa esiin myös unohtuneita teoksia. 1800-luvun alun romantiikan fiktion ja matkakirjallisuuden tilallisten viittausten digitointi herättää kuitenkin uusia metodologisia ongelmia.</description>
+    </item>
+    
     <item>
       <title>Using word vector models to trace conceptual change over time and space in historical newspapers, 1840–1914</title>
       <link>https://askonivala.github.io/fi/julkaisut/shico/</link>
