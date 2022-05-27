@@ -6,7 +6,16 @@
     <description>Recent content in Julkaisut on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/fi/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/fi/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using word vector models to trace conceptual change over time and space in historical newspapers, 1840–1914</title>
+      <link>https://askonivala.github.io/fi/julkaisut/shico/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/fi/julkaisut/shico/</guid>
+      <description>Linking large digitized newspaper corpora in different languages that have become available in national and state libraries opens up new possibilities for the computational analysis of patterns of information flow across national and linguistic boundaries. The significant contribution this article presents is to demonstrate how word vector models can be used to explore the way concepts have shifted in meaning over time, as they migrated across space, by comparing newspapers from different countries published between 1840 and 1914.</description>
+    </item>
+    
     <item>
       <title>Friedrich Schlegel and the Mystical Kingdom of God</title>
       <link>https://askonivala.github.io/fi/julkaisut/mystik/</link>
