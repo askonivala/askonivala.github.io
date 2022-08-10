@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://askonivala.github.io/fi/projektit/aicom/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +17,9 @@
                 hreflang="fi"
                 href="https://askonivala.github.io/fi/"
                 />
+  </url><url>
+    <loc>https://askonivala.github.io/fi/projektit/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
@@ -26,9 +32,6 @@
   </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/shico/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/projektit/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/projektit/atlas/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
