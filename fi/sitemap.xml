@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/tias_kirjasto/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,17 +18,14 @@
                 href="https://askonivala.github.io/fi/"
                 />
   </url><url>
+    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/kh_metodi/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/tias_kirjasto/</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/turun_linna/</loc>
     <lastmod>2022-10-14T00:00:00+00:00</lastmod>
