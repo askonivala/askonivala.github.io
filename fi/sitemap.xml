@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://askonivala.github.io/fi/</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,12 @@
                 hreflang="fi"
                 href="https://askonivala.github.io/fi/"
                 />
+  </url><url>
+    <loc>https://askonivala.github.io/fi/julkaisut/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/julkaisut/kh_metodi/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
     <lastmod>2022-10-14T00:00:00+00:00</lastmod>
@@ -29,9 +35,6 @@
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere-1800/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/julkaisut/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/shico/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
