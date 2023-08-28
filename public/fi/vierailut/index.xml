@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vierailut on Asko Nivala</title>
+    <link>https://askonivala.github.io/fi/vierailut/</link>
+    <description>Recent content in Vierailut on Asko Nivala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/fi/vierailut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institut für Maschinelle Sprachverarbeitung</title>
+      <link>https://askonivala.github.io/fi/vierailut/stuttgart/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/fi/vierailut/stuttgart/</guid>
+      <description>Vuonna 2020 olin vierailevana tutkijana Stuttgartin yliopistossa toimivassa Institut für Maschinelle Sprachverarbeitung (IMS) -instituutissa. IMS:ssä tehdään johtavaa tutkimusta luonnollisten kielten käsittelyn (natural language processing) sekä koneoppimisen alueilla. Osallistuin tutkijavaihtoni aikana myös Python-työpajoihin, joissa opin myös sovelluskehityksen käytäntöjä kuten koodin testaamista sekä profilointia.
+Tübingen ei ole kaukana Stuttgartista, joten kävin myös katsomassa Tübinger Stiftiä, jossa Hegel, Hölderlin ja Schelling aikanaan opiskelivat sekä Hölderlinturmia, missä runoilija Friedrich Hölderlin vietti viimeiset vuotensa.</description>
+    </item>
+    
+    <item>
+      <title>NULab for Texts, Maps, and Networks</title>
+      <link>https://askonivala.github.io/fi/vierailut/boston/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/fi/vierailut/boston/</guid>
+      <description>Vuonna 2019 tein neljän kuukauden tutkimusvierailun NULab for Texts, Maps, and Networks yksikköön (Northeastern University, Boston, Yhdysvallat). Vierailu oli osa ROMCAR-hankettani.
+NULab on merkittävä laskennallisten ihmistieteiden keskus, jossa työskentelee tutkijoita kirjallisuustieteen, historian, tietojenkäsittelytieteen sekä yhteiskuntatieteiden aloilta. Vierailusta oli paljon hyötyä ROMCAR-hankkeeni metodologialle.
+Bostonissa ollessani tein myös arkistotyötä Harvardin yliopiston historiallisten karttojen kokoelmassa. Cambridgessa ollessani kävin myös MIT:ssa katsomassa LISP-konetta.</description>
+    </item>
+    
+    <item>
+      <title>Forschungsschwerpunkt Historische Kulturwissenschaften</title>
+      <link>https://askonivala.github.io/fi/vierailut/mainz/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/fi/vierailut/mainz/</guid>
+      <description>Vuonna 2017 vietin 4 kuukautta vierailevana tutkijana Forschungsschwerpunkt Historische Kulturwissenschaften (HKW) yksikössä, mikä toimii Johannes Gutenberg-Universität Mainzissa, Saksassa. Vierailu oli osa 3-vuotista tutkijatohtorin tehtävääni TIAS:ssa (Turku Institute for Advanced Studies).
+Koneen säätiö rahoitti tutkijavaihtoni kustannukset.</description>
+    </item>
+    
+  </channel>
+</rss>
