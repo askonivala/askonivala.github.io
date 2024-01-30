@@ -6,7 +6,17 @@
     <description>Recent content in Publications on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
+      <link>https://askonivala.github.io/publications/jcls/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/publications/jcls/</guid>
+      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. Journal of Computational Literary Studies 2 (1), doi: https://doi.org/10.48694/jcls.3584.
+Abstract In the Atlas of Finnish Literature 1870-1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
+    </item>
+    
     <item>
       <title>The Construction of Space in English and German Literature 1790–1848</title>
       <link>https://askonivala.github.io/publications/corvey/</link>

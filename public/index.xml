@@ -6,7 +6,27 @@
     <description>Recent content on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
+      <link>https://askonivala.github.io/publications/jcls/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/publications/jcls/</guid>
+      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. Journal of Computational Literary Studies 2 (1), doi: https://doi.org/10.48694/jcls.3584.
+Abstract In the Atlas of Finnish Literature 1870-1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
+    </item>
+    
+    <item>
+      <title>Romantic Irony: Transcendental Reflection of Artistic Form</title>
+      <link>https://askonivala.github.io/talks/irony/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/talks/irony/</guid>
+      <description>Friedrich Schlegel’s concept of irony emphasises self-awareness and self-reflexivity, allowing the work of art to create and question its own rules. Much like Kant’s transcendental knowledge, Schlegel’s formulation of art generates its own poetical rules from within, underscoring an autonomous quality.
+Asko Nivala: &amp;ldquo;Romantic Irony: Transcendental Reflection of Artistic Form&amp;rdquo;, an invited presentation at Romantic Irony symposium. The University of the Arts, Helsinki, Finland, 12 December 2023.</description>
+    </item>
+    
     <item>
       <title>The Construction of Space in English and German Literature 1790–1848</title>
       <link>https://askonivala.github.io/publications/corvey/</link>
@@ -14,6 +34,25 @@
       
       <guid>https://askonivala.github.io/publications/corvey/</guid>
       <description>In this article, I analyse named entity linking as a new method to study the construction of space in the English and German texts of European Literature, 1790–1840: The Corvey Collection. The Corvey Collection is among the most comprehensive datasets to have survived from the Romantic Era of literature. However, German-language documents in particular suffer from poor OCR scanning. To avoid noise caused by incorrectly digitized characters, I have re-OCRed the collection.</description>
+    </item>
+    
+    <item>
+      <title>Romantic Database. The Zettelkasten and Commonplace Book as Literary Media</title>
+      <link>https://askonivala.github.io/talks/leipzig/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/talks/leipzig/</guid>
+      <description>Asko Nivala: &amp;ldquo;Romantic Database. The Zettelkasten and Commonplace Book as Literary Media&amp;rdquo;, conference paper at Romanticism and its Media. Jahrestagung der Gesellschaft für Englische Romantik -conference. University of Leipzig, Germany, 5.–8. October 2023.</description>
+    </item>
+    
+    <item>
+      <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
+      <link>https://askonivala.github.io/talks/wurzburg/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/talks/wurzburg/</guid>
+      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund &amp;amp; Juhana Saarelainen: &amp;ldquo;Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora.&amp;rdquo; CCLS 2023 Würzburg – 2nd Annual Conference of Computational Literary Studies.
+Abstract In the Atlas of Finnish Literature 1870–1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
     </item>
     
     <item>
