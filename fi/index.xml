@@ -18,6 +18,16 @@ Abstrakti Suomalaisen kirjallisuuden atlas -hankkeessa (Alfred Kordelinin säa�
     </item>
     
     <item>
+      <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
+      <link>https://askonivala.github.io/fi/julkaisut/jcls/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/fi/julkaisut/jcls/</guid>
+      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. Journal of Computational Literary Studies 2 (1), doi: https://doi.org/10.48694/jcls.3584.
+Abstract In the Atlas of Finnish Literature 1870-1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
+    </item>
+    
+    <item>
       <title>Yllättäviä tihentymiä kartalla</title>
       <link>https://askonivala.github.io/fi/esitelm%C3%A4t/kultut/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
