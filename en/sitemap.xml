@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://askonivala.github.io/</loc>
-    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -15,6 +15,12 @@
                 href="https://askonivala.github.io/"
                 />
   </url><url>
+    <loc>https://askonivala.github.io/talks/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/talks/nassr_2024/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/publications/jcls/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -22,9 +28,6 @@
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/talks/irony/</loc>
-    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/talks/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/publications/corvey/</loc>
