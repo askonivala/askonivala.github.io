@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://askonivala.github.io/fi/</loc>
-    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,17 @@
                 href="https://askonivala.github.io/fi/"
                 />
   </url><url>
+    <loc>https://askonivala.github.io/fi/julkaisut/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/julkaisut/bildung/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/nassr_2024/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/julkaisut/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/haik_atlas/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
