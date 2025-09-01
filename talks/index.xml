@@ -6,7 +6,29 @@
     <description>Recent content in Talks on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Mapping for Humanists - A Geoparsing Workshop</title>
+      <link>https://askonivala.github.io/talks/tallinn_summer_school_seminar/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/talks/tallinn_summer_school_seminar/</guid>
+      <description>Workshop at DIGHT-Net Summer School in Digital Cultural Heritage - (Re)Mediating the Past University of Tallinn, Estonia
+29. August 2025, 11:00–12:30
+This hands-on workshop introduces the basic principles of geoparsing – the process of identifying and interpreting place references in textual sources. Through practical exercises and group discussion, participants will learn how spatial information embedded in historical and literary texts can be extracted, visualised and analysed to support new kinds of research questions.</description>
+    </item>
+    
+    <item>
+      <title>Geoparsing and the Spatial Turn in Cultural History</title>
+      <link>https://askonivala.github.io/talks/tallinn_summer_school/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/talks/tallinn_summer_school/</guid>
+      <description>Lecture at DIGHT-Net Summer School in Digital Cultural Heritage: (Re)Mediating the Past University of Tallinn, Estonia
+28. August 2025, 9:30–10:30
+Geoparsing refers to the extraction of spatial information from unstructured text, typically through the identification and disambiguation of place names. This process enables the conversion of texts into maps. In the context of cultural heritage, geoparsing offers new avenues for cultural-historical research and the study of spatial history. Where are the centres and peripheries of a textual corpus?</description>
+    </item>
+    
     <item>
       <title>The Gears of Discontent: Mechanical Automata and Societal Upheaval in the Romantic Era</title>
       <link>https://askonivala.github.io/talks/nassr_2024/</link>
