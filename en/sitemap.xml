@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://askonivala.github.io/projects/aicom/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -14,6 +17,9 @@
                 hreflang="en"
                 href="https://askonivala.github.io/"
                 />
+  </url><url>
+    <loc>https://askonivala.github.io/projects/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/publications/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
@@ -41,12 +47,6 @@
   </url><url>
     <loc>https://askonivala.github.io/talks/wurzburg/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/projects/aicom/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/projects/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/publications/shico/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>

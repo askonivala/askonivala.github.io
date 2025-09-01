@@ -6,7 +6,16 @@
     <description>Recent content on Asko Nivala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence Before Computers: The History of Romantic Computationalism</title>
+      <link>https://askonivala.github.io/projects/aicom/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://askonivala.github.io/projects/aicom/</guid>
+      <description>Machine learning and neural networks have developed significantly during the twenty-first century. Despite the success of weak artificial intelligence, strong AI – the creation of an artificial consciousness comparable with humans – is still as much science fiction as it was when Mary Shelley published Frankenstein (1818). My research project Artificial Intelligence Before Computers (AICOM) explores the history of AI discourse before the invention of the electronic computer. The utopia of a thinking machine is based on computationalism, which argues that human mind operates like a computer.</description>
+    </item>
+    
     <item>
       <title>Travelling in Romantic Bildungsroman Narratives</title>
       <link>https://askonivala.github.io/publications/bildung/</link>
@@ -71,16 +80,6 @@ Asko Nivala: &amp;ldquo;Romantic Irony: Transcendental Reflection of Artistic Fo
       <guid>https://askonivala.github.io/talks/wurzburg/</guid>
       <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund &amp;amp; Juhana Saarelainen: &amp;ldquo;Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora.&amp;rdquo; CCLS 2023 Würzburg – 2nd Annual Conference of Computational Literary Studies.
 Abstract In the Atlas of Finnish Literature 1870–1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence Before Computers: The History of Romantic Computationalism</title>
-      <link>https://askonivala.github.io/projects/aicom/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/aicom/</guid>
-      <description>TIAS Collegium Fellow 2022–2025
-Machine learning and neural networks have developed significantly during the twenty-first century. Despite the success of weak artificial intelligence, strong AI – the creation of an artificial consciousness comparable with humans – is still as much science fiction as it was when Mary Shelley published Frankenstein (1818). My TIAS project Artificial Intelligence Before Computers (AICOM, 2022–20225) explores the history of AI discourse before the invention of the electronic computer.</description>
     </item>
     
     <item>
