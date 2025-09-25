@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://askonivala.github.io/fi/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,12 @@
                 href="https://askonivala.github.io/fi/"
                 />
   </url><url>
+    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere_ias_colloquium/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://askonivala.github.io/fi/projektit/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -22,9 +28,6 @@
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/tallinn_summer_school_seminar/</loc>
-    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://askonivala.github.io/fi/esitelm%C3%A4t/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://askonivala.github.io/fi/julkaisut/</loc>
