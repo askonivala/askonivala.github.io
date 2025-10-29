@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julkaisut on Asko Nivala</title>
-    <link>http://localhost:1313/fi/julkaisut/</link>
+    <link>https://askonivala.github.io/fi/julkaisut/</link>
     <description>Recent content in Julkaisut on Asko Nivala</description>
     <generator>Hugo</generator>
     <language>fi</language>
     <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fi/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://askonivala.github.io/fi/julkaisut/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travelling in Romantic Bildungsroman Narratives</title>
-      <link>http://localhost:1313/fi/julkaisut/bildung/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/bildung/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/bildung/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/bildung/</guid>
       <description>&lt;p&gt;The early nineteenth-century bildungsroman is often understood as a coming-of-age story of the protagonist, which implies that temporality is more constitutive for its composition than spatiality. In contrast, my paper focuses on the motif of travelling in German and British bildungsroman narratives. Opposed to the previous allegorical understanding of the Romantic bildungsroman, I suggest that the methods of the spatial humanities open up a new perspective on bildungsroman narratives by showing how their travel itineraries were used in the construction of Europe before and after the Napoleonic Wars. The itineraries annotated from the corpus suggest that the classic Grand Tour to Italy remain important, especially in German Romanticism, whereas northern regions are also popular in British texts. A few narratives emphasise the region of Greece in defining the European frontier in relation to the Ottoman Empire, while Russia and Poland are not popular settings for bildungsroman narratives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suomenkielisten taiteilijaromaanien tilallisuus 1884–1939</title>
-      <link>http://localhost:1313/fi/julkaisut/haik_atlas/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/haik_atlas/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/haik_atlas/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/haik_atlas/</guid>
       <description>&lt;p&gt;Asko Nivala &amp;amp; Jasmine Westerlund: Suomenkielisten taiteilijaromaanien tilallisuus 1884–1939. &lt;a href=&#34;https://www.historiallinenaikakauskirja.fi/wp-content/uploads/2024/04/HAik_1_2024_sisallys.pdf&#34;&gt;&lt;em&gt;Historiallinen Aikakauskirja&lt;/em&gt;&lt;/a&gt;, 1 / 2024, 4–21.&lt;/p&gt;&#xA;&lt;p&gt;Tässä artikkelissa tarkastelemme suomenkielisen taiteilijaromaanin tilallisuutta vuosina 1884–1939. Aineistonamme on ihmislukijoiden annotoima paperikortisto, jonka olemme digitoineet tietokannaksi. Tietokantaan sisältyy 70 taiteilijaromaania väliltä 1884–1939, joista 62 teosta sisältää paikkatietoja. Olemme keränneet kortistosta romaanien tapahtumapaikat ja tuoneet ne paikkatietojärjestelmän avulla kartoille. Kartoissa näkyy jännite kaupunkien ja maaseudun, rannikon ja sisämaan sekä pohjoisen ja etelän välillä, jota olemme tutkineet keskuksen ja periferian käsitteiden kautta. Savoa, Lappia, Karjalaa ja Pohjois-Pohjanmaata kuvataan rauhan, kotiinpaluun ja inspiraation alueina. Periferian rooli on kuitenkin monitulkintainen, sillä erityisesti Lappi voidaan kuvata myös kansainvälisesti verkostoituneena alueena, tai maaseutukylät voivat merkitä taiteilijalle myös eristyneisyyden tunnetta ja mahdollisuuksien niukkuutta. Kaupunkien osalta Helsingin paikkoja kuvataan paljon yksityiskohtaisemmin kuin muita alueita, jolloin kartta tulee kaupunginosien, rakennusten ja katujen tasolle. Helsinki esitetään monissa teoksissa myös modernina metropolina. Suomalaisissa taiteilijaromaaneissa ”ikkunat ovat auki Eurooppaan”, mutta romaaneissa kuvattu Eurooppa on varsin läntinen. Aineistoon kuuluu kuitenkin myös matkoja mm. Balkanille ja Neuvostoliittoon. Olemme kehittäneet matkojen tutkimiseen Python-työkalun, joka muuttaa niiden reitit tilalliseksi verkostoksi. Pohdimme artikkelissa myös kirjallisen maantieteen metodologisia ongelmia kuten laajempien alueiden palauttamista pisteiksi. Tilallisen historian käyttämät kartat palauttavat usein tilan kartesiolaiseen koordinaatistoon, mutta rekonstruoimamme matkareittien verkosto pyrkii ylittämään pelkän pistemäisen tavan esittää tilaa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
-      <link>http://localhost:1313/fi/julkaisut/jcls/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/jcls/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/jcls/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/jcls/</guid>
       <description>&lt;p&gt;Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. &lt;em&gt;Journal of Computational Literary Studies&lt;/em&gt; 2 (1), doi: &lt;a href=&#34;https://doi.org/10.48694/jcls.3584&#34;&gt;https://doi.org/10.48694/jcls.3584&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;In the &lt;em&gt;Atlas of Finnish Literature 1870-1940&lt;/em&gt; project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools. The results are presented in a web-based environment. This article describes the technical structure of the analysis chain, the tools used and the metaprocesses used to manage the research dataset.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Construction of Space in English and German Literature 1790–1848</title>
-      <link>http://localhost:1313/fi/julkaisut/corvey/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/corvey/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/corvey/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/corvey/</guid>
       <description>&lt;p&gt;In this article, I analyse named entity linking as a new method to study the construction of space in the English and German texts of European Literature, 1790–1840: The Corvey Collection. The Corvey Collection is among the most comprehensive datasets to have survived from the Romantic Era of literature. However, German-language documents in particular suffer from poor OCR scanning. To avoid noise caused by incorrectly digitized characters, I have re-OCRed the collection. In contrast to named entity recognition, named entity linking is able to disambiguate toponyms and find coordinates for them from linked open data sources such as DBpedia. I have then imported the geocoded places to geographic information systems, which enables comparing spaces imagined in British and German literature from the 1790s to the 1840s. To link spatial information to the semantic content of texts, I have applied topic modeling to find common themes shared by the works. Studying the spatial imagination of the popular texts published in the Romantic era discloses an alternative view to our present notion of Romanticism based on the close reading of a few canonized authors. The comparison of English and German corpora shows the way in which the spatial imagination reflected the asymmetrical relationship of center and periphery: the core of British literature was located in London, whereas no single center appears in the German-language data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kulttuurihistoria, uusmaterialismi, posthumanismi ja digitaalinen humanismi</title>
-      <link>http://localhost:1313/fi/julkaisut/kh_metodi/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/kh_metodi/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/kh_metodi/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/kh_metodi/</guid>
       <description>&lt;p&gt;Miten kulttuurihistoria tulisi määritellä uusmaterialismin, posthu- manismin ja digitaalisen humanismin avatessa uusia näköaloja? Miten uudet suuntaukset rinnastuvat toisiinsa? Osoitan tässä artikkelissa, että digitaalisilla ihmistieteillä on positivismin sijasta runsaasti yhteistä uusmaterialismin ja posthumanismin kanssa, vaikka näitä suuntauksia ajatellaan usein erillisinä ja toisinaan jopa vastakkaisina.&lt;/p&gt;&#xA;&lt;p&gt;Asko Nivala, &amp;ldquo;Kulttuurihistoria, uusmaterialismi, posthumanismi ja digitaalinen humanismi&amp;rdquo;. Teoksessa &lt;em&gt;Kulttuurihistorian tutkimus: Lähteistä menetelmiin ja tulkintaan.&lt;/em&gt; Toim. Rami Mähkä, Marika Ahonen, Niko Heikkilä, Sakari Ollitervo &amp;amp; Marika Räsänen. k &amp;amp; h, Turku 2022, 453–467.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using word vector models to trace conceptual change over time and space in historical newspapers, 1840–1914</title>
-      <link>http://localhost:1313/fi/julkaisut/shico/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/shico/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/shico/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/shico/</guid>
       <description>&lt;p&gt;Linking large digitized newspaper corpora in different languages that have become available in national and state libraries opens up new possibilities for the computational analysis of patterns of information flow across national and linguistic boundaries. The significant contribution this article presents is to demonstrate how word vector models can be used to explore the way concepts have shifted in meaning over time, as they migrated across space, by comparing newspapers from different countries published between 1840 and 1914. We define a concept, rather pragmatically, as a key term or core idea that has been used in historical discourse: an abstraction or mental representation that has served as a building block for thoughts and beliefs. We use historical newspapers in English, Finnish, German and Swedish from collections in the UK, US, Germany, and Finland, as well as the Europeana collection. As use cases, we analyze how the different conceptual constructs of “nation” and “illness” emerged and changed between 1840 and 1920. Conceptual change over time is simulated by creating a series of overlapping word vector models, each spanning ten years. Historical vocabularies are retrieved on the basis of vector space proximity. Conceptual change across space is simulated by comparing the historical change of vocabularies in newspaper collections from different nations in several languages. This computational approach to conceptual history opens up new ways to identify patterns in public discourse over longer periods of time and across borders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friedrich Schlegel and the Mystical Kingdom of God</title>
-      <link>http://localhost:1313/fi/julkaisut/mystik/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/mystik/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/mystik/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/mystik/</guid>
       <description>&lt;p&gt;Asko Nivala: ”Friedrich Schlegel and the Mystical Kingdom of God.” &lt;em&gt;Mystik und Romantik&lt;/em&gt;. Eds. Günther Bonheim, Thomas Isermann &amp;amp; Thomas Regehly. Brill, Leiden 2021, 69–88.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kreikan alue Friedrich Hölderlinin Hyperionissa</title>
-      <link>http://localhost:1313/fi/julkaisut/hyperion/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/hyperion/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/hyperion/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/hyperion/</guid>
       <description>&lt;p&gt;Friedrich Hölderlinin Hyperion on kirjeromaani, jota on tavattu lukea sen päähenkilön ke- hityskertomuksena. Värikkäistä maisemakuvauksistaan tunnettu teos sijoittuu 1770-luvun Kreikkaan. Jos Hyperionia luetaan tilallisesti, millaisen kuvan se piirtää Kreikan alueesta?&lt;/p&gt;&#xA;&lt;p&gt;Asko Nivala: &amp;ldquo;Kreikan alue Friedrich Hölderlinin Hyperionissa&amp;rdquo; &lt;em&gt;niin &amp;amp; näin&lt;/em&gt;, Nro 4, 2021, 77–87, &lt;a href=&#34;https://netn.fi/sites/www.netn.fi/files/netn213-13.pdf&#34;&gt;OPEN ACCESS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enlightenment, Revolution, Melancholia</title>
-      <link>http://localhost:1313/fi/julkaisut/enlightenment-revolution-melancholia/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/enlightenment-revolution-melancholia/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/enlightenment-revolution-melancholia/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/enlightenment-revolution-melancholia/</guid>
       <description>&lt;p&gt;The chapter concentrates on the late eighteenth and early nineteenth centuries and analyzes the ambiguous project of the Enlightenment. The eighteenth century has often been depicted as an era of progress, when new scientific inventions were made and disseminated while the middle class gained more economic and political influence. The 1750s was a turning point, however, after which European intellectual history started to show darker shades and a new sceptical attitude to progress arose. At the end of the century, the Great Revolution of France brought a wave of unrest, wars and, finally, harsh manifestations of political terror. The chapter explores the heritage of the era of revolutions and its impact on the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The reuse of texts in Finnish newspapers and journals, 1771–1920: A digital humanities perspective</title>
-      <link>http://localhost:1313/fi/julkaisut/historical_methods/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/historical_methods/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/historical_methods/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/historical_methods/</guid>
       <description>&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;The digital collections of newspapers have given rise to a growing interest in studying them with computational methods. This article contributes to this discussion by presenting a method for detecting text reuse in a large corpus of digitized texts. Empirically, the article is based on the corpus of newspapers and journals from the collection of the National Library of Finland. Often, digitized repositories offer only partial views of what actually was published in printed form. The Finnish collection is unique, however, since it covers all published issues up to the year 1920. This article has a two-fold objective: methodologically, it explores how computational methods can be developed so that text reuse can be effectively identified; empirically, the article concentrates on how the circulation of texts developed in Finland from the late eighteenth century to the early twentieth century and what this reveals about the transformation of public discourse in Finland. According to our results, the reuse of texts was an integral part of the press throughout the studied period, which, on the other hand, was part of a wider transnational practice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiedostamaton saksalaisessa romantiikassa</title>
-      <link>http://localhost:1313/fi/julkaisut/tiedostamaton/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/tiedostamaton/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/tiedostamaton/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/tiedostamaton/</guid>
       <description>&lt;p&gt;Tiedostamattoman ”löytäminen” yhdistetään Sigmund Freudin 1900-luvun alussa kehittämään psykoanalyysiin. Aikalaisensa Eduard von Hartmannin ohella Freud viittaa Unien tulkinnassaan (Die Traumdeutung, 1899) 1800-luvun alun romantiikan filosofeihin F. W. J. Schellingiin, Arthur Schopenhaueriin ja Gotthilf Heinrich von Schubertiin. Tästä ei kuitenkaan tule päätellä, että romantikot olisivat ”ennakoineet” psykoanalyysia vaan Freud pikemminkin otti heiltä vaikutteita. Minän tiedostamaton toiminta oli tunnettua jo saksalaisille idealisteille, ja mielen ”pimeä puoli” oli yleinen aihe saksalaisen romantiikan kirjallisuudessa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eurooppalainen romantiikka ja Kalevala</title>
-      <link>http://localhost:1313/fi/julkaisut/kalevala/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/kalevala/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/kalevala/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/kalevala/</guid>
       <description>&lt;p&gt;Millainen oli Elias Lönnrotin &lt;em&gt;Kalevalan&lt;/em&gt; (1835, 1849) suhde romantiikan aatteisiin? 1800-luvun alun romantiikka mainitaan edelleen eräänlaisena taustakontekstina kansalliseepoksen kokoamisesta puhuttaessa, mutta &lt;em&gt;Kalevalan&lt;/em&gt; yhteydet romantiikkaan ovat saaneet viime vuosina vähemmän huomiota. Pohdin tässä artikkelissa &lt;em&gt;Kalevalan&lt;/em&gt; mahdollisia yhteyksiä eurooppalaiseen – erityisesti saksalaiseen ja skandinaaviseen – romantiikkaan.&lt;/p&gt;&#xA;&lt;p&gt;Aloitan tarkastelun Lönnrotin selkeimmin romanttisesta tekstistä, hänen lääketieteen väitöskirjastaan, jossa hän esittää käsityksensä kansanperinteen luonteesta tiedostamattomana ”yöpuolen” tietona erona valistuksen ”päiväpuolen” tietoon. Tämän jälkeen siirryn selvittämään &lt;em&gt;Kalevalan&lt;/em&gt; ensimmäisen painoksen kokoamisen taustalla olevia mahdollisia romanttisia vaikutteita ja sitten Lönnrotin eepoksen yhteyttä romantikkojen teoriaan eeppisestä aikakaudesta. Lopuksi käsittelen vielä &lt;em&gt;Kantelettaren&lt;/em&gt; alkulausetta ja Lönnrotin siinä esittämää erottelua luonnon- ja taiderunouteen. Tätä kautta selvitän, liittyikö  Kalevalan kokoaminen romantiikkaan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Onko tekoälyä olemassa?</title>
-      <link>http://localhost:1313/fi/julkaisut/ai/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/ai/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/ai/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/ai/</guid>
       <description>&lt;p&gt;2010-luvulla ei ole voinut välttyä tekoälyä koskevalta keskustelulta. Teknologiayrittäjä Elon Muskin mukaan tekoäly on ydinaseita vaarallisempi uhka ihmiskunnalle. Samaan aikaan Muskin johtama Tesla kehittää automaattiohjauksella varustettuja autoja, jotka pysyvät ainakin suurimman osan ajasta kaistaviivojen välissä. Muskin suhtautuminen tekoälyyn vaikuttaa ristiriitaiselta, ellei oteta huomioon, että hän kenties tarkoittaa vaarallisella tekoälyllä vahvaa tekoälyä, kun taas Teslan koneoppimiseen perustuva autopilotti edustaa heikkoa tekoälyä. Myös Onnibussin, Uberin ja Foodoran kaltaiset disruptiiviset yritykset hyödyntävät hinnoittelussaan ja liiketoimintamallissaan koneoppimista ja dataa kerääviä kännykkäsovelluksia. Tekoälystä on tullut bisnesmaailman buzzword, jonka mainitsemalla start up -yritysten on mahdollista avata enkelisijoittajien kukkarojen nyörit. Tosiasiassa kukaan ei ole vieläkään kehittänyt keinotekoista toimijaa, jolla olisi ihmismieleen verrattava tietoisuus. Koneet pystyvät toki tunnistamaan kasvoja ja säveltämään virheettömiä Bachin koraaleja, mutta nämä koneoppimisen sovellukset perustuvat tilastollisten mallien kouluttamiseen tarpeeksi laajalla aineistolla.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spreading News in 1904</title>
-      <link>http://localhost:1313/fi/julkaisut/bobrikov/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/bobrikov/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/bobrikov/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/bobrikov/</guid>
       <description>&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;The assassination of Nikolay Bobrikov, the Governor-General of Finland, on 16 June 1904 was a turning point in Finnish history. It was reported in hundreds, if not thousands, of newspapers worldwide. This article follows the spread of that news, particularly its spread over the first week after the assassination. The study draws on the digital newspaper repositories in Australia, Austria, Denmark, Finland, France, Germany, Mexico, Sweden, the Netherlands and the United States. It also draws on the microfilm and physical collections of Russian newspapers at the National Library of Finland. The article shows how the murder activated the telegram network and initiated a series of news waves. The routes the Bobrikov news travelled, their tempo and the evolution of related stories tell a story of a networked but biased global news scene. In that scene, technological, commercial and cultural factors simultaneously facilitated and controlled what stories reached which papers and how.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tekstien uudelleenkäyttö suomalaisessa sanoma- ja aikakauslehdistössä 1771-1920. Digitaalisten ihmistieteiden näkökulma</title>
-      <link>http://localhost:1313/fi/julkaisut/haik/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/haik/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/haik/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/haik/</guid>
       <description>&lt;p&gt;Artikkelissa tutkitaan suomalaista sanoma- ja aikakauslehdistöä tekstin uudelleenkäytön näkökulmasta. Saman tekstin julkaiseminen uudelleen eri yhteyksissä on sinänsä vanha ja tunnettu ilmiö, mutta ennen sanoma- ja aikakauslehtien digitoimista tätä lehdistön piirrettä ei ole voitu tutkia systemaattisesti. Tutkimuksen lähdeaineistona on Suomen Kansalliskirjaston julkaisema sanoma- ja aikakauslehtien digitoitu OCR-korpus, josta on COMHIS-hankkeessa kehitetyn, tekstin uudelleenkäytön tunnistavan BLAST-menetelmän avulla etsitty lehdistössä esiintyvää kopiointia ja toisteisuutta. Aikavälillä 1771–1920 toistoa sisältäviä tekstejä tai tekstikatkelmia on löytynyt noin 13,8 miljoonan klusterin eli pidemmän merkkijonon verran. Artikkelissa esitellään sekä itse uudelleenkäytön tunnistukseen käytettyä BLAST-menetelmää että tämän tunnistuksen tuloksia. Tutkimus osoittaa, että tekstien kopioiminen ja uudelleenkäyttö on merkittävä osa suomalaista lehdistöä. Menetelmänä tekstien uudelleenkäytön tunnistus tarjoaa uuden keinon tutkia informaation liikkeitä ja reittejä.&lt;/p&gt;</description>
     </item>
     <item>
       <title>History and Virtual Topology</title>
-      <link>http://localhost:1313/fi/julkaisut/topology/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/topology/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/topology/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/topology/</guid>
       <description>&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;Drawing on a new materialist approach, this article discusses the concepts of the virtual and virtual topology, and their fruitfulness for historians’ empirical work. It starts by following Gilles Deleuze’s argument that the virtual, the transformative potential of the real, has to be distinguished from the possible, which is merely an imagined double of the given world. Embracing this premise, the article shows the potential of virtual topology to shed light on the transformation of a network in the past. It suggests that history is not only about actual and stable things, it is also a site of becomings. This idea is elaborated through an analysis that focuses on the changes in the nineteenth-century Finnish press. The virtual as a theoretical concept is combined with the methodological opportunities offered by recent developments in the digital humanities, in this case, text reuse detection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Återanvändningen av text i den finska tidningspressen 1771–1853</title>
-      <link>http://localhost:1313/fi/julkaisut/historisk/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/historisk/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/historisk/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/historisk/</guid>
       <description>&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;Vi har i denna uppsats studerat de sätt på vilka den filändska tidningspressen återanvände texter under perioden 1771–1853. Undersökningen av kopiering och återanvändning baserar sig på digitala metoder, i detta fall särskilt en algoritmisk metod som har tagit intryck av bioinformatiken. Genom att analysera återanvändningen kan man, som vi gjort, studera bland annat relationerna mellan olika regioner och språk i pressen samt olika typer av återanvändning. Allt som allt innehåller tidningarna från åren 1771-1853 mycket återanvändning som består av olika slag av bestående eller återkommande annonser om försäljning eller uthyrning och myndighetsmeddelanden. Samtidigt kopplades tidningarna till et internationellt nätverk av informationsflöden och allt mer material kom att kopieras från utrikestidningar allt efter att behovet av information ökade och det snabbt föränderliga läget krävde det.&amp;quot;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
-      <link>http://localhost:1313/fi/julkaisut/schlegel-monograph/</link>
+      <link>https://askonivala.github.io/fi/julkaisut/schlegel-monograph/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fi/julkaisut/schlegel-monograph/</guid>
+      <guid>https://askonivala.github.io/fi/julkaisut/schlegel-monograph/</guid>
       <description>&lt;p&gt;Asko Nivala: &lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel&amp;rsquo;s Philosophy of History&lt;/em&gt;. Routledge, New York 2017, &lt;a href=&#34;https://books.google.de/books?id=jecNDgAAQBAJ&amp;amp;pg=PT0=#v=onepage&amp;amp;q&amp;amp;f=false&#34;&gt;ESIKATSELE&lt;/a&gt; / &lt;a href=&#34;https://www.routledge.com/The-Romantic-Idea-of-the-Golden-Age-in-Friedrich-Schlegels-Philosophy/Nivala/p/book/9781138635180&#34;&gt;TILAA&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;&amp;ldquo;The nineteenth-century Romantic understanding of history is often confused with the longing for the past Golden Age. In this book, the Romantic idea of Golden Age is seen from a new angle by discussing it in the context of Friedrich Schlegel’s works. Interestingly, Schlegel argued that the concept of a past Golden Age in the beginning of history was itself a product of antiquity, imagined without any historical ground. The Golden Age was not bygone for Schlegel, but to be produced in the future. His utopian vision of the Kingdom of God was related to the millenarian expectations of perpetual peace aroused by the revolutionary wars. Schlegel understood current era through the kairos concept, which emphasized the present possibilities for public agency. Thus history could not be reduced to any kind of pre-established pattern of redemption, for the future was determined only by the opportunities manifested in the present time.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

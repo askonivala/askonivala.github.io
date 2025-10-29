@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visits on Asko Nivala</title>
-    <link>http://localhost:1313/visits/</link>
+    <link>https://askonivala.github.io/visits/</link>
     <description>Recent content in Visits on Asko Nivala</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/visits/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://askonivala.github.io/visits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Institut für Maschinelle Sprachverarbeitung</title>
-      <link>http://localhost:1313/visits/stuttgart/</link>
+      <link>https://askonivala.github.io/visits/stuttgart/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/visits/stuttgart/</guid>
+      <guid>https://askonivala.github.io/visits/stuttgart/</guid>
       <description>&lt;p&gt;In 2020, I was a visiting scholar at the Institut für Maschinelle Sprachverarbeitung (Universität Stuttgart, Germany). During my postdoc at Stuttgart I have not only familiarised myself with the cutting-edge methods of natural language processing (NLP) and machine learning, but also learned good practices of software development like testing and profiling Python code.&lt;/p&gt;&#xA;&lt;p&gt;Tübingen is not far from Stuttgart and it was possible to see &lt;em&gt;Tübinger Stift&lt;/em&gt;, where Hegel, Hölderlin and Schelling studied and visit &lt;em&gt;Hölderlinturm&lt;/em&gt;, where Friedrich Hölderlin once lived.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NULab for Texts, Maps, and Networks</title>
-      <link>http://localhost:1313/visits/boston/</link>
+      <link>https://askonivala.github.io/visits/boston/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/visits/boston/</guid>
-      <description>&lt;p&gt;From August to December 2019, I was a visiting scholar &lt;a href=&#34;https://cssh.northeastern.edu/nulab/romantic-cartographies-visiting-speaker-nivala/&#34;&gt;hosted by the NULab for Texts, Maps, and Networks and the Digital Scholarship Group&lt;/a&gt;. NULab was part of the Oceanic Exchanges consortium.&lt;/p&gt;&#xA;&lt;p&gt;The NULab has built significant expertise in many varieties computational humanities work, with colleagues in literary study, history, computer science, and the social sciences all contributing methodological and domain knowledge. Being a postdoc in this research community greatly benefited the cartographical aspects of my &lt;a href=&#34;http://localhost:1313/projects/romcar/&#34;&gt;ROMCAR&lt;/a&gt; project.&lt;/p&gt;</description>
+      <guid>https://askonivala.github.io/visits/boston/</guid>
+      <description>&lt;p&gt;From August to December 2019, I was a visiting scholar &lt;a href=&#34;https://cssh.northeastern.edu/nulab/romantic-cartographies-visiting-speaker-nivala/&#34;&gt;hosted by the NULab for Texts, Maps, and Networks and the Digital Scholarship Group&lt;/a&gt;. NULab was part of the Oceanic Exchanges consortium.&lt;/p&gt;&#xA;&lt;p&gt;The NULab has built significant expertise in many varieties computational humanities work, with colleagues in literary study, history, computer science, and the social sciences all contributing methodological and domain knowledge. Being a postdoc in this research community greatly benefited the cartographical aspects of my &lt;a href=&#34;../projects/romcar/&#34;&gt;ROMCAR&lt;/a&gt; project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Forschungsschwerpunkt Historische Kulturwissenschaften</title>
-      <link>http://localhost:1313/visits/mainz/</link>
+      <link>https://askonivala.github.io/visits/mainz/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/visits/mainz/</guid>
-      <description>&lt;p&gt;In 2017, I spend 4 months as a visiting fellow at &lt;em&gt;Forschungsschwerpunkt Historische Kulturwissenschaften&lt;/em&gt; (HKW), Johannes Gutenberg-Universität Mainz, Germany. The research visit was part of my 3-years post doc at the Turku Institute for Advanced Studies (TIAS, University of Turku).&lt;/p&gt;&#xA;&lt;p&gt;My travel costs and accomodation in Mainz were funded by the Kone Foundation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/kone_en.jpg&#34; alt=&#34;Kone Foundation&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://askonivala.github.io/visits/mainz/</guid>
+      <description>&lt;p&gt;In 2017, I spend 4 months as a visiting fellow at &lt;em&gt;Forschungsschwerpunkt Historische Kulturwissenschaften&lt;/em&gt; (HKW), Johannes Gutenberg-Universität Mainz, Germany. The research visit was part of my 3-years post doc at the Turku Institute for Advanced Studies (TIAS, University of Turku).&lt;/p&gt;&#xA;&lt;p&gt;My travel costs and accomodation in Mainz were funded by the Kone Foundation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../img/kone_en.jpg&#34; alt=&#34;Kone Foundation&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

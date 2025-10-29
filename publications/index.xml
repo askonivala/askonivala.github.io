@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Asko Nivala</title>
-    <link>http://localhost:1313/publications/</link>
+    <link>https://askonivala.github.io/publications/</link>
     <description>Recent content in Publications on Asko Nivala</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://askonivala.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travelling in Romantic Bildungsroman Narratives</title>
-      <link>http://localhost:1313/publications/bildung/</link>
+      <link>https://askonivala.github.io/publications/bildung/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/bildung/</guid>
+      <guid>https://askonivala.github.io/publications/bildung/</guid>
       <description>&lt;p&gt;The early nineteenth-century bildungsroman is often understood as a coming-of-age story of the protagonist, which implies that temporality is more constitutive for its composition than spatiality. In contrast, my paper focuses on the motif of travelling in German and British bildungsroman narratives. Opposed to the previous allegorical understanding of the Romantic bildungsroman, I suggest that the methods of the spatial humanities open up a new perspective on bildungsroman narratives by showing how their travel itineraries were used in the construction of Europe before and after the Napoleonic Wars. The itineraries annotated from the corpus suggest that the classic Grand Tour to Italy remain important, especially in German Romanticism, whereas northern regions are also popular in British texts. A few narratives emphasise the region of Greece in defining the European frontier in relation to the Ottoman Empire, while Russia and Poland are not popular settings for bildungsroman narratives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
-      <link>http://localhost:1313/publications/jcls/</link>
+      <link>https://askonivala.github.io/publications/jcls/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/jcls/</guid>
+      <guid>https://askonivala.github.io/publications/jcls/</guid>
       <description>&lt;p&gt;Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. &lt;em&gt;Journal of Computational Literary Studies&lt;/em&gt; 2 (1), doi: &lt;a href=&#34;https://doi.org/10.48694/jcls.3584&#34;&gt;https://doi.org/10.48694/jcls.3584&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;In the &lt;em&gt;Atlas of Finnish Literature 1870-1940&lt;/em&gt; project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools. The results are presented in a web-based environment. This article describes the technical structure of the analysis chain, the tools used and the metaprocesses used to manage the research dataset.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Construction of Space in English and German Literature 1790–1848</title>
-      <link>http://localhost:1313/publications/corvey/</link>
+      <link>https://askonivala.github.io/publications/corvey/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/corvey/</guid>
+      <guid>https://askonivala.github.io/publications/corvey/</guid>
       <description>&lt;p&gt;In this article, I analyse named entity linking as a new method to study the construction of space in the English and German texts of European Literature, 1790–1840: The Corvey Collection. The Corvey Collection is among the most comprehensive datasets to have survived from the Romantic Era of literature. However, German-language documents in particular suffer from poor OCR scanning. To avoid noise caused by incorrectly digitized characters, I have re-OCRed the collection. In contrast to named entity recognition, named entity linking is able to disambiguate toponyms and find coordinates for them from linked open data sources such as DBpedia. I have then imported the geocoded places to geographic information systems, which enables comparing spaces imagined in British and German literature from the 1790s to the 1840s. To link spatial information to the semantic content of texts, I have applied topic modeling to find common themes shared by the works. Studying the spatial imagination of the popular texts published in the Romantic era discloses an alternative view to our present notion of Romanticism based on the close reading of a few canonized authors. The comparison of English and German corpora shows the way in which the spatial imagination reflected the asymmetrical relationship of center and periphery: the core of British literature was located in London, whereas no single center appears in the German-language data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using word vector models to trace conceptual change over time and space in historical newspapers, 1840–1914</title>
-      <link>http://localhost:1313/publications/shico/</link>
+      <link>https://askonivala.github.io/publications/shico/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/shico/</guid>
+      <guid>https://askonivala.github.io/publications/shico/</guid>
       <description>&lt;p&gt;Linking large digitized newspaper corpora in different languages that have become available in national and state libraries opens up new possibilities for the computational analysis of patterns of information flow across national and linguistic boundaries. The significant contribution this article presents is to demonstrate how word vector models can be used to explore the way concepts have shifted in meaning over time, as they migrated across space, by comparing newspapers from different countries published between 1840 and 1914. We define a concept, rather pragmatically, as a key term or core idea that has been used in historical discourse: an abstraction or mental representation that has served as a building block for thoughts and beliefs. We use historical newspapers in English, Finnish, German and Swedish from collections in the UK, US, Germany, and Finland, as well as the Europeana collection. As use cases, we analyze how the different conceptual constructs of “nation” and “illness” emerged and changed between 1840 and 1920. Conceptual change over time is simulated by creating a series of overlapping word vector models, each spanning ten years. Historical vocabularies are retrieved on the basis of vector space proximity. Conceptual change across space is simulated by comparing the historical change of vocabularies in newspaper collections from different nations in several languages. This computational approach to conceptual history opens up new ways to identify patterns in public discourse over longer periods of time and across borders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friedrich Schlegel and the Mystical Kingdom of God</title>
-      <link>http://localhost:1313/publications/mystik/</link>
+      <link>https://askonivala.github.io/publications/mystik/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/mystik/</guid>
+      <guid>https://askonivala.github.io/publications/mystik/</guid>
       <description>&lt;p&gt;Asko Nivala: ”Friedrich Schlegel and the Mystical Kingdom of God.” &lt;em&gt;Mystik und Romantik&lt;/em&gt;. Eds. Günther Bonheim, Thomas Isermann &amp;amp; Thomas Regehly. Brill, Leiden 2021, 69–88.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enlightenment, Revolution, Melancholia</title>
-      <link>http://localhost:1313/publications/enlightenment-revolution-melancholia/</link>
+      <link>https://askonivala.github.io/publications/enlightenment-revolution-melancholia/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/enlightenment-revolution-melancholia/</guid>
+      <guid>https://askonivala.github.io/publications/enlightenment-revolution-melancholia/</guid>
       <description>&lt;p&gt;The chapter concentrates on the late eighteenth and early nineteenth centuries and analyzes the ambiguous project of the Enlightenment. The eighteenth century has often been depicted as an era of progress, when new scientific inventions were made and disseminated while the middle class gained more economic and political influence. The 1750s was a turning point, however, after which European intellectual history started to show darker shades and a new sceptical attitude to progress arose. At the end of the century, the Great Revolution of France brought a wave of unrest, wars and, finally, harsh manifestations of political terror. The chapter explores the heritage of the era of revolutions and its impact on the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The reuse of texts in Finnish newspapers and journals, 1771–1920</title>
-      <link>http://localhost:1313/publications/historical_methods/</link>
+      <link>https://askonivala.github.io/publications/historical_methods/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/historical_methods/</guid>
+      <guid>https://askonivala.github.io/publications/historical_methods/</guid>
       <description>&lt;p&gt;The digital collections of newspapers have given rise to a growing interest in studying them with computational methods. This article contributes to this discussion by presenting a method for detecting text reuse in a large corpus of digitized texts. Empirically, the article is based on the corpus of newspapers and journals from the collection of the National Library of Finland. Often, digitized repositories offer only partial views of what actually was published in printed form. The Finnish collection is unique, however, since it covers all published issues up to the year 1920. This article has a two-fold objective: methodologically, it explores how computational methods can be developed so that text reuse can be effectively identified; empirically, the article concentrates on how the circulation of texts developed in Finland from the late eighteenth century to the early twentieth century and what this reveals about the transformation of public discourse in Finland. According to our results, the reuse of texts was an integral part of the press throughout the studied period, which, on the other hand, was part of a wider transnational practice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spreading News in 1904</title>
-      <link>http://localhost:1313/publications/bobrikov/</link>
+      <link>https://askonivala.github.io/publications/bobrikov/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/bobrikov/</guid>
+      <guid>https://askonivala.github.io/publications/bobrikov/</guid>
       <description>&lt;p&gt;The assassination of Nikolay Bobrikov, the Governor-General of Finland, on 16 June 1904 was a turning point in Finnish history. It was reported in hundreds, if not thousands, of newspapers worldwide. This article follows the spread of that news, particularly its spread over the first week after the assassination. The study draws on the digital newspaper repositories in Australia, Austria, Denmark, Finland, France, Germany, Mexico, Sweden, the Netherlands and the United States. It also draws on the microfilm and physical collections of Russian newspapers at the National Library of Finland. The article shows how the murder activated the telegram network and initiated a series of news waves. The routes the Bobrikov news travelled, their tempo and the evolution of related stories tell a story of a networked but biased global news scene. In that scene, technological, commercial and cultural factors simultaneously facilitated and controlled what stories reached which papers and how.&lt;/p&gt;</description>
     </item>
     <item>
       <title>History and Virtual Topology</title>
-      <link>http://localhost:1313/publications/topology/</link>
+      <link>https://askonivala.github.io/publications/topology/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/topology/</guid>
+      <guid>https://askonivala.github.io/publications/topology/</guid>
       <description>&lt;p&gt;Drawing on a new materialist approach, this article discusses the concepts of the virtual and virtual topology, and their fruitfulness for historians’ empirical work. It starts by following Gilles Deleuze’s argument that the virtual, the transformative potential of the real, has to be distinguished from the possible, which is merely an imagined double of the given world. Embracing this premise, the article shows the potential of virtual topology to shed light on the transformation of a network in the past. It suggests that history is not only about actual and stable things, it is also a site of becomings. This idea is elaborated through an analysis that focuses on the changes in the nineteenth-century Finnish press. The virtual as a theoretical concept is combined with the methodological opportunities offered by recent developments in the digital humanities, in this case, text reuse detection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
-      <link>http://localhost:1313/publications/schlegel-monograph/</link>
+      <link>https://askonivala.github.io/publications/schlegel-monograph/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/schlegel-monograph/</guid>
+      <guid>https://askonivala.github.io/publications/schlegel-monograph/</guid>
       <description>&lt;p&gt;Asko Nivala: &lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel&amp;rsquo;s Philosophy of History&lt;/em&gt;. Routledge, New York 2017, &lt;a href=&#34;https://books.google.de/books?id=jecNDgAAQBAJ&amp;amp;pg=PT0=#v=onepage&amp;amp;q&amp;amp;f=false&#34;&gt;PREVIEW&lt;/a&gt; / &lt;a href=&#34;https://www.routledge.com/The-Romantic-Idea-of-the-Golden-Age-in-Friedrich-Schlegels-Philosophy/Nivala/p/book/9781138635180&#34;&gt;ORDER&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The nineteenth-century Romantic understanding of history is often confused with the longing for the past Golden Age. In this book, the Romantic idea of Golden Age is seen from a new angle by discussing it in the context of Friedrich Schlegel’s works. Interestingly, Schlegel argued that the concept of a past Golden Age in the beginning of history was itself a product of antiquity, imagined without any historical ground. The Golden Age was not bygone for Schlegel, but to be produced in the future. His utopian vision of the Kingdom of God was related to the millenarian expectations of perpetual peace aroused by the revolutionary wars. Schlegel understood current era through the kairos concept, which emphasized the present possibilities for public agency. Thus history could not be reduced to any kind of pre-established pattern of redemption, for the future was determined only by the opportunities manifested in the present time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
-      <link>http://localhost:1313/publications/catastrophic/</link>
+      <link>https://askonivala.github.io/publications/catastrophic/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/catastrophic/</guid>
+      <guid>https://askonivala.github.io/publications/catastrophic/</guid>
       <description>&lt;p&gt;Asko Nivala: &amp;ldquo;Catastrophic Revolution and the Rise of Romantic Bildung&amp;rdquo;, &lt;em&gt;Travelling Notions of Culture in Early Nineteenth-Century Europe&lt;/em&gt;. Eds. Hannu Salmi, Asko Nivala, Jukka Sarjala. Routledge, New York 2015, pp. 19-37, PREVIEW / ORDER.&lt;/p&gt;&#xA;&lt;p&gt;I discuss the rise of Romantic &amp;lsquo;Bildung&amp;rsquo; at the turn of the nineteenth century with a special emphasis on Friedrich Schlegel, but referring also to other famous Romantics such as William Wordsworth and Novalis (Friedrich von Hardenberg, 1772–1801). First, I will outline the rise of Romantic &amp;lsquo;Bildung&amp;rsquo; in relation to the French Revolution, which was compared with a sublime natural disaster. Second, I will show how the Revolution was conceived in a spatial framework of the geographic ‘border’, which distanced one’s own country from the French turmoil. The third part of this chapter will argue that the early nineteenth-century Romantic juxtaposition of &amp;lsquo;Bildung&amp;rsquo; and &amp;lsquo;civilisation&amp;rsquo; was based on a rehabilitation of periphery (countryside) and semiperiphery (small medieval towns) as the sites of original national &amp;lsquo;Bildung&amp;rsquo;, against Paris as the universal centre of civilisation. This chapter will thus thematise a hidden tension in the Romantic concept of culture: its dual reference to (1) the ontological separation between nature’s mechanical necessity and human freedom, and (2) to the geographic borderlines and topographical differences between national cultures.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
-      <link>http://localhost:1313/publications/travelling/</link>
+      <link>https://askonivala.github.io/publications/travelling/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/travelling/</guid>
+      <guid>https://askonivala.github.io/publications/travelling/</guid>
       <description>&lt;p&gt;Hannu Salmi, Asko Nivala, Jukka Sarjala (eds.): &lt;em&gt;Travelling Notions of Culture in Early Nineteenth-Century Europe&lt;/em&gt;. Routledge, New York 2015, &lt;a href=&#34;https://books.google.de/books?id=LbPMCgAAQBAJ&amp;amp;printsec=frontcover#v=onepage&amp;amp;q&amp;amp;f=false&#34;&gt;PREVIEW&lt;/a&gt; / &lt;a href=&#34;https://www.routledge.com/Travelling-Notions-of-Culture-in-Early-Nineteenth-Century-Europe/Salmi-Nivala-Sarjala/p/book/9781138122437&#34;&gt;ORDER&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The notions of culture and civilization are at the heart of European self-image. This book focuses on how space and spatiality contributed to defining the concepts of culture and civilization and, conversely, what kind of spatial ramifications &amp;lsquo;culture&amp;rsquo; and &amp;lsquo;civilization&amp;rsquo; entailed. These questions have vital importance to the understanding of this formative period of modern Europe.&lt;/p&gt;</description>
     </item>
   </channel>

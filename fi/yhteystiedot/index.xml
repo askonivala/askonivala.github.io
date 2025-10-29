@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yhteystiedot on Asko Nivala</title>
-    <link>http://localhost:1313/fi/yhteystiedot/</link>
+    <link>https://askonivala.github.io/fi/yhteystiedot/</link>
     <description>Recent content in Yhteystiedot on Asko Nivala</description>
     <generator>Hugo</generator>
     <language>fi</language>
-    <atom:link href="http://localhost:1313/fi/yhteystiedot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://askonivala.github.io/fi/yhteystiedot/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
