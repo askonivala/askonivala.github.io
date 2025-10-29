@@ -2,173 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esitelmät on Asko Nivala</title>
-    <link>https://askonivala.github.io/fi/esitelm%C3%A4t/</link>
+    <link>http://localhost:1313/fi/esitelm%C3%A4t/</link>
     <description>Recent content in Esitelmät on Asko Nivala</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/fi/esitelm%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fi</language>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fi/esitelm%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking Beyond the Human: Mechanical Automata and Societal Upheaval in the Romantic Era</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere_ias_colloquium/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/tampere_ias_colloquium/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere_ias_colloquium/</guid>
-      <description>Thinking Beyond the Human: Mechanical Automata and Societal Upheaval in the Romantic Era Tampere Insitute for Advanced Studies
-Open Colloquium “Human–Non-human”
-Time: Wednesday, 8 October 2025, at 13:30-17:00
-Place: Tampere University, City Centre Campus, Main Building, Café Toivo &amp;amp; Aula, 2nd floor
-Abstract The talk traces how Romantic anxieties about the mechanisation of thinking and industrial revolution evolved into dystopias of machine uprising. Achim von Arnim’s Gräfin Dolores (1810) already imagines humans threatened by soulless automata, while Mary Shelley’s Frankenstein (1818) reworks myth of the golem to depict a human-made being turning against its creator.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/tampere_ias_colloquium/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Tampere Insitute for Advanced Studies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://research.tuni.fi/tampere-ias/news/tampere-ias-open-colloquium-human-non-human-8-october-2025/&#34;&gt;Open Colloquium “Human–Non-human”&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time: Wednesday, 8 October 2025, at 13:30-17:00&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Place: Tampere University, City Centre Campus, Main Building, Café Toivo &amp;amp; Aula, 2nd floor&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The talk traces how Romantic anxieties about the mechanisation of thinking and industrial revolution evolved into dystopias of machine uprising. Achim von Arnim’s &lt;em&gt;Gräfin Dolores&lt;/em&gt; (1810) already imagines humans threatened by soulless automata, while Mary Shelley’s &lt;em&gt;Frankenstein&lt;/em&gt; (1818) reworks myth of the golem to depict a human-made being turning against its creator. Samuel Butler’s “Darwin among the Machines” (1863) later framed this as the displacement of humanity by a machine race. Such nineteenth-century dystopias anticipate current debates on rogue AI and automation-driven unemployment, echoing the industrial revolution’s anxieties while illuminating today’s cultural fears of technological supremacy.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Digital Mapping for Humanists - A Geoparsing Workshop</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/tallinn_summer_school_seminar/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/tallinn_summer_school_seminar/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/tallinn_summer_school_seminar/</guid>
-      <description>Workshop at DIGHT-Net Summer School in Digital Cultural Heritage - (Re)Mediating the Past University of Tallinn, Estonia
-29. August 2025, 11:00–12:30
-This hands-on workshop introduces the basic principles of geoparsing – the process of identifying and interpreting place references in textual sources. Through practical exercises and group discussion, participants will learn how spatial information embedded in historical and literary texts can be extracted, visualised and analysed to support new kinds of research questions.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/tallinn_summer_school_seminar/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;University of Tallinn, Estonia&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;29. August 2025, 11:00–12:30&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This hands-on workshop introduces the basic principles of geoparsing – the process of identifying and interpreting place references in textual sources. Through practical exercises and group discussion, participants will learn how spatial information embedded in historical and literary texts can be extracted, visualised and analysed to support new kinds of research questions. No prior programming skills are required. By the end of the session, participants will have experimented with accessible tools to explore how texts can be transformed into maps, and how spatial approaches can enrich cultural and historical analysis.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geoparsing and the Spatial Turn in Cultural History</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/tallinn_summer_school/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/tallinn_summer_school/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/tallinn_summer_school/</guid>
-      <description>Lecture at DIGHT-Net Summer School in Digital Cultural Heritage: (Re)Mediating the Past University of Tallinn, Estonia
-28. August 2025, 9:30–10:30
-Geoparsing refers to the extraction of spatial information from unstructured text, typically through the identification and disambiguation of place names. This process enables the conversion of texts into maps. In the context of cultural heritage, geoparsing offers new avenues for cultural-historical research and the study of spatial history. Where are the centres and peripheries of a textual corpus?</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/tallinn_summer_school/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;University of Tallinn, Estonia&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;28. August 2025, 9:30–10:30&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Geoparsing refers to the extraction of spatial information from unstructured text, typically through the identification and disambiguation of place names. This process enables the conversion of texts into maps. In the context of cultural heritage, geoparsing offers new avenues for cultural-historical research and the study of spatial history. Where are the centres and peripheries of a textual corpus?&lt;/p&gt;&#xA;&lt;p&gt;In this lecture, I introduce the basic principles of geoparsing technology and demonstrate its practical application in cultural-historical research through two case studies. The first draws on my project Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840, which investigated spatial constructions in early nineteenth-century German- and English-language Romantic literature, using materials from the digital archive European Literature, 1790–1840: The Corvey Collection. The second example comes from the project Atlas of Finnish Literature, 1870–1940 mapping place names mentioned in Finnish-language fiction from that period.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Gears of Discontent: Mechanical Automata and Societal Upheaval in the Romantic Era</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/nassr_2024/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/nassr_2024/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/nassr_2024/</guid>
-      <description>My paper explores how the Romantic rebellion against the creator was transformed into the idea of a rebellion of machines. Samuel Butler’s “Darwin among the Machines” (1863) is considered the first text to introduce the idea of a machine race displacing humans. However, a similar fear was also expressed during the Romantic period. In Gräfin Dolores (1810) by Achim von Arnim, the Count Karl feels anxious after encountering automata of a mysterious doctor: “Still, he was tormented by the feeling of being completely alien and alone in the power of soulless machines, which, created by humans, could easily gain supremacy over him.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/nassr_2024/</guid>
+      <description>&lt;p&gt;My paper explores how the Romantic rebellion against the creator was transformed into the idea of a rebellion of machines. Samuel Butler’s “Darwin among the Machines” (1863) is considered the first text to introduce the idea of a machine race displacing humans. However, a similar fear was also expressed during the Romantic period. In &lt;em&gt;Gräfin Dolores&lt;/em&gt; (1810) by Achim von Arnim, the Count Karl feels anxious after encountering automata of a mysterious doctor: “Still, he was tormented by the feeling of being completely alien and alone in the power of soulless machines, which, created by humans, could easily gain supremacy over him.” (&lt;em&gt;Werke I&lt;/em&gt;, p. 404; my translation.) While Mary Shelley’s &lt;em&gt;Frankenstein&lt;/em&gt; (1818) does not address the AI takeover as we understand it today, it does explore the idea of a human-created entity rebelling against its creator. In this case, the entity is not a machine but the Creature, an assemblage of body parts brought to life through unspecified scientific means. Shelley’s novel can be read as a reinterpretation of Milton’s Satan or the golem myth, but it also refers to the myth of Prometheus, popular in German Romanticism. Both Goethe and Friedrich Schlegel refer to Promethean efforts to manufacture a race of artificial humans who despise God. What historical process led to Roy the replicant (mis)quoting William Blake’s &lt;em&gt;America a Prophecy&lt;/em&gt; (1793) in &lt;em&gt;Blade Runner&lt;/em&gt; (1982)? Blake’s character Orc is the embodiment of rebellion against Urizen, but Ridley Scott’s film is about the rebellion of machines against humanity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Varhaisten historiallisten romaanien kertoma Suomi</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/atlas_1800/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/atlas_1800/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/atlas_1800/</guid>
-      <description>Asko Nivala, Jasmine Westerlund, Juhana Saarelainen: &amp;ldquo;Varhaisten historiallisten romaanien kertoma Suomi.&amp;rdquo; Muistamisen kulttuurit 1800-luvulla – 1800-luvun tutkimuksen verkoston 14. vuosikonferenssi, SKS, Helsinki 18.–19.1.2024.
-Abstrakti Suomalaisen kirjallisuuden atlas -hankkeessa (Alfred Kordelinin säätiön suuret kulttuurihankkeet 2022–2024) kartoitamme suomalaisen kirjallisuuden kuvittelemaa tilaa vuosina 1870–1940. Hanke soveltaa neuroverkkoon perustuvaa nimentunnistusta, linkitettyä avointa dataa ja paikkatietojärjestelmiä ensimmäistä kertaa kotimaiseen kirjallisuuteen. Tavoitteenamme on tunnistaa suomenkielisessä kirjallisuudessa vuosina 1870–1940 mainitut paikannimet; käytämme tietokannassamme Lönnrot- ja Gutenberg-editioiden tekstejä. Luokitamme tekstien toponyymit geopoliittisiin alueisiin, luonnonpaikkoihin ja rakennuksiin.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/atlas_1800/</guid>
+      <description>&lt;p&gt;Asko Nivala, Jasmine Westerlund, Juhana Saarelainen: &amp;ldquo;Varhaisten historiallisten romaanien kertoma Suomi.&amp;rdquo; &lt;a href=&#34;https://www.finlit.fi/ajankohtaista/tapahtumat/muistamisen-kulttuurit-1800-luvulla-1800-luvun-tutkimuksen-verkoston-14-vuosikonferenssi/&#34;&gt;Muistamisen kulttuurit 1800-luvulla – 1800-luvun tutkimuksen verkoston 14. vuosikonferenssi&lt;/a&gt;, SKS, Helsinki 18.–19.1.2024.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;Suomalaisen kirjallisuuden atlas -hankkeessa (Alfred Kordelinin säätiön suuret kulttuurihankkeet 2022–2024) kartoitamme suomalaisen kirjallisuuden kuvittelemaa tilaa vuosina 1870–1940. Hanke soveltaa neuroverkkoon perustuvaa nimentunnistusta, linkitettyä avointa dataa ja paikkatietojärjestelmiä ensimmäistä kertaa kotimaiseen kirjallisuuteen. Tavoitteenamme on tunnistaa suomenkielisessä kirjallisuudessa vuosina 1870–1940 mainitut paikannimet; käytämme tietokannassamme Lönnrot- ja Gutenberg-editioiden tekstejä. Luokitamme tekstien toponyymit geopoliittisiin alueisiin, luonnonpaikkoihin ja rakennuksiin. Rikastamme teksteistä tunnistettuja paikannimiä linkittämällä ne avoimeen semanttiseen verkkoon (Wikidata). Tämä mahdollistaa tilallisten entiteettien yksilöinnin ja yhdistämisen maantieteellisiin koordinaatteihin. Tästä syntyneen paikkatietojärjestelmän avulla luomme kotimaisen kirjallisuuden kartaston, joka julkaistaan &lt;a href=&#34;https://atlas.utu.fi&#34;&gt;interaktiivisena verkkosivuna&lt;/a&gt; ja avoimena datasettinä.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Yllättäviä tihentymiä kartalla</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/kultut/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/kultut/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/kultut/</guid>
-      <description>Asko Nivala, Jasmine Westerlund, Juhana Saarelainen: &amp;ldquo;Yllättäviä tihentymiä kartalla.&amp;rdquo; Kulttuurintutkimuksen päivät 2023, Aalto yliopisto, Espoo, 14.12.2023.
-Abstrakti Suomalaisen kirjallisuuden atlas -hankkeessa (Alfred Kordelinin säätiön suuret kulttuurihankkeet 2022–2024) kartoitamme suomalaisen kirjallisuuden kuvittelemaa tilaa vuosina 1870–1940. Hanke soveltaa neuroverkkoon perustuvaa nimentunnistusta, linkitettyä avointa dataa ja paikkatietojärjestelmiä ensimmäistä kertaa kotimaiseen kirjallisuuteen. Tavoitteenamme on tunnistaa suomenkielisessä kirjallisuudessa vuosina 1870–1940 mainitut paikannimet; käytämme tietokannassamme Lönnrot- ja Gutenberg-editioiden tekstejä. Luokitamme tekstien toponyymit geopoliittisiin alueisiin, luonnonpaikkoihin ja rakennuksiin.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/kultut/</guid>
+      <description>&lt;p&gt;Asko Nivala, Jasmine Westerlund, Juhana Saarelainen: &amp;ldquo;Yllättäviä tihentymiä kartalla.&amp;rdquo; &lt;a href=&#34;https://www.kulttuurintutkimuksenpaivat2023.fi&#34;&gt;Kulttuurintutkimuksen päivät 2023&lt;/a&gt;, Aalto yliopisto, Espoo, 14.12.2023.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;Suomalaisen kirjallisuuden atlas -hankkeessa (Alfred Kordelinin säätiön suuret kulttuurihankkeet 2022–2024) kartoitamme suomalaisen kirjallisuuden kuvittelemaa tilaa vuosina 1870–1940. Hanke soveltaa neuroverkkoon perustuvaa nimentunnistusta, linkitettyä avointa dataa ja paikkatietojärjestelmiä ensimmäistä kertaa kotimaiseen kirjallisuuteen. Tavoitteenamme on tunnistaa suomenkielisessä kirjallisuudessa vuosina 1870–1940 mainitut paikannimet; käytämme tietokannassamme Lönnrot- ja Gutenberg-editioiden tekstejä. Luokitamme tekstien toponyymit geopoliittisiin alueisiin, luonnonpaikkoihin ja rakennuksiin. Rikastamme teksteistä tunnistettuja paikannimiä linkittämällä&#xA;ne avoimeen semanttiseen verkkoon (Wikidata). Tämä mahdollistaa tilallisten entiteettien yksilöinnin ja yhdistämisen maantieteellisiin koordinaatteihin. Tästä syntyneen&#xA;paikkatietojärjestelmän avulla luomme kotimaisen kirjallisuuden kartaston, joka julkaistaan interaktiivisena verkkosivuna ja avoimena datasettinä.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Romantic Irony: Transcendental Reflection of Artistic Form</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/irony/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/irony/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/irony/</guid>
-      <description>Friedrich Schlegel’s concept of irony emphasises self-awareness and self-reflexivity, allowing the work of art to create and question its own rules. Much like Kant’s transcendental knowledge, Schlegel’s formulation of art generates its own poetical rules from within, underscoring an autonomous quality.
-Asko Nivala: &amp;ldquo;Romantic Irony: Transcendental Reflection of Artistic Form&amp;rdquo;, an invited presentation at Romantic Irony symposium. The University of the Arts, Helsinki, Finland, 12 December 2023.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/irony/</guid>
+      <description>&lt;p&gt;Friedrich Schlegel’s concept of irony emphasises self-awareness and self-reflexivity, allowing the work of art to create and question its own rules. Much like Kant’s transcendental knowledge, Schlegel’s formulation of art generates its own poetical rules from within, underscoring an autonomous quality.&lt;/p&gt;&#xA;&lt;p&gt;Asko Nivala: &amp;ldquo;Romantic Irony: Transcendental Reflection of Artistic Form&amp;rdquo;, an invited presentation at &lt;a href=&#34;https://www.uniarts.fi/en/events/kuva-research-days-day-1/&#34;&gt;&lt;em&gt;Romantic Irony&lt;/em&gt;&lt;/a&gt; symposium. The University of the Arts, Helsinki, Finland, 12 December 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Esoteria ja romantiikan koneihmiset</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/esoteria/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/esoteria/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/esoteria/</guid>
-      <description>Asko Nivala: &amp;ldquo;Esoteria ja romantiikan koneihmiset&amp;rdquo;, keynote-luento Esoteria ja filosofia Suomessa konferensissa. Tieteiden talo, Helsinki 12.–13.10.2023.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/esoteria/</guid>
+      <description>&lt;p&gt;Asko Nivala: &amp;ldquo;Esoteria ja romantiikan koneihmiset&amp;rdquo;, keynote-luento &lt;a href=&#34;https://blogs.helsinki.fi/esoteria-ja-filosofia/ohjelma/&#34;&gt;&lt;em&gt;Esoteria ja filosofia Suomessa&lt;/em&gt;&lt;/a&gt; konferensissa. Tieteiden talo, Helsinki 12.–13.10.2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Romantic Database. The Zettelkasten and Commonplace Book as Literary Media</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/leipzig/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/leipzig/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/leipzig/</guid>
-      <description>Asko Nivala: &amp;ldquo;Romantic Database. The Zettelkasten and Commonplace Book as Literary Media&amp;rdquo;, conference paper at Romanticism and its Media. Jahrestagung der Gesellschaft für Englische Romantik -conference. University of Leipzig, Germany, 5.–8. October 2023.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/leipzig/</guid>
+      <description>&lt;p&gt;Asko Nivala: &amp;ldquo;Romantic Database. The Zettelkasten and Commonplace Book as Literary Media&amp;rdquo;, conference paper at &lt;a href=&#34;https://conference.uni-leipzig.de/ger2023/&#34;&gt;&lt;em&gt;Romanticism and its Media. Jahrestagung der Gesellschaft für Englische Romantik&lt;/em&gt;&lt;/a&gt; -conference. University of Leipzig, Germany, 5.–8. October 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/wurzburg/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/wurzburg/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/wurzburg/</guid>
-      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund &amp;amp; Juhana Saarelainen: &amp;ldquo;Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora.&amp;rdquo; CCLS 2023 Würzburg – 2nd Annual Conference of Computational Literary Studies.
-Abstract In the Atlas of Finnish Literature 1870–1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/wurzburg/</guid>
+      <description>&lt;p&gt;Harri Kiiskinen, Asko Nivala, Jasmine Westerlund &amp;amp; Juhana Saarelainen: &amp;ldquo;Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora.&amp;rdquo; &lt;a href=&#34;https://jcls.io/site/ccls2023/&#34;&gt;CCLS 2023 Würzburg – 2nd Annual Conference of Computational Literary Studies&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;In the &lt;em&gt;Atlas of Finnish Literature 1870–1940&lt;/em&gt; project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools. The results are presented in web-based environment. This article describes the technical structure of the analysis chain, the tools used and the metaprocesses used to manage the research dataset.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kirjallisuuden koettu tila ja sen digitaalinen tutkimus</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/kts/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/kts/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/kts/</guid>
-      <description>Asko Nivala, Jasmine Westerlund, Juhana Saarelainen &amp;amp; Harri Kiiskinen: &amp;ldquo;Kirjallisuuden koettu tila ja sen digitaalinen tutkimus&amp;rdquo; Kirjallisuudentutkimuksen päivät 2023. Esitelmä on osa &amp;ldquo;Kirjallisuushistorian uudistuvat metodit&amp;rdquo; -työryhmää. Turku 4.5.2023 klo 13.00 – 14.45 (Arcanum, A270).
-Abstrakti Suomalaisen kirjallisuuden atlas -hankkeessa (Alfred Kordelinin säätiön suuret kulttuurihankkeet 2022–2024) kartoitamme suomalaisen kirjallisuuden kuvittelemaa tilaa vuosina 1870–1940. Hanke soveltaa neuroverkkoon perustuvaa nimentunnistusta, linkitettyä avointa dataa ja paikkatietojärjestelmiä kirjallisuushistorian tutkimukseen. Tavoitteenamme on tunnistaa suomenkielisessä kirjallisuudessa vuosina 1870–1940 mainitut paikannimet nimentunnistuksen avulla.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/kts/</guid>
+      <description>&lt;p&gt;Asko Nivala, Jasmine Westerlund, Juhana Saarelainen &amp;amp; Harri Kiiskinen: &amp;ldquo;Kirjallisuuden koettu tila ja sen digitaalinen tutkimus&amp;rdquo; &lt;a href=&#34;https://www.kirjallisuudentutkimus.fi/ajankohtaista/kirjallisuudentutkimuksen-paivat-2023-kokemus/tyoryhmat/&#34;&gt;&lt;em&gt;Kirjallisuudentutkimuksen päivät 2023&lt;/em&gt;&lt;/a&gt;. Esitelmä on osa &amp;ldquo;Kirjallisuushistorian uudistuvat metodit&amp;rdquo; -työryhmää. Turku 4.5.2023 klo 13.00 – 14.45 (Arcanum, A270).&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstrakti&#34;&gt;Abstrakti&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Suomalaisen kirjallisuuden atlas&lt;/em&gt; -hankkeessa (Alfred Kordelinin säätiön suuret kulttuurihankkeet 2022–2024) kartoitamme suomalaisen kirjallisuuden kuvittelemaa tilaa vuosina 1870–1940. Hanke soveltaa neuroverkkoon perustuvaa nimentunnistusta, linkitettyä avointa dataa ja paikkatietojärjestelmiä kirjallisuushistorian tutkimukseen. Tavoitteenamme on tunnistaa suomenkielisessä kirjallisuudessa vuosina 1870–1940 mainitut paikannimet nimentunnistuksen avulla. Luokitamme toponyymit mm. geopoliittisiin alueisiin, luonnonpaikkoihin ja rakennuksiin. Koodamme tunnistetut paikat myös koneluettavina annotaatioina digitoituihin kokoteksteihin säilyttääksemme niiden alkuperäisen tekstiyhteyden. Rikastamme tunnistettuja paikannimiä linkittämällä ne avoimeen semanttiseen verkkoon (Wikidata), jolloin voimme myös yksilöidä viittauksen kohteena olevat tilalliset entiteetit ja yhdistää ne maantieteellisiin koordinaatteihin. Tästä syntyneen paikkatietojärjestelmän avulla luomme kotimaisen kirjallisuuden kartaston, joka julkaistaan hankkeen lopuksi interaktiivisena verkkosivuna sekä avoimena datasettinä.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>1800-luvun romantiikan koneihmiset</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/tias_kirjasto/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/tias_kirjasto/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/tias_kirjasto/</guid>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/tias_kirjasto/</guid>
       <description>Millaisia keinotekoisia ihmisiä kuviteltiin romantiikan aikakaudella? Kuinka 1800-luvun romantiikka vaikutti 1900-luvun tieteisfiktion kuvastoon?</description>
     </item>
-    
     <item>
       <title>Frankenstein ja vampyyri – 1800-luvun romantiikan hirviöt</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/turun_linna/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/turun_linna/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/turun_linna/</guid>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/turun_linna/</guid>
       <description>Vuonna 1816 Euroopassa koettiin kesätön vuosi. Lordi Byron, Mary Shelley ja Percy Shelley viettivät ystävineen sateista kesää Genevenjärven rannalla. Seurue kokoontui takkatulen ääreen keksimään kauhutarinoita. Luennolla kerrotaan, kuinka saivat alkunsa kaksi länsimaisen populaarikulttuurin ikonista hirviötä: Frankensteinin hirviö sekä vampyyri.</description>
     </item>
-    
     <item>
       <title>Voiko 1800-luvun alun koettua tilaa tutkia digitaalisesti?</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere-1800/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/tampere-1800/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/tampere-1800/</guid>
-      <description>Romantic Cartographies -hankkeeni vertailee brittiläisen ja saksalaisen romantiikan kirjallisuuden rakentamaa tilaa 1790–1840-luvuilla. Projekti käyttää digitoituja aineistoja ja menetelmiä. Haravoin fiktiivisistä teksteistä ja matkakirjoista paikannimiä hyödyntäen luonnollisten kielten prosessointia (NLP) ja nimettyjen entiteettien tunnistusta (NEL). Tutkimusaineiston analyysissä ja rikastamisessa hyödynnän erityisesti paikkatietojärjestelmiä (GIS) ja linkitettyä avointa dataa (LOD).
-Monet analysoimani tekstit sisältävät yllättäviäkin maantieteellisiä viittauksia, joiden kartoittaminen avaa uusia reittejä tunnettuihin romantiikan ajan klassikoihin ja nostaa esiin myös unohtuneita teoksia. 1800-luvun alun romantiikan fiktion ja matkakirjallisuuden tilallisten viittausten digitointi herättää kuitenkin uusia metodologisia ongelmia.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/tampere-1800/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://romcar.fi&#34;&gt;Romantic Cartographies&lt;/a&gt; -hankkeeni vertailee brittiläisen ja saksalaisen romantiikan kirjallisuuden rakentamaa tilaa 1790–1840-luvuilla. Projekti käyttää digitoituja aineistoja ja menetelmiä. Haravoin fiktiivisistä teksteistä ja matkakirjoista paikannimiä hyödyntäen luonnollisten kielten prosessointia (NLP) ja nimettyjen entiteettien tunnistusta (NEL). Tutkimusaineiston analyysissä ja rikastamisessa hyödynnän erityisesti paikkatietojärjestelmiä (GIS) ja linkitettyä avointa dataa (LOD).&lt;/p&gt;&#xA;&lt;p&gt;Monet analysoimani tekstit sisältävät yllättäviäkin maantieteellisiä viittauksia, joiden kartoittaminen avaa uusia reittejä tunnettuihin romantiikan ajan klassikoihin ja nostaa esiin myös unohtuneita teoksia. 1800-luvun alun romantiikan fiktion ja matkakirjallisuuden tilallisten viittausten digitointi herättää kuitenkin uusia metodologisia ongelmia. Fiktiiviset maisemakuvaukset ovat usein häilyviä, mutta paikkatietojärjestelmän käyttäminen edellyttää tarkkojen numeeristen koordinaattien antamista sijainneille. Voiko romantiikan tekstien rakentamaa kokemusta paikoista (&lt;em&gt;place/Ort&lt;/em&gt;) ja niiden välisistä laadullisista eroista palauttaa kartesiolaiseen homogeeniseen avaruuteen (&lt;em&gt;space/Raum&lt;/em&gt;)? Vaikka kokemus (&lt;em&gt;Erfahrung&lt;/em&gt;) tai elämys (&lt;em&gt;Erlebnis&lt;/em&gt;) ovat lähtökohtaisesti subjektiivisia, voiko kokemuksien kielellisiä ilmauksia teksteissä vertailla algoritmisesti? Esitelmäni pohtii näitä metodologisia ongelmia muutamien lähdekorpuksestani nousseiden esimerkkien avulla.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cityscapes and Landscapes in British and German Romanticism (1790–1840)</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/pleasures/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/pleasures/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/pleasures/</guid>
-      <description>The Pleasures of Imagination – Art, Architecture and Aesthetics in 18th Century Europe
-Suomen 1700-luvun tutkimuksen seuran konferenssi Helsingissä ja Zoomissa 21–22.10.2021.
-Aalto yliopisto, Runeberginkatu 14–16 sisäänkäynti A, 3-kerros.
-Oma esitelmäni &amp;ldquo;Cityscapes and Landscapes in British and German Romanticism (1790–1840)&amp;rdquo; on 22.10.2021 klo 14.30.
-Caspar David Friedrich: Wiesen bei Greifswald (1821/1822). Wikimedia Commons.</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/pleasures/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://1700.fi/wp-content/uploads/2021/10/Conference-programme-Pleasures-of-Imaginations.pdf&#34;&gt;The Pleasures of Imagination – Art, Architecture and Aesthetics in 18th Century Europe&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Suomen 1700-luvun tutkimuksen seuran konferenssi Helsingissä ja &lt;a href=&#34;https://aboakademi.zoom.us/j/64696749093&#34;&gt;Zoomissa&lt;/a&gt; 21–22.10.2021.&lt;/p&gt;&#xA;&lt;p&gt;Aalto yliopisto, Runeberginkatu 14–16 sisäänkäynti A, 3-kerros.&lt;/p&gt;&#xA;&lt;p&gt;Oma esitelmäni &amp;ldquo;Cityscapes and Landscapes in British and German Romanticism (1790–1840)&amp;rdquo; on 22.10.2021 klo 14.30.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/Friedrich_2.jpg&#34; alt=&#34;Caspar David Friedrich: Wiesen bei Greifswald (1821/1822). Wikimedia Commons.&#34;&gt;&#xA;&lt;em&gt;Caspar David Friedrich: Wiesen bei Greifswald (1821/1822). Wikimedia Commons.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How Finnish Romanticism became Finnish: The Romantic Background of the Kalevala</title>
-      <link>https://askonivala.github.io/fi/esitelm%C3%A4t/kalevala-unknown/</link>
+      <link>http://localhost:1313/fi/esitelm%C3%A4t/kalevala-unknown/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/fi/esitelm%C3%A4t/kalevala-unknown/</guid>
-      <description>Unknown Tongues is a symposium on Romanticism&amp;rsquo;s minor and marginal languages. On 24 September 2021, invited leading scholars will gather online to debate and discuss what a closer study of (trans)national Romanticisms through their languages can bring to Romantic and nineteenth-century studies, and what relevance a recovery of these traditions may have for our sense of the present.
-  Organised by Brecht de Groote (Universiteit Gent ⬨ University of Ghent) and Rhys Kaminski-Jones (Prifysgol Cymru y Drindod Dewi Sant ⬨ University of Wales Trinity Saint David).</description>
+      <guid>http://localhost:1313/fi/esitelm%C3%A4t/kalevala-unknown/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Unknown Tongues is a symposium on Romanticism&amp;rsquo;s minor and marginal languages. On 24 September 2021, invited leading scholars will gather online to debate and discuss what a closer study of (trans)national Romanticisms through their languages can bring to Romantic and nineteenth-century studies, and what relevance a recovery of these traditions may have for our sense of the present.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Organised by Brecht de Groote (Universiteit Gent ⬨ University of Ghent) and Rhys Kaminski-Jones (Prifysgol Cymru y Drindod Dewi Sant ⬨ University of Wales Trinity Saint David).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

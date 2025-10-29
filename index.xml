@@ -2,315 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asko Nivala</title>
-    <link>https://askonivala.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Asko Nivala</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://askonivala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking Beyond the Human: Mechanical Automata and Societal Upheaval in the Romantic Era</title>
-      <link>https://askonivala.github.io/talks/tampere_ias_colloquium/</link>
+      <link>http://localhost:1313/talks/tampere_ias_colloquium/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/tampere_ias_colloquium/</guid>
-      <description>Thinking Beyond the Human: Mechanical Automata and Societal Upheaval in the Romantic Era Tampere Insitute for Advanced Studies
-Open Colloquium “Human–Non-human”
-Time: Wednesday, 8 October 2025, at 13:30-17:00
-Place: Tampere University, City Centre Campus, Main Building, Café Toivo &amp;amp; Aula, 2nd floor
-Abstract The talk traces how Romantic anxieties about the mechanisation of thinking and industrial revolution evolved into dystopias of machine uprising. Achim von Arnim’s Gräfin Dolores (1810) already imagines humans threatened by soulless automata, while Mary Shelley’s Frankenstein (1818) reworks myth of the golem to depict a human-made being turning against its creator.</description>
+      <guid>http://localhost:1313/talks/tampere_ias_colloquium/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Tampere Insitute for Advanced Studies&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://research.tuni.fi/tampere-ias/news/tampere-ias-open-colloquium-human-non-human-8-october-2025/&#34;&gt;Open Colloquium “Human–Non-human”&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time: Wednesday, 8 October 2025, at 13:30-17:00&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Place: Tampere University, City Centre Campus, Main Building, Café Toivo &amp;amp; Aula, 2nd floor&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;The talk traces how Romantic anxieties about the mechanisation of thinking and industrial revolution evolved into dystopias of machine uprising. Achim von Arnim’s &lt;em&gt;Gräfin Dolores&lt;/em&gt; (1810) already imagines humans threatened by soulless automata, while Mary Shelley’s &lt;em&gt;Frankenstein&lt;/em&gt; (1818) reworks myth of the golem to depict a human-made being turning against its creator. Samuel Butler’s “Darwin among the Machines” (1863) later framed this as the displacement of humanity by a machine race. Such nineteenth-century dystopias anticipate current debates on rogue AI and automation-driven unemployment, echoing the industrial revolution’s anxieties while illuminating today’s cultural fears of technological supremacy.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Artificial Intelligence Before Computers: The History of Romantic Computationalism</title>
-      <link>https://askonivala.github.io/projects/aicom/</link>
+      <link>http://localhost:1313/projects/aicom/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/aicom/</guid>
-      <description>Machine learning and neural networks have developed significantly during the twenty-first century. Despite the success of weak artificial intelligence, strong AI – the creation of an artificial consciousness comparable with humans – is still as much science fiction as it was when Mary Shelley published Frankenstein (1818). My research project Artificial Intelligence Before Computers (AICOM) explores the history of AI discourse before the invention of the electronic computer. The utopia of a thinking machine is based on computationalism, which argues that human mind operates like a computer.</description>
+      <guid>http://localhost:1313/projects/aicom/</guid>
+      <description>&lt;h4 id=&#34;pi-asko-nivala&#34;&gt;PI: Asko Nivala&lt;/h4&gt;&#xA;&lt;p&gt;Machine learning and neural networks have developed significantly during the twenty-first century. Despite the success of weak artificial intelligence, strong AI – the creation of an artificial consciousness comparable with humans – is still as much science fiction as it was when Mary Shelley published &lt;em&gt;Frankenstein&lt;/em&gt; (1818). My research project &lt;em&gt;Artificial Intelligence Before Computers&lt;/em&gt; (AICOM) explores the history of AI discourse before the invention of the electronic computer. The utopia of a thinking machine is based on computationalism, which argues that human mind operates like a computer. As a philosophical idea, computationalism is much older than computing hardware: already Thomas Hobbes and G. W. Leibniz maintained that all reasoning is reducible to addition and subtraction.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Digital Mapping for Humanists - A Geoparsing Workshop</title>
-      <link>https://askonivala.github.io/talks/tallinn_summer_school_seminar/</link>
+      <link>http://localhost:1313/talks/tallinn_summer_school_seminar/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/tallinn_summer_school_seminar/</guid>
-      <description>Workshop at DIGHT-Net Summer School in Digital Cultural Heritage - (Re)Mediating the Past University of Tallinn, Estonia
-29. August 2025, 11:00–12:30
-This hands-on workshop introduces the basic principles of geoparsing – the process of identifying and interpreting place references in textual sources. Through practical exercises and group discussion, participants will learn how spatial information embedded in historical and literary texts can be extracted, visualised and analysed to support new kinds of research questions.</description>
+      <guid>http://localhost:1313/talks/tallinn_summer_school_seminar/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;University of Tallinn, Estonia&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;29. August 2025, 11:00–12:30&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This hands-on workshop introduces the basic principles of geoparsing – the process of identifying and interpreting place references in textual sources. Through practical exercises and group discussion, participants will learn how spatial information embedded in historical and literary texts can be extracted, visualised and analysed to support new kinds of research questions. No prior programming skills are required. By the end of the session, participants will have experimented with accessible tools to explore how texts can be transformed into maps, and how spatial approaches can enrich cultural and historical analysis.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Travelling in Romantic Bildungsroman Narratives</title>
-      <link>https://askonivala.github.io/publications/bildung/</link>
+      <link>http://localhost:1313/publications/bildung/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/bildung/</guid>
-      <description>The early nineteenth-century bildungsroman is often understood as a coming-of-age story of the protagonist, which implies that temporality is more constitutive for its composition than spatiality. In contrast, my paper focuses on the motif of travelling in German and British bildungsroman narratives. Opposed to the previous allegorical understanding of the Romantic bildungsroman, I suggest that the methods of the spatial humanities open up a new perspective on bildungsroman narratives by showing how their travel itineraries were used in the construction of Europe before and after the Napoleonic Wars.</description>
+      <guid>http://localhost:1313/publications/bildung/</guid>
+      <description>&lt;p&gt;The early nineteenth-century bildungsroman is often understood as a coming-of-age story of the protagonist, which implies that temporality is more constitutive for its composition than spatiality. In contrast, my paper focuses on the motif of travelling in German and British bildungsroman narratives. Opposed to the previous allegorical understanding of the Romantic bildungsroman, I suggest that the methods of the spatial humanities open up a new perspective on bildungsroman narratives by showing how their travel itineraries were used in the construction of Europe before and after the Napoleonic Wars. The itineraries annotated from the corpus suggest that the classic Grand Tour to Italy remain important, especially in German Romanticism, whereas northern regions are also popular in British texts. A few narratives emphasise the region of Greece in defining the European frontier in relation to the Ottoman Empire, while Russia and Poland are not popular settings for bildungsroman narratives.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Geoparsing and the Spatial Turn in Cultural History</title>
-      <link>https://askonivala.github.io/talks/tallinn_summer_school/</link>
+      <link>http://localhost:1313/talks/tallinn_summer_school/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/tallinn_summer_school/</guid>
-      <description>DIGHT-Net Summer School in Digital Cultural Heritage: (Re)Mediating the Past University of Tallinn, Estonia
-28. August 2025, 9:30–10:30
-Geoparsing refers to the extraction of spatial information from unstructured text, typically through the identification and disambiguation of place names. This process enables the conversion of texts into maps. In the context of cultural heritage, geoparsing offers new avenues for cultural-historical research and the study of spatial history. Where are the centres and peripheries of a textual corpus?</description>
+      <guid>http://localhost:1313/talks/tallinn_summer_school/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;University of Tallinn, Estonia&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;28. August 2025, 9:30–10:30&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Geoparsing refers to the extraction of spatial information from unstructured text, typically through the identification and disambiguation of place names. This process enables the conversion of texts into maps. In the context of cultural heritage, geoparsing offers new avenues for cultural-historical research and the study of spatial history. Where are the centres and peripheries of a textual corpus?&lt;/p&gt;&#xA;&lt;p&gt;In this lecture, I introduce the basic principles of geoparsing technology and demonstrate its practical application in cultural-historical research through two case studies. The first draws on my project Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840, which investigated spatial constructions in early nineteenth-century German- and English-language Romantic literature, using materials from the digital archive European Literature, 1790–1840: The Corvey Collection. The second example comes from the project Atlas of Finnish Literature, 1870–1940 mapping place names mentioned in Finnish-language fiction from that period.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Gears of Discontent: Mechanical Automata and Societal Upheaval in the Romantic Era</title>
-      <link>https://askonivala.github.io/talks/nassr_2024/</link>
+      <link>http://localhost:1313/talks/nassr_2024/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/nassr_2024/</guid>
-      <description>My paper explores how the Romantic rebellion against the creator was transformed into the idea of a rebellion of machines. Samuel Butler’s “Darwin among the Machines” (1863) is considered the first text to introduce the idea of a machine race displacing humans. However, a similar fear was also expressed during the Romantic period. In Gräfin Dolores (1810) by Achim von Arnim, the Count Karl feels anxious after encountering automata of a mysterious doctor: “Still, he was tormented by the feeling of being completely alien and alone in the power of soulless machines, which, created by humans, could easily gain supremacy over him.</description>
+      <guid>http://localhost:1313/talks/nassr_2024/</guid>
+      <description>&lt;p&gt;My paper explores how the Romantic rebellion against the creator was transformed into the idea of a rebellion of machines. Samuel Butler’s “Darwin among the Machines” (1863) is considered the first text to introduce the idea of a machine race displacing humans. However, a similar fear was also expressed during the Romantic period. In &lt;em&gt;Gräfin Dolores&lt;/em&gt; (1810) by Achim von Arnim, the Count Karl feels anxious after encountering automata of a mysterious doctor: “Still, he was tormented by the feeling of being completely alien and alone in the power of soulless machines, which, created by humans, could easily gain supremacy over him.” (&lt;em&gt;Werke I&lt;/em&gt;, p. 404; my translation.) While Mary Shelley’s &lt;em&gt;Frankenstein&lt;/em&gt; (1818) does not address the AI takeover as we understand it today, it does explore the idea of a human-created entity rebelling against its creator. In this case, the entity is not a machine but the Creature, an assemblage of body parts brought to life through unspecified scientific means. Shelley’s novel can be read as a reinterpretation of Milton’s Satan or the golem myth, but it also refers to the myth of Prometheus, popular in German Romanticism. Both Goethe and Friedrich Schlegel refer to Promethean efforts to manufacture a race of artificial humans who despise God. What historical process led to Roy the replicant (mis)quoting William Blake’s &lt;em&gt;America a Prophecy&lt;/em&gt; (1793) in &lt;em&gt;Blade Runner&lt;/em&gt; (1982)? Blake’s character Orc is the embodiment of rebellion against Urizen, but Ridley Scott’s film is about the rebellion of machines against humanity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
-      <link>https://askonivala.github.io/publications/jcls/</link>
+      <link>http://localhost:1313/publications/jcls/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/jcls/</guid>
-      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. Journal of Computational Literary Studies 2 (1), doi: https://doi.org/10.48694/jcls.3584.
-Abstract In the Atlas of Finnish Literature 1870-1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
+      <guid>http://localhost:1313/publications/jcls/</guid>
+      <description>&lt;p&gt;Harri Kiiskinen, Asko Nivala, Jasmine Westerlund, and Juhana Saarelainen (2023). “Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora”. &lt;em&gt;Journal of Computational Literary Studies&lt;/em&gt; 2 (1), doi: &lt;a href=&#34;https://doi.org/10.48694/jcls.3584&#34;&gt;https://doi.org/10.48694/jcls.3584&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;In the &lt;em&gt;Atlas of Finnish Literature 1870-1940&lt;/em&gt; project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools. The results are presented in a web-based environment. This article describes the technical structure of the analysis chain, the tools used and the metaprocesses used to manage the research dataset.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Romantic Irony: Transcendental Reflection of Artistic Form</title>
-      <link>https://askonivala.github.io/talks/irony/</link>
+      <link>http://localhost:1313/talks/irony/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/irony/</guid>
-      <description>Friedrich Schlegel’s concept of irony emphasises self-awareness and self-reflexivity, allowing the work of art to create and question its own rules. Much like Kant’s transcendental knowledge, Schlegel’s formulation of art generates its own poetical rules from within, underscoring an autonomous quality.
-Asko Nivala: &amp;ldquo;Romantic Irony: Transcendental Reflection of Artistic Form&amp;rdquo;, an invited presentation at Romantic Irony symposium. The University of the Arts, Helsinki, Finland, 12 December 2023.</description>
+      <guid>http://localhost:1313/talks/irony/</guid>
+      <description>&lt;p&gt;Friedrich Schlegel’s concept of irony emphasises self-awareness and self-reflexivity, allowing the work of art to create and question its own rules. Much like Kant’s transcendental knowledge, Schlegel’s formulation of art generates its own poetical rules from within, underscoring an autonomous quality.&lt;/p&gt;&#xA;&lt;p&gt;Asko Nivala: &amp;ldquo;Romantic Irony: Transcendental Reflection of Artistic Form&amp;rdquo;, an invited presentation at &lt;a href=&#34;https://www.uniarts.fi/en/events/kuva-research-days-day-1/&#34;&gt;&lt;em&gt;Romantic Irony&lt;/em&gt;&lt;/a&gt; symposium. The University of the Arts, Helsinki, Finland, 12 December 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Construction of Space in English and German Literature 1790–1848</title>
-      <link>https://askonivala.github.io/publications/corvey/</link>
+      <link>http://localhost:1313/publications/corvey/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/corvey/</guid>
-      <description>In this article, I analyse named entity linking as a new method to study the construction of space in the English and German texts of European Literature, 1790–1840: The Corvey Collection. The Corvey Collection is among the most comprehensive datasets to have survived from the Romantic Era of literature. However, German-language documents in particular suffer from poor OCR scanning. To avoid noise caused by incorrectly digitized characters, I have re-OCRed the collection.</description>
+      <guid>http://localhost:1313/publications/corvey/</guid>
+      <description>&lt;p&gt;In this article, I analyse named entity linking as a new method to study the construction of space in the English and German texts of European Literature, 1790–1840: The Corvey Collection. The Corvey Collection is among the most comprehensive datasets to have survived from the Romantic Era of literature. However, German-language documents in particular suffer from poor OCR scanning. To avoid noise caused by incorrectly digitized characters, I have re-OCRed the collection. In contrast to named entity recognition, named entity linking is able to disambiguate toponyms and find coordinates for them from linked open data sources such as DBpedia. I have then imported the geocoded places to geographic information systems, which enables comparing spaces imagined in British and German literature from the 1790s to the 1840s. To link spatial information to the semantic content of texts, I have applied topic modeling to find common themes shared by the works. Studying the spatial imagination of the popular texts published in the Romantic era discloses an alternative view to our present notion of Romanticism based on the close reading of a few canonized authors. The comparison of English and German corpora shows the way in which the spatial imagination reflected the asymmetrical relationship of center and periphery: the core of British literature was located in London, whereas no single center appears in the German-language data.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Romantic Database. The Zettelkasten and Commonplace Book as Literary Media</title>
-      <link>https://askonivala.github.io/talks/leipzig/</link>
+      <link>http://localhost:1313/talks/leipzig/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/leipzig/</guid>
-      <description>Asko Nivala: &amp;ldquo;Romantic Database. The Zettelkasten and Commonplace Book as Literary Media&amp;rdquo;, conference paper at Romanticism and its Media. Jahrestagung der Gesellschaft für Englische Romantik -conference. University of Leipzig, Germany, 5.–8. October 2023.</description>
+      <guid>http://localhost:1313/talks/leipzig/</guid>
+      <description>&lt;p&gt;Asko Nivala: &amp;ldquo;Romantic Database. The Zettelkasten and Commonplace Book as Literary Media&amp;rdquo;, conference paper at &lt;a href=&#34;https://conference.uni-leipzig.de/ger2023/&#34;&gt;&lt;em&gt;Romanticism and its Media. Jahrestagung der Gesellschaft für Englische Romantik&lt;/em&gt;&lt;/a&gt; -conference. University of Leipzig, Germany, 5.–8. October 2023.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora</title>
-      <link>https://askonivala.github.io/talks/wurzburg/</link>
+      <link>http://localhost:1313/talks/wurzburg/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/wurzburg/</guid>
-      <description>Harri Kiiskinen, Asko Nivala, Jasmine Westerlund &amp;amp; Juhana Saarelainen: &amp;ldquo;Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora.&amp;rdquo; CCLS 2023 Würzburg – 2nd Annual Conference of Computational Literary Studies.
-Abstract In the Atlas of Finnish Literature 1870–1940 project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools.</description>
+      <guid>http://localhost:1313/talks/wurzburg/</guid>
+      <description>&lt;p&gt;Harri Kiiskinen, Asko Nivala, Jasmine Westerlund &amp;amp; Juhana Saarelainen: &amp;ldquo;Extracting Geographical References from Finnish Literature. Fully Automated Processing of Plain-Text Corpora.&amp;rdquo; &lt;a href=&#34;https://jcls.io/site/ccls2023/&#34;&gt;CCLS 2023 Würzburg – 2nd Annual Conference of Computational Literary Studies&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;&#xA;&lt;p&gt;In the &lt;em&gt;Atlas of Finnish Literature 1870–1940&lt;/em&gt; project, we extract geographical information from a Finnish-language corpus of literary texts published between 1870 and 1940. The texts are transformed from plain texts to TEI/XML, and further processed with named entity recognition and linking tools. The results are presented in web-based environment. This article describes the technical structure of the analysis chain, the tools used and the metaprocesses used to manage the research dataset.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Using word vector models to trace conceptual change over time and space in historical newspapers, 1840–1914</title>
-      <link>https://askonivala.github.io/publications/shico/</link>
+      <link>http://localhost:1313/publications/shico/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/shico/</guid>
-      <description>Linking large digitized newspaper corpora in different languages that have become available in national and state libraries opens up new possibilities for the computational analysis of patterns of information flow across national and linguistic boundaries. The significant contribution this article presents is to demonstrate how word vector models can be used to explore the way concepts have shifted in meaning over time, as they migrated across space, by comparing newspapers from different countries published between 1840 and 1914.</description>
+      <guid>http://localhost:1313/publications/shico/</guid>
+      <description>&lt;p&gt;Linking large digitized newspaper corpora in different languages that have become available in national and state libraries opens up new possibilities for the computational analysis of patterns of information flow across national and linguistic boundaries. The significant contribution this article presents is to demonstrate how word vector models can be used to explore the way concepts have shifted in meaning over time, as they migrated across space, by comparing newspapers from different countries published between 1840 and 1914. We define a concept, rather pragmatically, as a key term or core idea that has been used in historical discourse: an abstraction or mental representation that has served as a building block for thoughts and beliefs. We use historical newspapers in English, Finnish, German and Swedish from collections in the UK, US, Germany, and Finland, as well as the Europeana collection. As use cases, we analyze how the different conceptual constructs of “nation” and “illness” emerged and changed between 1840 and 1920. Conceptual change over time is simulated by creating a series of overlapping word vector models, each spanning ten years. Historical vocabularies are retrieved on the basis of vector space proximity. Conceptual change across space is simulated by comparing the historical change of vocabularies in newspaper collections from different nations in several languages. This computational approach to conceptual history opens up new ways to identify patterns in public discourse over longer periods of time and across borders.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Atlas of Finnish Literature 1870–1940</title>
-      <link>https://askonivala.github.io/projects/atlas/</link>
+      <link>http://localhost:1313/projects/atlas/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/atlas/</guid>
-      <description>Project website PI: Asko Nivala What kind of geographical areas have been imagined in Finnish literature? What kind of maps do the classics of our literature draw? Where are the centres and peripheries of Finnish literature? Literary cartography emerged in the late 1990s as part of the spatial turn in the humanities. In the 2000s, it has adopted the methods of digital humanities, combining the processing of natural languages with geographic information system.</description>
+      <guid>http://localhost:1313/projects/atlas/</guid>
+      <description>&lt;h4 id=&#34;pi-asko-nivala&#34;&gt;PI: Asko Nivala&lt;/h4&gt;&#xA;&lt;h4 id=&#34;project-website&#34;&gt;&lt;a href=&#34;https://atlas.utu.fi/in_english&#34;&gt;Project website&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;What kind of geographical areas have been imagined in Finnish literature? What kind of maps do the classics of our literature draw? Where are the centres and peripheries of Finnish literature? Literary cartography emerged in the late 1990s as part of the spatial turn in the humanities. In the 2000s, it has adopted the methods of digital humanities, combining the processing of natural languages with geographic information system. The &lt;em&gt;Atlas of Finnish Literature 1870-1940&lt;/em&gt; project applies these new methods for the first time to the study of Finnish fiction.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Friedrich Schlegel and the Mystical Kingdom of God</title>
-      <link>https://askonivala.github.io/publications/mystik/</link>
+      <link>http://localhost:1313/publications/mystik/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/mystik/</guid>
-      <description>Asko Nivala: ”Friedrich Schlegel and the Mystical Kingdom of God.” Mystik und Romantik. Eds. Günther Bonheim, Thomas Isermann &amp;amp; Thomas Regehly. Brill, Leiden 2021, 69–88.</description>
+      <guid>http://localhost:1313/publications/mystik/</guid>
+      <description>&lt;p&gt;Asko Nivala: ”Friedrich Schlegel and the Mystical Kingdom of God.” &lt;em&gt;Mystik und Romantik&lt;/em&gt;. Eds. Günther Bonheim, Thomas Isermann &amp;amp; Thomas Regehly. Brill, Leiden 2021, 69–88.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cityscapes and Landscapes in British and German Romanticism (1790–1840)</title>
-      <link>https://askonivala.github.io/talks/pleasures/</link>
+      <link>http://localhost:1313/talks/pleasures/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/pleasures/</guid>
-      <description>The Pleasures of Imagination – Art, Architecture and Aesthetics in 18th Century Europe
-The Finnish Society for Eighteenth-Century Studies Conference Helsinki and on Zoom 21–22 October 2021.
-Aalto university, Runeberginkatu 14–16 entrance A, 3rd floor.
-My paper &amp;ldquo;Cityscapes and Landscapes in British and German Romanticism (1790–1840)&amp;rdquo; will be held on 22 October 2021 at 14.30.
-Caspar David Friedrich: Wiesen bei Greifswald (1821/1822). Wikimedia Commons.</description>
+      <guid>http://localhost:1313/talks/pleasures/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://1700.fi/wp-content/uploads/2021/10/Conference-programme-Pleasures-of-Imaginations.pdf&#34;&gt;The Pleasures of Imagination – Art, Architecture and Aesthetics in 18th Century Europe&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Finnish Society for Eighteenth-Century Studies Conference Helsinki and &lt;a href=&#34;https://aboakademi.zoom.us/j/64696749093&#34;&gt;on Zoom&lt;/a&gt; 21–22 October 2021.&lt;/p&gt;&#xA;&lt;p&gt;Aalto university, Runeberginkatu 14–16 entrance A, 3rd floor.&lt;/p&gt;&#xA;&lt;p&gt;My paper &amp;ldquo;Cityscapes and Landscapes in British and German Romanticism (1790–1840)&amp;rdquo; will be held on 22 October 2021 at 14.30.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/Friedrich_2.jpg&#34; alt=&#34;Caspar David Friedrich: Wiesen bei Greifswald (1821/1822). Wikimedia Commons.&#34;&gt;&#xA;&lt;em&gt;Caspar David Friedrich: Wiesen bei Greifswald (1821/1822). Wikimedia Commons.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How Finnish Romanticism became Finnish: The Romantic Background of the Kalevala</title>
-      <link>https://askonivala.github.io/talks/kalevala-unknown/</link>
+      <link>http://localhost:1313/talks/kalevala-unknown/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/talks/kalevala-unknown/</guid>
-      <description>Unknown Tongues is a symposium on Romanticism&amp;rsquo;s minor and marginal languages. On 24 September 2021, invited leading scholars will gather online to debate and discuss what a closer study of (trans)national Romanticisms through their languages can bring to Romantic and nineteenth-century studies, and what relevance a recovery of these traditions may have for our sense of the present.
-  Organised by Brecht de Groote (Universiteit Gent ⬨ University of Ghent) and Rhys Kaminski-Jones (Prifysgol Cymru y Drindod Dewi Sant ⬨ University of Wales Trinity Saint David).</description>
+      <guid>http://localhost:1313/talks/kalevala-unknown/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Unknown Tongues is a symposium on Romanticism&amp;rsquo;s minor and marginal languages. On 24 September 2021, invited leading scholars will gather online to debate and discuss what a closer study of (trans)national Romanticisms through their languages can bring to Romantic and nineteenth-century studies, and what relevance a recovery of these traditions may have for our sense of the present.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Organised by Brecht de Groote (Universiteit Gent ⬨ University of Ghent) and Rhys Kaminski-Jones (Prifysgol Cymru y Drindod Dewi Sant ⬨ University of Wales Trinity Saint David).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Enlightenment, Revolution, Melancholia</title>
-      <link>https://askonivala.github.io/publications/enlightenment-revolution-melancholia/</link>
+      <link>http://localhost:1313/publications/enlightenment-revolution-melancholia/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/enlightenment-revolution-melancholia/</guid>
-      <description>The chapter concentrates on the late eighteenth and early nineteenth centuries and analyzes the ambiguous project of the Enlightenment. The eighteenth century has often been depicted as an era of progress, when new scientific inventions were made and disseminated while the middle class gained more economic and political influence. The 1750s was a turning point, however, after which European intellectual history started to show darker shades and a new sceptical attitude to progress arose.</description>
+      <guid>http://localhost:1313/publications/enlightenment-revolution-melancholia/</guid>
+      <description>&lt;p&gt;The chapter concentrates on the late eighteenth and early nineteenth centuries and analyzes the ambiguous project of the Enlightenment. The eighteenth century has often been depicted as an era of progress, when new scientific inventions were made and disseminated while the middle class gained more economic and political influence. The 1750s was a turning point, however, after which European intellectual history started to show darker shades and a new sceptical attitude to progress arose. At the end of the century, the Great Revolution of France brought a wave of unrest, wars and, finally, harsh manifestations of political terror. The chapter explores the heritage of the era of revolutions and its impact on the future.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Institut für Maschinelle Sprachverarbeitung</title>
-      <link>https://askonivala.github.io/visits/stuttgart/</link>
+      <link>http://localhost:1313/visits/stuttgart/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/visits/stuttgart/</guid>
-      <description>In 2020, I was a visiting scholar at the Institut für Maschinelle Sprachverarbeitung (Universität Stuttgart, Germany). During my postdoc at Stuttgart I have not only familiarised myself with the cutting-edge methods of natural language processing (NLP) and machine learning, but also learned good practices of software development like testing and profiling Python code.
-Tübingen is not far from Stuttgart and it was possible to see Tübinger Stift, where Hegel, Hölderlin and Schelling studied and visit Hölderlinturm, where Friedrich Hölderlin once lived.</description>
+      <guid>http://localhost:1313/visits/stuttgart/</guid>
+      <description>&lt;p&gt;In 2020, I was a visiting scholar at the Institut für Maschinelle Sprachverarbeitung (Universität Stuttgart, Germany). During my postdoc at Stuttgart I have not only familiarised myself with the cutting-edge methods of natural language processing (NLP) and machine learning, but also learned good practices of software development like testing and profiling Python code.&lt;/p&gt;&#xA;&lt;p&gt;Tübingen is not far from Stuttgart and it was possible to see &lt;em&gt;Tübinger Stift&lt;/em&gt;, where Hegel, Hölderlin and Schelling studied and visit &lt;em&gt;Hölderlinturm&lt;/em&gt;, where Friedrich Hölderlin once lived.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The reuse of texts in Finnish newspapers and journals, 1771–1920</title>
-      <link>https://askonivala.github.io/publications/historical_methods/</link>
+      <link>http://localhost:1313/publications/historical_methods/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/historical_methods/</guid>
-      <description>The digital collections of newspapers have given rise to a growing interest in studying them with computational methods. This article contributes to this discussion by presenting a method for detecting text reuse in a large corpus of digitized texts. Empirically, the article is based on the corpus of newspapers and journals from the collection of the National Library of Finland. Often, digitized repositories offer only partial views of what actually was published in printed form.</description>
+      <guid>http://localhost:1313/publications/historical_methods/</guid>
+      <description>&lt;p&gt;The digital collections of newspapers have given rise to a growing interest in studying them with computational methods. This article contributes to this discussion by presenting a method for detecting text reuse in a large corpus of digitized texts. Empirically, the article is based on the corpus of newspapers and journals from the collection of the National Library of Finland. Often, digitized repositories offer only partial views of what actually was published in printed form. The Finnish collection is unique, however, since it covers all published issues up to the year 1920. This article has a two-fold objective: methodologically, it explores how computational methods can be developed so that text reuse can be effectively identified; empirically, the article concentrates on how the circulation of texts developed in Finland from the late eighteenth century to the early twentieth century and what this reveals about the transformation of public discourse in Finland. According to our results, the reuse of texts was an integral part of the press throughout the studied period, which, on the other hand, was part of a wider transnational practice.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Spreading News in 1904</title>
-      <link>https://askonivala.github.io/publications/bobrikov/</link>
+      <link>http://localhost:1313/publications/bobrikov/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/bobrikov/</guid>
-      <description>The assassination of Nikolay Bobrikov, the Governor-General of Finland, on 16 June 1904 was a turning point in Finnish history. It was reported in hundreds, if not thousands, of newspapers worldwide. This article follows the spread of that news, particularly its spread over the first week after the assassination. The study draws on the digital newspaper repositories in Australia, Austria, Denmark, Finland, France, Germany, Mexico, Sweden, the Netherlands and the United States.</description>
+      <guid>http://localhost:1313/publications/bobrikov/</guid>
+      <description>&lt;p&gt;The assassination of Nikolay Bobrikov, the Governor-General of Finland, on 16 June 1904 was a turning point in Finnish history. It was reported in hundreds, if not thousands, of newspapers worldwide. This article follows the spread of that news, particularly its spread over the first week after the assassination. The study draws on the digital newspaper repositories in Australia, Austria, Denmark, Finland, France, Germany, Mexico, Sweden, the Netherlands and the United States. It also draws on the microfilm and physical collections of Russian newspapers at the National Library of Finland. The article shows how the murder activated the telegram network and initiated a series of news waves. The routes the Bobrikov news travelled, their tempo and the evolution of related stories tell a story of a networked but biased global news scene. In that scene, technological, commercial and cultural factors simultaneously facilitated and controlled what stories reached which papers and how.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>NULab for Texts, Maps, and Networks</title>
-      <link>https://askonivala.github.io/visits/boston/</link>
+      <link>http://localhost:1313/visits/boston/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/visits/boston/</guid>
-      <description>From August to December 2019, I was a visiting scholar hosted by the NULab for Texts, Maps, and Networks and the Digital Scholarship Group. NULab was part of the Oceanic Exchanges consortium.
-The NULab has built significant expertise in many varieties computational humanities work, with colleagues in literary study, history, computer science, and the social sciences all contributing methodological and domain knowledge. Being a postdoc in this research community greatly benefited the cartographical aspects of my ROMCAR project.</description>
+      <guid>http://localhost:1313/visits/boston/</guid>
+      <description>&lt;p&gt;From August to December 2019, I was a visiting scholar &lt;a href=&#34;https://cssh.northeastern.edu/nulab/romantic-cartographies-visiting-speaker-nivala/&#34;&gt;hosted by the NULab for Texts, Maps, and Networks and the Digital Scholarship Group&lt;/a&gt;. NULab was part of the Oceanic Exchanges consortium.&lt;/p&gt;&#xA;&lt;p&gt;The NULab has built significant expertise in many varieties computational humanities work, with colleagues in literary study, history, computer science, and the social sciences all contributing methodological and domain knowledge. Being a postdoc in this research community greatly benefited the cartographical aspects of my &lt;a href=&#34;http://localhost:1313/projects/romcar/&#34;&gt;ROMCAR&lt;/a&gt; project.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>History and Virtual Topology</title>
-      <link>https://askonivala.github.io/publications/topology/</link>
+      <link>http://localhost:1313/publications/topology/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/topology/</guid>
-      <description>Drawing on a new materialist approach, this article discusses the concepts of the virtual and virtual topology, and their fruitfulness for historians’ empirical work. It starts by following Gilles Deleuze’s argument that the virtual, the transformative potential of the real, has to be distinguished from the possible, which is merely an imagined double of the given world. Embracing this premise, the article shows the potential of virtual topology to shed light on the transformation of a network in the past.</description>
+      <guid>http://localhost:1313/publications/topology/</guid>
+      <description>&lt;p&gt;Drawing on a new materialist approach, this article discusses the concepts of the virtual and virtual topology, and their fruitfulness for historians’ empirical work. It starts by following Gilles Deleuze’s argument that the virtual, the transformative potential of the real, has to be distinguished from the possible, which is merely an imagined double of the given world. Embracing this premise, the article shows the potential of virtual topology to shed light on the transformation of a network in the past. It suggests that history is not only about actual and stable things, it is also a site of becomings. This idea is elaborated through an analysis that focuses on the changes in the nineteenth-century Finnish press. The virtual as a theoretical concept is combined with the methodological opportunities offered by recent developments in the digital humanities, in this case, text reuse detection.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Forschungsschwerpunkt Historische Kulturwissenschaften</title>
-      <link>https://askonivala.github.io/visits/mainz/</link>
+      <link>http://localhost:1313/visits/mainz/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/visits/mainz/</guid>
-      <description>In 2017, I spend 4 months as a visiting fellow at Forschungsschwerpunkt Historische Kulturwissenschaften (HKW), Johannes Gutenberg-Universität Mainz, Germany. The research visit was part of my 3-years post doc at the Turku Institute for Advanced Studies (TIAS, University of Turku).
-My travel costs and accomodation in Mainz were funded by the Kone Foundation.</description>
+      <guid>http://localhost:1313/visits/mainz/</guid>
+      <description>&lt;p&gt;In 2017, I spend 4 months as a visiting fellow at &lt;em&gt;Forschungsschwerpunkt Historische Kulturwissenschaften&lt;/em&gt; (HKW), Johannes Gutenberg-Universität Mainz, Germany. The research visit was part of my 3-years post doc at the Turku Institute for Advanced Studies (TIAS, University of Turku).&lt;/p&gt;&#xA;&lt;p&gt;My travel costs and accomodation in Mainz were funded by the Kone Foundation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/kone_en.jpg&#34; alt=&#34;Kone Foundation&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Romantic Idea of the Golden Age in Friedrich Schlegel&#39;s Philosophy of History</title>
-      <link>https://askonivala.github.io/publications/schlegel-monograph/</link>
+      <link>http://localhost:1313/publications/schlegel-monograph/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/schlegel-monograph/</guid>
-      <description>Asko Nivala: The Romantic Idea of the Golden Age in Friedrich Schlegel&amp;rsquo;s Philosophy of History. Routledge, New York 2017, PREVIEW / ORDER.
-The nineteenth-century Romantic understanding of history is often confused with the longing for the past Golden Age. In this book, the Romantic idea of Golden Age is seen from a new angle by discussing it in the context of Friedrich Schlegel’s works. Interestingly, Schlegel argued that the concept of a past Golden Age in the beginning of history was itself a product of antiquity, imagined without any historical ground.</description>
+      <guid>http://localhost:1313/publications/schlegel-monograph/</guid>
+      <description>&lt;p&gt;Asko Nivala: &lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel&amp;rsquo;s Philosophy of History&lt;/em&gt;. Routledge, New York 2017, &lt;a href=&#34;https://books.google.de/books?id=jecNDgAAQBAJ&amp;amp;pg=PT0=#v=onepage&amp;amp;q&amp;amp;f=false&#34;&gt;PREVIEW&lt;/a&gt; / &lt;a href=&#34;https://www.routledge.com/The-Romantic-Idea-of-the-Golden-Age-in-Friedrich-Schlegels-Philosophy/Nivala/p/book/9781138635180&#34;&gt;ORDER&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The nineteenth-century Romantic understanding of history is often confused with the longing for the past Golden Age. In this book, the Romantic idea of Golden Age is seen from a new angle by discussing it in the context of Friedrich Schlegel’s works. Interestingly, Schlegel argued that the concept of a past Golden Age in the beginning of history was itself a product of antiquity, imagined without any historical ground. The Golden Age was not bygone for Schlegel, but to be produced in the future. His utopian vision of the Kingdom of God was related to the millenarian expectations of perpetual peace aroused by the revolutionary wars. Schlegel understood current era through the kairos concept, which emphasized the present possibilities for public agency. Thus history could not be reduced to any kind of pre-established pattern of redemption, for the future was determined only by the opportunities manifested in the present time.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Romantic Cartographies</title>
-      <link>https://askonivala.github.io/projects/romcar/</link>
+      <title>Romantic Cartographies: Lived and Imagined Space in English and German Romantic Texts, 1790–1840</title>
+      <link>http://localhost:1313/projects/romcar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/romcar/</guid>
-      <description>Lived and Imagined Space in English and German Romantic Texts, 1790–1840 PI: Asko Nivala. Academy of Finland Postdoctoral Researcher 2019-2022 Most texts are spatial implying a network of places. This was especially typical of the Romantic era (1790s–1840s) that was characterised by the growing interest in historical and natural sites. Romantic Cartographies is a digital humanities project that provides new interpretations on English and German Romantic texts by focusing on spatiality.</description>
+      <guid>http://localhost:1313/projects/romcar/</guid>
+      <description>&lt;h4 id=&#34;pi-asko-nivala&#34;&gt;PI: Asko Nivala&lt;/h4&gt;&#xA;&lt;p&gt;Most texts are spatial implying a network of places. This was especially typical of the Romantic era (1790s–1840s) that was characterised by the growing interest in historical and natural sites. &lt;a href=&#34;https://askonivala.github.io/romcar/&#34;&gt;&lt;em&gt;Romantic Cartographies&lt;/em&gt;&lt;/a&gt; was a digital humanities project that provided new interpretations on English and German Romantic texts by focusing on spatiality. It analysed the spatiality of Romantic texts by reconstructing the various maps they implied. The geoparsing method developed during the project enabled mining locational data from an exceptionally big textual corpus. The results of text mining was visualised as superimposed maps, which produced new knowledge about the relationship of centre and periphery, or urban and natural areas in Romanticism.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Computational History and the Transformation of Public Discourse in Finland, 1640–1910</title>
-      <link>https://askonivala.github.io/projects/comhis/</link>
+      <link>http://localhost:1313/projects/comhis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/comhis/</guid>
-      <description>PI: Prof. Hannu Salmi The consortium Computational History and the Transformation of Public Discourse in Finland, 1640–1910 (funded by the Academy of Finland programme on Digital Humanities, 2016–2019) is based on the cooperation of four partners: The Faculty of Humanities at the University of Helsinki, the Departments of Cultural History and Future Technologies at the University of Turku and the Centre for Preservation and Digitisation of the National Library of Finland.</description>
+      <guid>http://localhost:1313/projects/comhis/</guid>
+      <description>&lt;h4 id=&#34;pi-prof-hannu-salmi&#34;&gt;PI: Prof. Hannu Salmi&lt;/h4&gt;&#xA;&lt;p&gt;The consortium Computational History and the Transformation of Public Discourse in Finland, 1640–1910 (funded by the Academy of Finland programme on Digital Humanities, 2016–2019) is based on the cooperation of four partners: The Faculty of Humanities at the University of Helsinki, the Departments of Cultural History and Future Technologies at the University of Turku and the Centre for Preservation and Digitisation of the National Library of Finland. This brings together relevant complementary expertise on the research subject (eighteenth- and nineteenth-century history), methodology (computational sciences and language technology) and data (the preservation and enhancement of digital resources). The objective of the consortium is to reassess the scope, nature, development, and transnational connections of public discourse in Finland, 1640–1910.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Catastrophic Revolution and the Rise of Romantic Bildung</title>
-      <link>https://askonivala.github.io/publications/catastrophic/</link>
+      <link>http://localhost:1313/publications/catastrophic/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/catastrophic/</guid>
-      <description>Asko Nivala: &amp;ldquo;Catastrophic Revolution and the Rise of Romantic Bildung&amp;rdquo;, Travelling Notions of Culture in Early Nineteenth-Century Europe. Eds. Hannu Salmi, Asko Nivala, Jukka Sarjala. Routledge, New York 2015, pp. 19-37, PREVIEW / ORDER.
-I discuss the rise of Romantic &amp;lsquo;Bildung&amp;rsquo; at the turn of the nineteenth century with a special emphasis on Friedrich Schlegel, but referring also to other famous Romantics such as William Wordsworth and Novalis (Friedrich von Hardenberg, 1772–1801).</description>
+      <guid>http://localhost:1313/publications/catastrophic/</guid>
+      <description>&lt;p&gt;Asko Nivala: &amp;ldquo;Catastrophic Revolution and the Rise of Romantic Bildung&amp;rdquo;, &lt;em&gt;Travelling Notions of Culture in Early Nineteenth-Century Europe&lt;/em&gt;. Eds. Hannu Salmi, Asko Nivala, Jukka Sarjala. Routledge, New York 2015, pp. 19-37, PREVIEW / ORDER.&lt;/p&gt;&#xA;&lt;p&gt;I discuss the rise of Romantic &amp;lsquo;Bildung&amp;rsquo; at the turn of the nineteenth century with a special emphasis on Friedrich Schlegel, but referring also to other famous Romantics such as William Wordsworth and Novalis (Friedrich von Hardenberg, 1772–1801). First, I will outline the rise of Romantic &amp;lsquo;Bildung&amp;rsquo; in relation to the French Revolution, which was compared with a sublime natural disaster. Second, I will show how the Revolution was conceived in a spatial framework of the geographic ‘border’, which distanced one’s own country from the French turmoil. The third part of this chapter will argue that the early nineteenth-century Romantic juxtaposition of &amp;lsquo;Bildung&amp;rsquo; and &amp;lsquo;civilisation&amp;rsquo; was based on a rehabilitation of periphery (countryside) and semiperiphery (small medieval towns) as the sites of original national &amp;lsquo;Bildung&amp;rsquo;, against Paris as the universal centre of civilisation. This chapter will thus thematise a hidden tension in the Romantic concept of culture: its dual reference to (1) the ontological separation between nature’s mechanical necessity and human freedom, and (2) to the geographic borderlines and topographical differences between national cultures.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Travelling Notions of Culture in Early Nineteenth-Century Europe</title>
-      <link>https://askonivala.github.io/publications/travelling/</link>
+      <link>http://localhost:1313/publications/travelling/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/publications/travelling/</guid>
-      <description>Hannu Salmi, Asko Nivala, Jukka Sarjala (eds.): Travelling Notions of Culture in Early Nineteenth-Century Europe. Routledge, New York 2015, PREVIEW / ORDER.
-The notions of culture and civilization are at the heart of European self-image. This book focuses on how space and spatiality contributed to defining the concepts of culture and civilization and, conversely, what kind of spatial ramifications &amp;lsquo;culture&amp;rsquo; and &amp;lsquo;civilization&amp;rsquo; entailed. These questions have vital importance to the understanding of this formative period of modern Europe.</description>
+      <guid>http://localhost:1313/publications/travelling/</guid>
+      <description>&lt;p&gt;Hannu Salmi, Asko Nivala, Jukka Sarjala (eds.): &lt;em&gt;Travelling Notions of Culture in Early Nineteenth-Century Europe&lt;/em&gt;. Routledge, New York 2015, &lt;a href=&#34;https://books.google.de/books?id=LbPMCgAAQBAJ&amp;amp;printsec=frontcover#v=onepage&amp;amp;q&amp;amp;f=false&#34;&gt;PREVIEW&lt;/a&gt; / &lt;a href=&#34;https://www.routledge.com/Travelling-Notions-of-Culture-in-Early-Nineteenth-Century-Europe/Salmi-Nivala-Sarjala/p/book/9781138122437&#34;&gt;ORDER&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The notions of culture and civilization are at the heart of European self-image. This book focuses on how space and spatiality contributed to defining the concepts of culture and civilization and, conversely, what kind of spatial ramifications &amp;lsquo;culture&amp;rsquo; and &amp;lsquo;civilization&amp;rsquo; entailed. These questions have vital importance to the understanding of this formative period of modern Europe.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Golden Age in Friedrich Schlegel’s Philosophy of History</title>
-      <link>https://askonivala.github.io/projects/schlegel/</link>
+      <link>http://localhost:1313/projects/schlegel/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/schlegel/</guid>
-      <description>PI: Asko Nivala I defended my doctoral dissertation in 2015. It discussed the themes of the Golden Age and the Kingdom of God in Friedrich Schlegel’s (1772–1829) early thought. The project was funded by the Finnish Cultural Foundation and the Oskar Öflund Foundation. In the final stages of the research work, I was also working in the Travelling Notions of Culture project, funded by the Academy of Finland.
-A monograph based on my PhD dissertation was published in February 2017 with the title The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History.</description>
+      <guid>http://localhost:1313/projects/schlegel/</guid>
+      <description>&lt;h4 id=&#34;pi-asko-nivala&#34;&gt;PI: Asko Nivala&lt;/h4&gt;&#xA;&lt;p&gt;I defended my doctoral dissertation in 2015. It discussed the themes of the Golden Age and the Kingdom of God in Friedrich Schlegel’s (1772–1829) early thought. The project was funded by the Finnish Cultural Foundation and the Oskar Öflund Foundation. In the final stages of the research work, I was also working in the &lt;a href=&#34;https://www.utu.fi/fi/yksikot/hum/yksikot/kulttuurihistoria/tutkimus/Sivut/travelling_notions_of_culture.aspx&#34;&gt;&lt;em&gt;Travelling Notions of Culture&lt;/em&gt;&lt;/a&gt; project, funded by the Academy of Finland.&lt;/p&gt;&#xA;&lt;p&gt;A monograph based on my PhD dissertation was published in February 2017 with the title &lt;a href=&#34;http://localhost:1313/publications/schlegel-monograph/&#34;&gt;&lt;em&gt;The Romantic Idea of the Golden Age in Friedrich Schlegel’s Philosophy of History&lt;/em&gt;&lt;/a&gt;. In addition to that, I have published many research articles about Friedrich Schlegel.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Travelling Notions of Culture</title>
-      <link>https://askonivala.github.io/projects/travelling_project/</link>
+      <link>http://localhost:1313/projects/travelling_project/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/travelling_project/</guid>
-      <description>PI: Prof. Hannu Salmi The project Travelling Notions of Culture, funded by the Academy of Finland 2012–2016 and supervised by Prof. Hannu Salmi, studied the changing notions of culture by asking how spatial imagination contributed to defining the concepts of culture and civilisation in early nineteenth-century Europe.
-The research results of the project were published in the edited collection Travelling Notions of Culture in Early Nineteenth-Century Europe. Eds. Hannu Salmi, Asko Nivala, Jukka Sarjala.</description>
+      <guid>http://localhost:1313/projects/travelling_project/</guid>
+      <description>&lt;h4 id=&#34;pi-prof-hannu-salmi&#34;&gt;PI: Prof. Hannu Salmi&lt;/h4&gt;&#xA;&lt;p&gt;The project &lt;em&gt;Travelling Notions of Culture&lt;/em&gt;, funded by the Academy of Finland 2012–2016 and supervised by Prof. Hannu Salmi, studied the changing notions of culture by asking how spatial imagination contributed to defining the concepts of culture and civilisation in early nineteenth-century Europe.&lt;/p&gt;&#xA;&lt;p&gt;The research results of the project were published in the edited collection &lt;a href=&#34;http://localhost:1313/publications/travelling/&#34;&gt;&lt;em&gt;Travelling Notions of Culture in Early Nineteenth-Century Europe&lt;/em&gt;&lt;/a&gt;. Eds. Hannu Salmi, Asko Nivala, Jukka Sarjala. Routledge, New York 2015.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Aboagora</title>
-      <link>https://askonivala.github.io/projects/aboagora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://askonivala.github.io/projects/aboagora/</guid>
-      <description>In 2012–2013, I was working as the coordinator of Aboagora: Between Arts and Sciences and was responsible for the organisation of the multidisciplinary Aboagora symposium together with the organisational committee.
-Aboagora 2013: The Human Machine Abogora 2013: The Human Machine was organised on August 13-15 and focused on the complex relationships between man and machine. The keynote speakers were Bruce Sterling, Kevin Warwick, Mia Consalvo and Timo Airaksinen.
-Aboagora 2012: The Power of the Sacred and the Secular Abogora 2012: The Power of the Sacred and the Secular was held on August 14-16.</description>
+      <link>http://localhost:1313/projects/aboagora/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aboagora/</guid>
+      <description>&lt;p&gt;In 2012–2013, I was working as the coordinator of &lt;a href=&#34;http://aboagora.fi&#34;&gt;&lt;em&gt;Aboagora: Between Arts and Sciences&lt;/em&gt;&lt;/a&gt; and was responsible for the organisation of the multidisciplinary Aboagora symposium together with the organisational committee.&lt;/p&gt;&#xA;&lt;h4 id=&#34;aboagora-2013-the-human-machine&#34;&gt;Aboagora 2013: The Human Machine&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://aboagora.fi/past-events/aboagora-2013-the-human-machine/&#34;&gt;Abogora 2013: The Human Machine&lt;/a&gt; was organised on August 13-15 and focused on the complex relationships between man and machine. The keynote speakers were Bruce Sterling, Kevin Warwick, Mia Consalvo and Timo Airaksinen.&lt;/p&gt;&#xA;&lt;h4 id=&#34;aboagora-2012-the-power-of-the-sacred-and-the-secular&#34;&gt;Aboagora 2012: The Power of the Sacred and the Secular&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://aboagora.fi/past-events/aboagora-2012-the-power-of-the-sacred-and-the-secular/&#34;&gt;Abogora 2012: The Power of the Sacred and the Secular&lt;/a&gt; was held on August 14-16. I had a great pleasure to meet inspiring keynote speakers such as the philosopher Gianni Vattimo and the historian Miri Rubin.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
