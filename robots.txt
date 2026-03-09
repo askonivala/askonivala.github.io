@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://askonivala.github.io/sitemap.xml
+Disallow: /
